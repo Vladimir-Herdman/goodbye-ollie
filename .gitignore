@@ -3,3 +3,4 @@
 .LSOverride
 UserInterfaceState.xcuserstate
 .~lock*
+*.tmp
