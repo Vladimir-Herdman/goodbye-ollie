@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2026-05-06T22:18:00.969720000</meta:creation-date><dc:date>2026-06-28T22:32:30.489433000</dc:date><meta:editing-duration>P2DT20H46M40S</meta:editing-duration><meta:editing-cycles>89</meta:editing-cycles><meta:generator>LibreOffice/26.2.3.2$MacOSX_AARCH64 LibreOffice_project/70e089b17412e4cb7773e41413306b17a2328c34</meta:generator><dc:creator>Vladimir Herdman</dc:creator><meta:printed-by>Vladimir Herdman</meta:printed-by><meta:print-date>2026-06-28T22:20:15.210270000</meta:print-date><meta:document-statistic meta:table-count="0" meta:image-count="2" meta:object-count="0" meta:page-count="46" meta:paragraph-count="497" meta:word-count="3239" meta:character-count="18486" meta:non-whitespace-character-count="14175"/></office:meta>
+ <office:meta><meta:creation-date>2026-05-06T22:18:00.969720000</meta:creation-date><dc:date>2026-07-01T17:53:19.443445000</dc:date><meta:editing-duration>P2DT21H48S</meta:editing-duration><meta:editing-cycles>95</meta:editing-cycles><meta:generator>LibreOffice/26.2.3.2$MacOSX_AARCH64 LibreOffice_project/70e089b17412e4cb7773e41413306b17a2328c34</meta:generator><dc:creator>Vladimir Herdman</dc:creator><meta:printed-by>Vladimir Herdman</meta:printed-by><meta:print-date>2026-06-28T22:20:15.210270000</meta:print-date><meta:document-statistic meta:table-count="0" meta:image-count="2" meta:object-count="0" meta:page-count="47" meta:paragraph-count="524" meta:word-count="3442" meta:character-count="19485" meta:non-whitespace-character-count="14998"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">504670</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">268</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">443200</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">38135</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">19535</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11259</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">517871</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">268</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">504670</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">38402</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">524203</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13931</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">448169</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">443200</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">38134</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">462733</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">2</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">true</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">8411337</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">8583276</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
@@ -711,7 +711,16 @@
   <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="005dab1a" officeooo:paragraph-rsid="005eca10"/>
   </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties officeooo:rsid="00822e9c" officeooo:paragraph-rsid="00822e9c"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties officeooo:rsid="00822e9c" officeooo:paragraph-rsid="00823eae"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties officeooo:rsid="00823eae" officeooo:paragraph-rsid="00823eae"/>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false">
     <style:tab-stops>
      <style:tab-stop style:position="1.502in"/>
@@ -720,16 +729,16 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="0025510a" officeooo:paragraph-rsid="0025510a"/>
   </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Non-Poetry_20_Title">
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Non-Poetry_20_Title">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="007ebe25" officeooo:paragraph-rsid="007ebe25"/>
   </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="008058c9" officeooo:paragraph-rsid="008058c9"/>
   </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="0.4984in"/>
@@ -738,7 +747,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="007ebe25" officeooo:paragraph-rsid="007f0eed"/>
   </style:style>
-  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="0.4984in"/>
@@ -747,7 +756,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="007ebe25" officeooo:paragraph-rsid="007ebe25"/>
   </style:style>
-  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="0.4984in"/>
@@ -756,7 +765,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="007ebe25" officeooo:paragraph-rsid="008058c9"/>
   </style:style>
-  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="0076421b" officeooo:paragraph-rsid="0076421b"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -901,33 +910,39 @@
    <style:text-properties officeooo:rsid="005eca10"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties officeooo:rsid="0064fbc7"/>
+   <style:text-properties officeooo:rsid="00823eae"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties officeooo:rsid="007f0eed"/>
+   <style:text-properties officeooo:rsid="0064fbc7"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="007f0eed" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties officeooo:rsid="007f0eed"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="007f0eed" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="00822e9c"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="008058c9" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="007f0eed" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="008058c9" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007f0eed" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties officeooo:rsid="0077ec9b"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="008058c9" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties officeooo:rsid="0079dffc"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="008058c9" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties officeooo:rsid="007e2827"/>
+   <style:text-properties officeooo:rsid="0077ec9b"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
+   <style:text-properties officeooo:rsid="0079dffc"/>
+  </style:style>
+  <style:style style:name="T58" style:family="text">
+   <style:text-properties officeooo:rsid="007e2827"/>
+  </style:style>
+  <style:style style:name="T59" style:family="text">
    <style:text-properties officeooo:rsid="00766fde"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -1032,7 +1047,7 @@
     <text:p text:style-name="P1"><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5"/></text:p>
    </style:header>
    <style:header-left>
-    <text:p text:style-name="P2"><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 31"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 29"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 27"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 25"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 23"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 21"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 19"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 17"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 15"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 13"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 11"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 9"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 7"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered6 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 6"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 8"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 10"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 12"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 14"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 16"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 18"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 20"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 22"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 24"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 26"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 28"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 30"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 32"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1"/></text:p>
+    <text:p text:style-name="P2"><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 31"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 29"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 27"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 25"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 23"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 21"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 19"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 17"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 15"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 13"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 11"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 9"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 7"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered6 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 6"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 8"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 10"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 12"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 14"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 16"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 18"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 20"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 22"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 24"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 26"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 28"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 30"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 32"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1"/></text:p>
    </style:header-left>
   </style:master-page>
   <style:master-page style:name="HTML" style:page-layout-name="pm9" draw:style-name="dp1"/>
@@ -1047,7 +1062,7 @@
   </style:master-page>
   <style:master-page style:name="Poetry" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:header>
-    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_HEADER_Poetry11"/><text:page-number text:select-page="current">33</text:page-number><text:bookmark-end text:name="PageNumWizard_HEADER_Poetry11"/></text:p>
+    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_HEADER_Poetry11"/><text:page-number text:select-page="current">35</text:page-number><text:bookmark-end text:name="PageNumWizard_HEADER_Poetry11"/></text:p>
    </style:header>
    <style:header-left>
     <text:p text:style-name="P2"><text:bookmark-start text:name="PageNumWizard_HEADER_Poetry10"/><text:page-number text:select-page="current">34</text:page-number><text:bookmark-end text:name="PageNumWizard_HEADER_Poetry10"/></text:p>
@@ -1070,6 +1085,8 @@
      <text:p text:style-name="Comment">Current idea is to make it like a love letter/goodbye letter/collection of poems/like a last date.</text:p>
      <text:p text:style-name="Comment"/>
      <text:p text:style-name="Comment">For the cover page, make it like “Goodbye Ollie” and then below it “A collection of Maybe-Poems by Vladimir Tomasovitch Herdman”</text:p>
+     <text:p text:style-name="Comment"/>
+     <text:p text:style-name="Comment">I had some idea about the general flow at some point. First bit as much as can is goofy oneofs that are just odd, then do a sonnet or something with a twist or volta in it (not just a clown or not that funny anymore from notes), then do more serious stuff that’s a little sad, do the one that’s I confess to lead to happier times, as end of story goes to forgetting Oliver and moving on.</text:p>
      <text:p text:style-name="Comment"/>
     </office:annotation>GOODBYE OLLIE<text:span text:style-name="T1">­</text:span><office:annotation-end office:name="__Annotation__511_3572362212"/></text:p>
    <text:p text:style-name="P4"/>
@@ -1719,6 +1736,36 @@
    <text:p text:style-name="P83"><text:span text:style-name="T47">V</text:span>iolets are blue,</text:p>
    <text:p text:style-name="P83">Ollie, my bed—</text:p>
    <text:p text:style-name="P83">Just me and you.</text:p>
+   <text:p text:style-name="P50">I Confess I Confess</text:p>
+   <text:p text:style-name="P84"/>
+   <text:p text:style-name="P84">I confess I <text:span text:style-name="T48">fucking </text:span>hated you.</text:p>
+   <text:p text:style-name="P84">I confess I wanted to break up.</text:p>
+   <text:p text:style-name="P85">I confess your taste made me feel weird.</text:p>
+   <text:p text:style-name="P84">I confess I was embarrassed to tell my parents.</text:p>
+   <text:p text:style-name="P85">I confess I was scared to be with you in public.</text:p>
+   <text:p text:style-name="P84">I confess I used mouthwash after being with you.</text:p>
+   <text:p text:style-name="P86">I confess I didn’t have to leave early for work in the morning.</text:p>
+   <text:p text:style-name="P84">I confess I wanted you to break up with me, <text:span text:style-name="T48">so I changed</text:span>.</text:p>
+   <text:p text:style-name="P84"/>
+   <text:p text:style-name="P84">I confess</text:p>
+   <text:p text:style-name="P84">I— I confess</text:p>
+   <text:p text:style-name="P86">I confess I was wrong.</text:p>
+   <text:p text:style-name="P84">I confess I still love you,</text:p>
+   <text:p text:style-name="P84">that I loved you,</text:p>
+   <text:p text:style-name="P84">and that I didn’t fight enough.</text:p>
+   <text:p text:style-name="P86">I confess you stopped my lonliness.</text:p>
+   <text:p text:style-name="P84">I confess I should have tried harder,</text:p>
+   <text:p text:style-name="P84">that I didn’t know how to—</text:p>
+   <text:p text:style-name="P84">That I didn’t know how to feel.</text:p>
+   <text:p text:style-name="P84">I confess that it’s my fault <text:span text:style-name="T48">how</text:span> I end<text:span text:style-name="T48">ed</text:span> up,</text:p>
+   <text:p text:style-name="P84">and that I</text:p>
+   <text:p text:style-name="P84">threw it all away.</text:p>
+   <text:p text:style-name="P86">I confess I was confused, but not about us.</text:p>
+   <text:p text:style-name="P86">I confess I didn’t know until it was too late.</text:p>
+   <text:p text:style-name="P84"/>
+   <text:p text:style-name="P84">I confess I’m the problem.</text:p>
+   <text:p text:style-name="P85">I confess I’<text:span text:style-name="T48">ll </text:span>never get to confess to You.</text:p>
+   <text:p text:style-name="P86">I confess time turns everything into a regret.</text:p>
    <text:p text:style-name="P50"><text:bookmark-start text:name="__RefHeading___Toc1969_4086586558"/>Nothing Hurts<text:bookmark-end text:name="__RefHeading___Toc1969_4086586558"/></text:p>
    <text:p text:style-name="P83"/>
    <text:p text:style-name="P83">When I wake up at night, I can’t move.</text:p>
@@ -1764,7 +1811,7 @@
    <text:p text:style-name="P83">I don’t have your eyes.</text:p>
    <text:p text:style-name="P83">Hands reach outward</text:p>
    <text:p text:style-name="P83">and ruffle hair, grope</text:p>
-   <text:p text:style-name="P83">face, and pull <text:span text:style-name="T48">a</text:span> nose.</text:p>
+   <text:p text:style-name="P83">face, and pull <text:span text:style-name="T49">a</text:span> nose.</text:p>
    <text:p text:style-name="P83">It cracks my jaw and</text:p>
    <text:p text:style-name="P83">raises a chin, searching.</text:p>
    <text:p text:style-name="P83">Grip tighter the throat</text:p>
@@ -1812,7 +1859,7 @@
    <text:p text:style-name="P83">haunts me.</text:p>
    <text:p text:style-name="P83">Nothing.</text:p>
    <text:p text:style-name="P50"><text:bookmark-start text:name="__RefHeading___Toc776_3676532460"/>Goodbye Ollie,<text:bookmark-end text:name="__RefHeading___Toc776_3676532460"/></text:p>
-   <text:p text:style-name="P84"/>
+   <text:p text:style-name="P87"/>
    <text:p text:style-name="Poetry_20_Text">I feel utterly and irrefutably incapable of expressing myself fully within the bounds of the language I have grown up with. One of my greatest fears is that I am a wholly uni-faceted individual with no complex emotions and extreme predictability in my actions.</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">Maybe I’m not all that afraid of being unable to express myself, but that there’s nothing to express. I’m afraid of being nothing, that I have no dramatic knots in my living cords.</text:p>
@@ -1821,25 +1868,25 @@
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">Sincerely,</text:p>
    <text:p text:style-name="Poetry_20_Text">Vova</text:p>
-   <text:p text:style-name="P85"><text:bookmark-start text:name="__RefHeading___Toc1996_818021894"/>Acknowledgements<text:bookmark-end text:name="__RefHeading___Toc1996_818021894"/></text:p>
-   <text:p text:style-name="P86"/>
-   <text:p text:style-name="P86">My thanks to Jakob Hammond and Tyler Bond for putting up with me over the summer I worked on this, and for always offering good ideas towards improving what I had. This wouldn’t have <text:span text:style-name="T49">been</text:span> nearly <text:span text:style-name="T49">as</text:span> funny <text:span text:style-name="T49">a process</text:span> without your guy’s help, so thank you <text:span text:style-name="T49">for everything</text:span>.</text:p>
-   <text:p text:style-name="P86"/>
-   <text:p text:style-name="P87">And of course, a special thanks to the subject of all this poetry, the individual that all my writing was focused towards (and no one else), Oliver Hendricks. Thanks for allowing this to go down.</text:p>
-   <text:p text:style-name="P86"/>
-   <text:p text:style-name="P86">The following literary pieces were used as formatting and poetic reference through<text:span text:style-name="T49">out</text:span> the making of this book<text:span text:style-name="T49">. I hope my </text:span><text:span text:style-name="T31">reference</text:span><text:span text:style-name="T49"> </text:span><text:span text:style-name="T31">to</text:span><text:span text:style-name="T49"> their</text:span><text:span text:style-name="T31">s</text:span><text:span text:style-name="T49"> does no disservice to these great pieces of art </text:span><text:span text:style-name="T31">and their artists</text:span>:</text:p>
-   <text:p text:style-name="P88"><text:tab/><text:span text:style-name="T50">American Primitive</text:span><text:span text:style-name="T51">, </text:span><text:span text:style-name="T49">Mary Olliver</text:span></text:p>
-   <text:p text:style-name="P89"><text:tab/><text:span text:style-name="T52">Madness, Rack, and Honey</text:span><text:span text:style-name="T31">, Mary Ruefle</text:span></text:p>
-   <text:p text:style-name="P90"><text:tab/><text:span text:style-name="T50">milk and honey</text:span><text:span text:style-name="T51">, </text:span><text:span text:style-name="T53">R</text:span><text:span text:style-name="T49">upi </text:span><text:span text:style-name="T31">K</text:span><text:span text:style-name="T49">aur</text:span></text:p>
-   <text:p text:style-name="P90"><text:tab/><text:span text:style-name="T52">Of Tyrant</text:span><text:span text:style-name="T31">, Leah Umansky</text:span></text:p>
-   <text:p text:style-name="P85"><text:bookmark-start text:name="__RefHeading___Toc1994_818021894"/><office:annotation office:name="__Annotation__2421_818021894" loext:resolved="false">
+   <text:p text:style-name="P88"><text:bookmark-start text:name="__RefHeading___Toc1996_818021894"/>Acknowledgements<text:bookmark-end text:name="__RefHeading___Toc1996_818021894"/></text:p>
+   <text:p text:style-name="P89"/>
+   <text:p text:style-name="P89">My thanks to Jakob Hammond and Tyler Bond for putting up with me over the summer I worked on this, and for always offering good ideas towards improving what I had. This wouldn’t have <text:span text:style-name="T50">been</text:span> nearly <text:span text:style-name="T50">as</text:span> funny <text:span text:style-name="T50">a process</text:span> without your guy’s help, so thank you <text:span text:style-name="T50">for everything</text:span>.</text:p>
+   <text:p text:style-name="P89"/>
+   <text:p text:style-name="P90">And of course, a special thanks to the subject of all this poetry, the individual that all my writing was focused towards (and no one else), Oliver Hendricks. Thanks for allowing this to go down.</text:p>
+   <text:p text:style-name="P89"/>
+   <text:p text:style-name="P89">The following literary pieces were used as formatting reference <text:span text:style-name="T51">(front-matter, end-matter, all-matter...)</text:span> through<text:span text:style-name="T50">out</text:span> the making of this book<text:span text:style-name="T50">. I hope my </text:span><text:span text:style-name="T31">reference</text:span><text:span text:style-name="T50"> </text:span><text:span text:style-name="T31">to</text:span><text:span text:style-name="T50"> their</text:span><text:span text:style-name="T31">s</text:span><text:span text:style-name="T50"> does no disservice to these great pieces of art </text:span><text:span text:style-name="T31">and their artists</text:span>:</text:p>
+   <text:p text:style-name="P91"><text:tab/><text:span text:style-name="T52">American Primitive</text:span><text:span text:style-name="T53">, </text:span><text:span text:style-name="T50">Mary Olliver</text:span></text:p>
+   <text:p text:style-name="P92"><text:tab/><text:span text:style-name="T54">Madness, Rack, and Honey</text:span><text:span text:style-name="T31">, Mary Ruefle</text:span></text:p>
+   <text:p text:style-name="P93"><text:tab/><text:span text:style-name="T52">milk and honey</text:span><text:span text:style-name="T53">, </text:span><text:span text:style-name="T55">R</text:span><text:span text:style-name="T50">upi </text:span><text:span text:style-name="T31">K</text:span><text:span text:style-name="T50">aur</text:span></text:p>
+   <text:p text:style-name="P93"><text:tab/><text:span text:style-name="T54">Of Tyrant</text:span><text:span text:style-name="T31">, Leah Umansky</text:span></text:p>
+   <text:p text:style-name="P88"><text:bookmark-start text:name="__RefHeading___Toc1994_818021894"/><office:annotation office:name="__Annotation__2421_818021894" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-06-28T22:31:27.957773000</dc:date>
      <meta:creator-initials>VTH</meta:creator-initials>
      <text:p text:style-name="Comment">Place as last page double spread with ollie, so me left him right.</text:p>
     </office:annotation>About the Author<office:annotation-end office:name="__Annotation__2421_818021894"/><text:bookmark-end text:name="__RefHeading___Toc1994_818021894"/></text:p>
-   <text:p text:style-name="P91"/>
-   <text:p text:style-name="P91">Vladimir (Vova) Tomasovitch <draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="2.5402in" svg:y="-0.0161in" svg:width="1.75in" svg:height="2.1902in" draw:z-index="0"><draw:image draw:mime-type="image/jpeg">
+   <text:p text:style-name="P94"/>
+   <text:p text:style-name="P94">Vladimir (Vova) Tomasovitch <draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:x="2.5402in" svg:y="-0.0161in" svg:width="1.75in" svg:height="2.1902in" draw:z-index="0"><draw:image draw:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQEBXgFeAAD/4QHYRXhpZgAATU0AKgAAAAgACQEPAAIAAAAGAAAAegEQ
        AAIAAAAOAAAAgAESAAMAAAABAAEAAAEaAAUAAAABAAAAjgEbAAUAAAABAAAAlgEoAAMAAAAB
        AAIAAAExAAIAAAAUAAAAngEyAAIAAAAUAAAAsodpAAQAAAABAAAAxgAAAABDYW5vbgBDYW5v
@@ -31568,12 +31615,12 @@
        box5Cgd0CIEQCGVY8kA/Ypw5ggKLBvbCvbh67gQOs+Z+sgNIC6B//9k=
       </office:binary-data>
      </draw:image>
-    </draw:frame>Herdman is a <text:span text:style-name="T54">well-meaning </text:span>person from Northeast Ohio. At the time of publishing, he <text:span text:style-name="T55">is 21 years old and </text:span>has know<text:span text:style-name="T56">n</text:span> Oliver Hendricks for 3 years. <text:span text:style-name="T57">He may never write again.</text:span></text:p>
-   <text:p text:style-name="P91"/>
-   <text:p text:style-name="P91">If you’ve gotten this far, you know enough about me.</text:p>
-   <text:p text:style-name="P85"><text:bookmark-start text:name="__RefHeading___Toc1992_818021894"/>About the Muse<text:bookmark-end text:name="__RefHeading___Toc1992_818021894"/></text:p>
-   <text:p text:style-name="P91"/>
-   <text:p text:style-name="P91">Where do I even start… Oliver <draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="char" svg:x="2.602in" svg:y="-0.0118in" svg:width="1.75in" svg:height="1.9799in" draw:z-index="1"><draw:image draw:mime-type="image/jpeg">
+    </draw:frame>Herdman is a <text:span text:style-name="T56">well-meaning </text:span>person from Northeast Ohio. At the time of publishing, he <text:span text:style-name="T57">is 21 years old and </text:span>has know<text:span text:style-name="T58">n</text:span> Oliver Hendricks for 3 years. <text:span text:style-name="T59">He may never write again, </text:span><text:span text:style-name="T51">and apologizes for all you had to endure to reach this point</text:span><text:span text:style-name="T59">.</text:span></text:p>
+   <text:p text:style-name="P94"/>
+   <text:p text:style-name="P94">If you’ve gotten this far, you know enough about me.</text:p>
+   <text:p text:style-name="P88"><text:bookmark-start text:name="__RefHeading___Toc1992_818021894"/>About the Muse<text:bookmark-end text:name="__RefHeading___Toc1992_818021894"/></text:p>
+   <text:p text:style-name="P94"/>
+   <text:p text:style-name="P94">Where do I even start… Oliver <draw:frame draw:style-name="fr1" draw:name="Image2" text:anchor-type="char" svg:x="2.602in" svg:y="-0.0118in" svg:width="1.75in" svg:height="1.9799in" draw:z-index="1"><draw:image draw:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYbGNtcwQAAABtbnRy
        UkdCIFhZWiAH5gABAAEAAAAAAABhY3NwQVBQTAAAAABBUFBMAAAAAAAAAAAAAAAAAAAAAAAA
        9tYAAQAAAADTLWxjbXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -32424,9 +32471,9 @@
        cH4IABGBjoNjHaq51n4m2qJAo9aCL2jGUGzjz85wfuOPHQf/2Q==
       </office:binary-data>
      </draw:image>
-    </draw:frame>Hendricks was born in the year 2004 to… <text:span text:style-name="T57">Oh, just no more, please. I’ve </text:span><text:span text:style-name="T31">let out</text:span><text:span text:style-name="T57"> enough on him. He’s also a person, and I thought it’d be funny to make this and say it’s after him, </text:span><text:span text:style-name="T31">so that’s how this all started</text:span><text:span text:style-name="T57">.</text:span></text:p>
-   <text:p text:style-name="P91"/>
-   <text:p text:style-name="P91">If you’ve gotten this far, you <text:span text:style-name="T54">should</text:span> know even less about him. <text:span text:style-name="T57">Keep it that way, he’s mine.</text:span></text:p>
+    </draw:frame>Hendricks was born in the year 2004 to… <text:span text:style-name="T59">Oh, just no more, please. I’ve </text:span><text:span text:style-name="T31">let out</text:span><text:span text:style-name="T59"> enough on him. He’s also a person, and I thought it’d be funny to make this and say it’s after him, </text:span><text:span text:style-name="T31">so that’s how this all started</text:span><text:span text:style-name="T59">.</text:span></text:p>
+   <text:p text:style-name="P94"/>
+   <text:p text:style-name="P94">If you’ve gotten this far, you <text:span text:style-name="T56">should</text:span> know even less about him. <text:span text:style-name="T59">Keep it that way, he’s mine.</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
