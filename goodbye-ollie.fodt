@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2026-05-06T22:18:00.969720000</meta:creation-date><dc:date>2026-07-21T17:04:05.572527000</dc:date><meta:editing-duration>P3DT2H5M43S</meta:editing-duration><meta:editing-cycles>205</meta:editing-cycles><meta:generator>LibreOffice/26.2.3.2$MacOSX_AARCH64 LibreOffice_project/70e089b17412e4cb7773e41413306b17a2328c34</meta:generator><meta:printed-by>Vladimir Herdman</meta:printed-by><meta:print-date>2026-06-28T22:20:15.210270000</meta:print-date><dc:creator>Vladimir Herdman</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="3" meta:object-count="0" meta:page-count="80" meta:paragraph-count="1065" meta:word-count="5599" meta:character-count="31226" meta:non-whitespace-character-count="23436"/></office:meta>
+ <office:meta><meta:creation-date>2026-05-06T22:18:00.969720000</meta:creation-date><dc:date>2026-07-21T20:30:32.350034000</dc:date><meta:editing-duration>P3DT2H29M15S</meta:editing-duration><meta:editing-cycles>211</meta:editing-cycles><meta:generator>LibreOffice/26.2.3.2$MacOSX_AARCH64 LibreOffice_project/70e089b17412e4cb7773e41413306b17a2328c34</meta:generator><meta:printed-by>Vladimir Herdman</meta:printed-by><meta:print-date>2026-06-28T22:20:15.210270000</meta:print-date><dc:creator>Vladimir Herdman</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="3" meta:object-count="0" meta:page-count="81" meta:paragraph-count="1085" meta:word-count="5739" meta:character-count="32014" meta:non-whitespace-character-count="24039"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">266640</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">288383</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">41601</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">21929</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">52620</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">28838</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">22966</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">276287</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">30575</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">304156</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">266640</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">41600</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">288567</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">288383</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">52619</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">317220</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">2</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">true</config:config-item>
      <config:config-item config:name="ZoomFactor" config:type="short">55</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="WindowState" config:type="string">151,127,1209,759;1;,,,;</config:config-item>
+     <config:config-item config:name="WindowState" config:type="string">151,127,1209,759;1;0,0,1512,949;</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
      <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">10623598</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">10770957</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
@@ -647,140 +647,149 @@
   <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00a21a6e" officeooo:paragraph-rsid="00a21a6e"/>
   </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties officeooo:rsid="00a363b4" officeooo:paragraph-rsid="00a363b4"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties officeooo:rsid="00a45a0d" officeooo:paragraph-rsid="00a45a0d"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties officeooo:rsid="00a363b4" officeooo:paragraph-rsid="00a45a0d"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="005eca10"/>
   </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="005dab1a" officeooo:paragraph-rsid="005eca10"/>
   </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="005eca10" officeooo:paragraph-rsid="005eca10"/>
-  </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
-   <style:text-properties officeooo:rsid="0084ae75" officeooo:paragraph-rsid="0084ae75"/>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="005eca10" officeooo:paragraph-rsid="005eca10"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="00491cb3"/>
   </style:style>
   <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties officeooo:rsid="0084ae75" officeooo:paragraph-rsid="0084ae75"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="005eca10" officeooo:paragraph-rsid="005eca10"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
+   <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="00491cb3"/>
   </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
-   <style:text-properties officeooo:rsid="00491cb3" officeooo:paragraph-rsid="00491cb3"/>
-  </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
-   <style:text-properties officeooo:paragraph-rsid="00931e68"/>
-  </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0094d92d"/>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties officeooo:paragraph-rsid="00491cb3"/>
   </style:style>
   <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
-   <style:text-properties officeooo:paragraph-rsid="0094d92d"/>
+   <style:text-properties officeooo:rsid="00491cb3" officeooo:paragraph-rsid="00491cb3"/>
   </style:style>
   <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
-   <style:text-properties fo:font-style="italic" officeooo:paragraph-rsid="0094d92d" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties officeooo:paragraph-rsid="00931e68"/>
   </style:style>
   <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
    <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:rsid="00915c22" officeooo:paragraph-rsid="00915c22"/>
+   <style:text-properties officeooo:paragraph-rsid="0094d92d"/>
   </style:style>
   <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
-   <style:text-properties officeooo:rsid="004069c6" officeooo:paragraph-rsid="004069c6"/>
+   <style:text-properties officeooo:paragraph-rsid="0094d92d"/>
   </style:style>
   <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="004069c6" officeooo:paragraph-rsid="004069c6" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:paragraph-rsid="0094d92d" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
-   <style:text-properties officeooo:rsid="004069c6" officeooo:paragraph-rsid="0094d92d"/>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="00915c22" officeooo:paragraph-rsid="00915c22"/>
   </style:style>
   <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties officeooo:rsid="004069c6" officeooo:paragraph-rsid="004069c6"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="004069c6" officeooo:paragraph-rsid="004069c6" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+   <style:text-properties officeooo:rsid="004069c6" officeooo:paragraph-rsid="0094d92d"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="005b9724" officeooo:paragraph-rsid="005b9724"/>
   </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="0084ae75"/>
   </style:style>
-  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:paragraph-rsid="0084ae75"/>
   </style:style>
-  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:paragraph-rsid="0085f5b1"/>
   </style:style>
-  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="009ad610" officeooo:paragraph-rsid="009ad610"/>
   </style:style>
-  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="00931e68"/>
   </style:style>
-  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="007bd8ac" officeooo:paragraph-rsid="007bd8ac"/>
   </style:style>
-  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="007b2756" officeooo:paragraph-rsid="007bd8ac"/>
   </style:style>
-  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="007bd8ac" officeooo:paragraph-rsid="007d9716"/>
   </style:style>
-  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="004a6587" officeooo:paragraph-rsid="004a6587"/>
   </style:style>
-  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="004a6587" officeooo:paragraph-rsid="004bc2cc"/>
   </style:style>
-  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="004bc2cc" officeooo:paragraph-rsid="004bc2cc"/>
   </style:style>
-  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="004bc2cc" officeooo:paragraph-rsid="004bc2cc"/>
   </style:style>
-  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="00931e68" officeooo:paragraph-rsid="00931e68"/>
   </style:style>
-  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="005127df" officeooo:paragraph-rsid="005127df"/>
   </style:style>
-  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00527118" officeooo:paragraph-rsid="00527118"/>
   </style:style>
-  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00527118" officeooo:paragraph-rsid="008058c9"/>
   </style:style>
-  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:paragraph-rsid="005a4153"/>
   </style:style>
-  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00717efd" officeooo:paragraph-rsid="00717efd"/>
   </style:style>
-  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="0075a278" officeooo:paragraph-rsid="0075a278"/>
   </style:style>
-  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:paragraph-rsid="0075a278"/>
   </style:style>
-  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:paragraph-rsid="0075a278"/>
   </style:style>
-  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00527118" officeooo:paragraph-rsid="00598d06"/>
   </style:style>
-  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00598d06" officeooo:paragraph-rsid="00598d06"/>
   </style:style>
-  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00527118" officeooo:paragraph-rsid="00717efd"/>
   </style:style>
-  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Poetry_20_Text" style:master-page-name="">
+  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Poetry_20_Text" style:master-page-name="">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent">
     <style:tab-stops>
@@ -790,7 +799,7 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <loext:graphic-properties draw:fill="none"/>
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" fo:line-height="115%" fo:text-align="justify" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" fo:background-color="transparent">
     <style:tab-stops>
@@ -800,50 +809,50 @@
     </style:tab-stops>
    </style:paragraph-properties>
   </style:style>
-  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="0088b2c0" officeooo:paragraph-rsid="0088b2c0"/>
   </style:style>
-  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties fo:font-style="normal" officeooo:rsid="0088b2c0" officeooo:paragraph-rsid="0088b2c0" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:paragraph-rsid="008058c9"/>
   </style:style>
-  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00586a04" officeooo:paragraph-rsid="00586a04"/>
   </style:style>
-  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false"/>
   </style:style>
-  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00822e9c" officeooo:paragraph-rsid="00822e9c"/>
   </style:style>
-  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00822e9c" officeooo:paragraph-rsid="0083aec2"/>
   </style:style>
-  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00822e9c" officeooo:paragraph-rsid="00823eae"/>
   </style:style>
-  <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00823eae" officeooo:paragraph-rsid="00823eae"/>
   </style:style>
-  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="0083aec2" officeooo:paragraph-rsid="0083aec2"/>
   </style:style>
-  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
+  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Poetry_20_Title">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="008b375a" officeooo:paragraph-rsid="008b375a"/>
   </style:style>
-  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="008b375a" officeooo:paragraph-rsid="008b375a"/>
   </style:style>
-  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="008e4556" officeooo:paragraph-rsid="008e4556"/>
   </style:style>
-  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="00909a33" officeooo:paragraph-rsid="00909a33"/>
   </style:style>
-  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false">
     <style:tab-stops>
      <style:tab-stop style:position="1.502in"/>
@@ -852,19 +861,19 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="0025510a" officeooo:paragraph-rsid="0025510a"/>
   </style:style>
-  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Non-Poetry_20_Title" style:list-style-name="">
+  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Non-Poetry_20_Title" style:list-style-name="">
    <style:paragraph-properties fo:line-height="115%" fo:text-align="justify" style:justify-single-word="false" fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Non-Poetry_20_Title">
+  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Non-Poetry_20_Title">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="007ebe25" officeooo:paragraph-rsid="007ebe25"/>
   </style:style>
-  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="008058c9" officeooo:paragraph-rsid="008058c9"/>
   </style:style>
-  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="0.4984in"/>
@@ -873,7 +882,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="007ebe25" officeooo:paragraph-rsid="007f0eed"/>
   </style:style>
-  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="0.4984in"/>
@@ -882,7 +891,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="007ebe25" officeooo:paragraph-rsid="007ebe25"/>
   </style:style>
-  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="0.4984in"/>
@@ -891,7 +900,7 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:rsid="007ebe25" officeooo:paragraph-rsid="008058c9"/>
   </style:style>
-  <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
+  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Poetry_20_Text">
    <style:text-properties officeooo:rsid="0076421b" officeooo:paragraph-rsid="0076421b"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -994,132 +1003,135 @@
    <style:text-properties officeooo:rsid="009e255c"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties officeooo:rsid="009670d9"/>
+   <style:text-properties officeooo:rsid="00a45a0d"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties officeooo:rsid="004069c6"/>
+   <style:text-properties officeooo:rsid="009670d9"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties officeooo:rsid="00586a04"/>
+   <style:text-properties officeooo:rsid="004069c6"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties officeooo:rsid="005eca10"/>
+   <style:text-properties officeooo:rsid="00586a04"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties officeooo:rsid="0084ae75"/>
+   <style:text-properties officeooo:rsid="005eca10"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties officeooo:rsid="00491cb3"/>
+   <style:text-properties officeooo:rsid="0084ae75"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="009842a5" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties officeooo:rsid="00491cb3"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00915c22" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="009842a5" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00915c22" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties officeooo:rsid="005d9990"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties officeooo:rsid="005d8d2b"/>
+   <style:text-properties officeooo:rsid="005d9990"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties officeooo:rsid="005c22f2"/>
+   <style:text-properties officeooo:rsid="005d8d2b"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties officeooo:rsid="007bd8ac"/>
+   <style:text-properties officeooo:rsid="005c22f2"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties officeooo:rsid="007d9716"/>
+   <style:text-properties officeooo:rsid="007bd8ac"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties officeooo:rsid="004bc2cc"/>
+   <style:text-properties officeooo:rsid="007d9716"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties officeooo:rsid="008058c9"/>
+   <style:text-properties officeooo:rsid="004bc2cc"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties officeooo:rsid="005127df"/>
+   <style:text-properties officeooo:rsid="008058c9"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties officeooo:rsid="004ed849"/>
+   <style:text-properties officeooo:rsid="005127df"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties officeooo:rsid="005a4153"/>
+   <style:text-properties officeooo:rsid="004ed849"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties officeooo:rsid="0074c7fe"/>
+   <style:text-properties officeooo:rsid="005a4153"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties officeooo:rsid="0075a278"/>
+   <style:text-properties officeooo:rsid="0074c7fe"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties officeooo:rsid="0074dc4e"/>
+   <style:text-properties officeooo:rsid="0075a278"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties officeooo:rsid="00734c14"/>
+   <style:text-properties officeooo:rsid="0074dc4e"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties officeooo:rsid="00717efd"/>
+   <style:text-properties officeooo:rsid="00734c14"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties officeooo:rsid="0064cbdd"/>
+   <style:text-properties officeooo:rsid="00717efd"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="0094d92d" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties officeooo:rsid="0064cbdd"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties officeooo:rsid="00823eae"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0094d92d" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties officeooo:rsid="0083aec2"/>
+   <style:text-properties officeooo:rsid="00823eae"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="0084ae75" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties officeooo:rsid="0083aec2"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties officeooo:rsid="008c9214"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="0084ae75" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties officeooo:rsid="008e4556"/>
+   <style:text-properties officeooo:rsid="008c9214"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties officeooo:rsid="0064fbc7"/>
+   <style:text-properties officeooo:rsid="008e4556"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties officeooo:rsid="007f0eed"/>
+   <style:text-properties officeooo:rsid="0064fbc7"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties officeooo:rsid="00822e9c"/>
+   <style:text-properties officeooo:rsid="007f0eed"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="007f0eed" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties officeooo:rsid="00822e9c"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="007f0eed" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="007f0eed" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="008058c9" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="007f0eed" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties fo:font-style="normal" officeooo:rsid="008058c9" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="008058c9" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
-   <style:text-properties officeooo:rsid="0077ec9b"/>
+   <style:text-properties fo:font-style="normal" officeooo:rsid="008058c9" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T73" style:family="text">
-   <style:text-properties officeooo:rsid="0079dffc"/>
+   <style:text-properties officeooo:rsid="0077ec9b"/>
   </style:style>
   <style:style style:name="T74" style:family="text">
-   <style:text-properties officeooo:rsid="007e2827"/>
+   <style:text-properties officeooo:rsid="0079dffc"/>
   </style:style>
   <style:style style:name="T75" style:family="text">
-   <style:text-properties officeooo:rsid="00766fde"/>
+   <style:text-properties officeooo:rsid="007e2827"/>
   </style:style>
   <style:style style:name="T76" style:family="text">
+   <style:text-properties officeooo:rsid="00766fde"/>
+  </style:style>
+  <style:style style:name="T77" style:family="text">
    <style:text-properties officeooo:rsid="008827d4"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
@@ -1227,7 +1239,7 @@
     <text:p text:style-name="P1"><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5"/></text:p>
    </style:header>
    <style:header-left>
-    <text:p text:style-name="P2"><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 25"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 23"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 21"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 19"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 17"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 15"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 13"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 11"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 9"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 7"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 32"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 30"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 28"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 26"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 24"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 22"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 20"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 18"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 16"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 14"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 12"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 10"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 8"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 6"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered6 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 7"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 9"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 11"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 13"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 15"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 17"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 19"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 21"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 23"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 25"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 27"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 29"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 31"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 6"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 8"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 10"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 12"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 14"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 16"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 18"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 20"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 22"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 24"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1"/></text:p>
+    <text:p text:style-name="P2"><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 26"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 24"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 22"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 20"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 18"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 16"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 14"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 12"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 10"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 8"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 6"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 31"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 29"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 27"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 25"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 23"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 21"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 19"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 17"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 15"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 13"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 11"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 9"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 7"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered6 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 6"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 8"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 10"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 12"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 14"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 16"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 18"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 20"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 22"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 24"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 26"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 28"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 30"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 32"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 7"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 9"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 11"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 13"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 15"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 17"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 19"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 21"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 23"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 25"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1"/></text:p>
    </style:header-left>
   </style:master-page>
   <style:master-page style:name="HTML" style:page-layout-name="pm9" draw:style-name="dp1"/>
@@ -1242,7 +1254,7 @@
   </style:master-page>
   <style:master-page style:name="Poetry" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:header>
-    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_HEADER_Poetry11"/><text:page-number text:select-page="current">67</text:page-number><text:bookmark-end text:name="PageNumWizard_HEADER_Poetry11"/></text:p>
+    <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_HEADER_Poetry11"/><text:page-number text:select-page="current">69</text:page-number><text:bookmark-end text:name="PageNumWizard_HEADER_Poetry11"/></text:p>
    </style:header>
    <style:header-left>
     <text:p text:style-name="P2"><text:bookmark-start text:name="PageNumWizard_HEADER_Poetry10"/><text:page-number text:select-page="current">68</text:page-number><text:bookmark-end text:name="PageNumWizard_HEADER_Poetry10"/></text:p>
@@ -1748,6 +1760,9 @@
      <dc:date>2026-07-21T07:58:23.066682897</dc:date>
      <meta:creator-initials>VTH</meta:creator-initials>
      <text:p text:style-name="Comment">Draw like the spongebob patrick caveman era art.</text:p>
+     <text:p text:style-name="Comment"/>
+     <text:p text:style-name="Comment">Or, dickprint like a handprint, or footprint.</text:p>
+     <text:p text:style-name="Comment"/>
     </office:annotation>If <text:span text:style-name="T33">We</text:span> Cavemen<office:annotation-end office:name="__Annotation__4828_847930903"/></text:h>
    <text:p text:style-name="P61"/>
    <text:p text:style-name="P61">out hunt today</text:p>
@@ -1808,7 +1823,29 @@
    <text:h text:style-name="P50" text:outline-level="2">Just Two Cowboys Riding</text:h>
    <text:p text:style-name="P61"/>
    <text:p text:style-name="P61"/>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc782_3676532460"/>:<text:span text:style-name="T34">3</text:span><text:bookmark-end text:name="__RefHeading___Toc782_3676532460"/></text:h>
+   <text:h text:style-name="P50" text:outline-level="2">Give Up</text:h>
+   <text:p text:style-name="P63"/>
+   <text:p text:style-name="P63">The sun’ll blow up <text:s text:c="3"/><text:span text:style-name="T34"><text:s/></text:span>everyone will die <text:span text:style-name="T34"><text:s/></text:span><text:s text:c="3"/>heat death of the universe <text:s text:c="3"/><text:span text:style-name="T34"><text:s/>the earth&apos;s melting <text:s text:c="4"/></text:span>no jobs for the young <text:s/><text:span text:style-name="T34"><text:s/></text:span><text:s text:c="2"/>you’re art’s shit <text:span text:style-name="T34"><text:s/></text:span><text:s text:c="3"/>lost your youth <text:s/><text:span text:style-name="T34"><text:s/></text:span><text:s text:c="2"/>they aren’t thinking of you <text:s/><text:span text:style-name="T34"><text:s/></text:span><text:s text:c="2"/>haven’t called your mom enough <text:s text:c="2"/><text:span text:style-name="T34"><text:s/></text:span><text:s/>not enough food <text:span text:style-name="T34"><text:s/></text:span><text:s text:c="3"/>your coworkers think you’re weird <text:s text:c="3"/><text:span text:style-name="T34"><text:s/></text:span>you’re not funny <text:span text:style-name="T34"><text:s/></text:span><text:s text:c="3"/><text:span text:style-name="T34">have you improved in the last three months <text:s text:c="4"/>can you even write <text:s text:c="4"/>where&apos;s the heart <text:s text:c="4"/>I don&apos;t think you&apos;re taking this seriously <text:s text:c="4"/></text:span>the double spread dick page was too crass<text:span text:style-name="T34"> and didn&apos;t have any actual meaning.</text:span></text:p>
+   <text:p text:style-name="P63"><text:line-break/>Motherfucker<text:span text:style-name="T34"> I&apos;m just ass.</text:span></text:p>
+   <text:p text:style-name="P63"><text:span text:style-name="T34">W</text:span>hen did it became the norm</text:p>
+   <text:p text:style-name="P63">to <text:span text:style-name="T34">be special around here</text:span>?</text:p>
+   <text:p text:style-name="P63">Can a guy</text:p>
+   <text:p text:style-name="P63">just be<text:span text:style-name="T34"> </text:span>average—</text:p>
+   <text:p text:style-name="P64">do I have</text:p>
+   <text:p text:style-name="P64">to redefine</text:p>
+   <text:p text:style-name="P64">the game</text:p>
+   <text:p text:style-name="P64">on every page?</text:p>
+   <text:p text:style-name="P64">Must my love</text:p>
+   <text:p text:style-name="P64">be that special</text:p>
+   <text:p text:style-name="P64">no one</text:p>
+   <text:p text:style-name="P64">can relate?</text:p>
+   <text:p text:style-name="P64">If I&apos;m not unique,</text:p>
+   <text:p text:style-name="P64">am I even me?</text:p>
+   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P63">You’re enough,</text:p>
+   <text:p text:style-name="P63">even if</text:p>
+   <text:p text:style-name="P63">I’m not.</text:p>
+   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc782_3676532460"/>:<text:span text:style-name="T35">3</text:span><text:bookmark-end text:name="__RefHeading___Toc782_3676532460"/></text:h>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">(-_-)zzz</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
@@ -1824,13 +1861,13 @@
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text"><text:s text:c="15"/>(づ￣ ³￣)づ <text:s text:c="10"/>☜(ﾟヮﾟ☜)</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="15"/><text:span text:style-name="T35">/ (,,-_-,,) / &lt;</text:span><text:span text:style-name="T34">3 (✿◠‿◠)</text:span></text:p>
+   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="15"/><text:span text:style-name="T36">/ (,,-_-,,) / &lt;</text:span><text:span text:style-name="T35">3 (✿◠‿◠)</text:span></text:p>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="30"/><text:span text:style-name="T35">/ (,,-_-,,) / &lt;</text:span><text:span text:style-name="T34">3 (✿◠‿◠)</text:span></text:p>
+   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="30"/><text:span text:style-name="T36">/ (,,-_-,,) / &lt;</text:span><text:span text:style-name="T35">3 (✿◠‿◠)</text:span></text:p>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="48"/><text:span text:style-name="T35">/ (,,-_-,,) / &lt;</text:span><text:span text:style-name="T34">3 (✿◠</text:span></text:p>
+   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="48"/><text:span text:style-name="T36">/ (,,-_-,,) / &lt;</text:span><text:span text:style-name="T35">3 (✿◠</text:span></text:p>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="66"/><text:span text:style-name="T35">/ (,,-_-</text:span><text:span text:style-name="T34">)</text:span></text:p>
+   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="66"/><text:span text:style-name="T36">/ (,,-_-</text:span><text:span text:style-name="T35">)</text:span></text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>(._.)</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
@@ -1839,57 +1876,57 @@
    <text:p text:style-name="Poetry_20_Text"><text:s text:c="2"/>ヽ(´ー｀)ﾉ</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text"><text:span text:style-name="T29">( </text:span>ˊ＿&gt;ˋ <text:span text:style-name="T29">)</text:span></text:p>
-   <text:h text:style-name="P63" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1125_1230340041 Copy 1"/>Instagramification<text:span text:style-name="T36"> </text:span>– <text:span text:style-name="T37">A Classic</text:span><text:bookmark-end text:name="__RefHeading___Toc1125_1230340041 Copy 1"/></text:h>
-   <text:p text:style-name="P64"/>
-   <text:p text:style-name="P64"><text:span text:style-name="T38">r</text:span>oses are red,</text:p>
-   <text:p text:style-name="P64"><text:span text:style-name="T38">vi</text:span>olets are blue,</text:p>
-   <text:p text:style-name="P64"><text:span text:style-name="T38">o</text:span>llie, my bed—</text:p>
-   <text:p text:style-name="P64"><text:span text:style-name="T38">j</text:span>ust me and you.</text:p>
+   <text:h text:style-name="P66" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1125_1230340041 Copy 1"/>Instagramification<text:span text:style-name="T37"> </text:span>– <text:span text:style-name="T38">A Classic</text:span><text:bookmark-end text:name="__RefHeading___Toc1125_1230340041 Copy 1"/></text:h>
+   <text:p text:style-name="P67"/>
+   <text:p text:style-name="P67"><text:span text:style-name="T39">r</text:span>oses are red,</text:p>
+   <text:p text:style-name="P67"><text:span text:style-name="T39">vi</text:span>olets are blue,</text:p>
+   <text:p text:style-name="P67"><text:span text:style-name="T39">o</text:span>llie, my bed—</text:p>
+   <text:p text:style-name="P67"><text:span text:style-name="T39">j</text:span>ust me and you.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1331_3007704144"/><office:annotation office:name="__Annotation__1492_1230340041" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-06-16T21:39:50.354253000</dc:date>
      <meta:creator-initials>VTH</meta:creator-initials>
      <text:p text:style-name="Comment">Make it a dick joke.</text:p>
     </office:annotation>Rising Action<office:annotation-end office:name="__Annotation__1492_1230340041"/><text:bookmark-end text:name="__RefHeading___Toc1331_3007704144"/></text:h>
-   <text:p text:style-name="P65"/>
-   <text:p text:style-name="P66"/>
-   <text:h text:style-name="P67" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1329_3007704144"/><office:annotation office:name="__Annotation__1467_1230340041" loext:resolved="false">
+   <text:p text:style-name="P68"/>
+   <text:p text:style-name="P69"/>
+   <text:h text:style-name="P70" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1329_3007704144"/><office:annotation office:name="__Annotation__1467_1230340041" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-06-16T21:39:14.486307000</dc:date>
      <meta:creator-initials>VTH</meta:creator-initials>
      <text:p text:style-name="Comment">Base off ‘She Was Brand’ by E. E. Cummins.</text:p>
     </office:annotation>Climax<office:annotation-end office:name="__Annotation__1467_1230340041"/><text:bookmark-end text:name="__RefHeading___Toc1329_3007704144"/></text:h>
-   <text:p text:style-name="P65"/>
-   <text:p text:style-name="P65"/>
-   <text:h text:style-name="P68" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc784_3676532460"/>What Have I Done<text:bookmark-end text:name="__RefHeading___Toc784_3676532460"/></text:h>
-   <text:p text:style-name="P69"/>
-   <text:p text:style-name="P69"/>
-   <text:p text:style-name="P69"/>
-   <text:p text:style-name="P69"/>
-   <text:p text:style-name="P69"><text:s text:c="8"/><text:span text:style-name="T39">a <text:s text:c="47"/>ft <text:s text:c="31"/>s <text:s/>h</text:span></text:p>
-   <text:p text:style-name="P70"><text:s text:c="2"/>wh <text:s text:c="3"/>t <text:s/>do I e <text:s text:c="2"/>en <text:s text:c="2"/>s ay to y o <text:s/>u <text:s/>a <text:s text:c="2"/>er <text:s text:c="30"/>am e</text:p>
-   <text:p text:style-name="P70">suc h <text:s/>a m <text:s text:c="6"/>v <text:s text:c="2"/>I’v e <text:s text:c="6"/>ad e. My hea rt we t <text:s text:c="14"/>on th e</text:p>
-   <text:p text:style-name="P70"><text:s text:c="5"/>agai nst ess <text:s text:c="16"/>m <text:s text:c="20"/>o <text:s/>c <text:s text:c="27"/>w a</text:p>
-   <text:p text:style-name="P70"><text:s text:c="16"/>th e <text:s text:c="5"/>an <text:s text:c="3"/>I <text:s text:c="10"/>try in g <text:s text:c="2"/>t <text:s text:c="5"/>le <text:s text:c="29"/>l</text:p>
-   <text:p text:style-name="P70"><text:s text:c="20"/>w <text:s text:c="7"/>d <text:s text:c="5"/>c <text:s text:c="30"/>an <text:s text:c="29"/>l</text:p>
-   <text:p text:style-name="P70"><text:s text:c="19"/>a <text:s text:c="18"/>an <text:s text:c="30"/>up</text:p>
-   <text:p text:style-name="P70"><text:s text:c="18"/>l <text:s text:c="22"/>‘t <text:s text:c="33"/>.</text:p>
-   <text:p text:style-name="P70"><text:s text:c="20"/>l <text:s text:c="21"/>s</text:p>
-   <text:p text:style-name="P70"><text:s text:c="45"/>to</text:p>
-   <text:p text:style-name="P70"><text:s text:c="50"/>p</text:p>
-   <text:p text:style-name="P70"/>
-   <text:p text:style-name="P70"/>
-   <text:p text:style-name="P70"><text:s text:c="65"/>We t an</text:p>
-   <text:p text:style-name="P70"><text:s text:c="76"/>d</text:p>
-   <text:p text:style-name="P70"><text:s text:c="73"/>dr I p</text:p>
-   <text:p text:style-name="P70"><text:s text:c="81"/>pin g</text:p>
-   <text:p text:style-name="P70"><text:s text:c="65"/>do w</text:p>
-   <text:p text:style-name="P70"><text:s text:c="73"/>n <text:s text:c="2"/>t h</text:p>
-   <text:p text:style-name="P70"><text:s text:c="83"/>e</text:p>
-   <text:p text:style-name="P70"><text:s text:c="81"/>p</text:p>
-   <text:p text:style-name="P70"><text:s text:c="84"/>a</text:p>
-   <text:p text:style-name="P70"><text:s text:c="82"/>g</text:p>
-   <text:p text:style-name="P70"><text:s text:c="88"/>e</text:p>
+   <text:p text:style-name="P68"/>
+   <text:p text:style-name="P68"/>
+   <text:h text:style-name="P71" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc784_3676532460"/>What Have I Done<text:bookmark-end text:name="__RefHeading___Toc784_3676532460"/></text:h>
+   <text:p text:style-name="P72"/>
+   <text:p text:style-name="P72"/>
+   <text:p text:style-name="P72"/>
+   <text:p text:style-name="P72"/>
+   <text:p text:style-name="P72"><text:s text:c="8"/><text:span text:style-name="T40">a <text:s text:c="47"/>ft <text:s text:c="31"/>s <text:s/>h</text:span></text:p>
+   <text:p text:style-name="P73"><text:s text:c="2"/>wh <text:s text:c="3"/>t <text:s/>do I e <text:s text:c="2"/>en <text:s text:c="2"/>s ay to y o <text:s/>u <text:s/>a <text:s text:c="2"/>er <text:s text:c="30"/>am e</text:p>
+   <text:p text:style-name="P73">suc h <text:s/>a m <text:s text:c="6"/>v <text:s text:c="2"/>I’v e <text:s text:c="6"/>ad e. My hea rt we t <text:s text:c="14"/>on th e</text:p>
+   <text:p text:style-name="P73"><text:s text:c="5"/>agai nst ess <text:s text:c="16"/>m <text:s text:c="20"/>o <text:s/>c <text:s text:c="27"/>w a</text:p>
+   <text:p text:style-name="P73"><text:s text:c="16"/>th e <text:s text:c="5"/>an <text:s text:c="3"/>I <text:s text:c="10"/>try in g <text:s text:c="2"/>t <text:s text:c="5"/>le <text:s text:c="29"/>l</text:p>
+   <text:p text:style-name="P73"><text:s text:c="20"/>w <text:s text:c="7"/>d <text:s text:c="5"/>c <text:s text:c="30"/>an <text:s text:c="29"/>l</text:p>
+   <text:p text:style-name="P73"><text:s text:c="19"/>a <text:s text:c="18"/>an <text:s text:c="30"/>up</text:p>
+   <text:p text:style-name="P73"><text:s text:c="18"/>l <text:s text:c="22"/>‘t <text:s text:c="33"/>.</text:p>
+   <text:p text:style-name="P73"><text:s text:c="20"/>l <text:s text:c="21"/>s</text:p>
+   <text:p text:style-name="P73"><text:s text:c="45"/>to</text:p>
+   <text:p text:style-name="P73"><text:s text:c="50"/>p</text:p>
+   <text:p text:style-name="P73"/>
+   <text:p text:style-name="P73"/>
+   <text:p text:style-name="P73"><text:s text:c="65"/>We t an</text:p>
+   <text:p text:style-name="P73"><text:s text:c="76"/>d</text:p>
+   <text:p text:style-name="P73"><text:s text:c="73"/>dr I p</text:p>
+   <text:p text:style-name="P73"><text:s text:c="81"/>pin g</text:p>
+   <text:p text:style-name="P73"><text:s text:c="65"/>do w</text:p>
+   <text:p text:style-name="P73"><text:s text:c="73"/>n <text:s text:c="2"/>t h</text:p>
+   <text:p text:style-name="P73"><text:s text:c="83"/>e</text:p>
+   <text:p text:style-name="P73"><text:s text:c="81"/>p</text:p>
+   <text:p text:style-name="P73"><text:s text:c="84"/>a</text:p>
+   <text:p text:style-name="P73"><text:s text:c="82"/>g</text:p>
+   <text:p text:style-name="P73"><text:s text:c="88"/>e</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1327_3007704144"/>Clean Up The Mess<text:bookmark-end text:name="__RefHeading___Toc1327_3007704144"/></text:h>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">No matter how much you wipe,</text:p>
@@ -1921,12 +1958,12 @@
    <text:p text:style-name="Poetry_20_Text">disgusting things</text:p>
    <text:p text:style-name="Poetry_20_Text">together.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1325_3007704144"/>Guilt Comes For Us All<text:bookmark-end text:name="__RefHeading___Toc1325_3007704144"/></text:h>
-   <text:p text:style-name="P65"/>
-   <text:p text:style-name="P65"/>
+   <text:p text:style-name="P68"/>
+   <text:p text:style-name="P68"/>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1323_3007704144"/>Must I Grow Forever<text:bookmark-end text:name="__RefHeading___Toc1323_3007704144"/></text:h>
-   <text:p text:style-name="P65"/>
-   <text:p text:style-name="P65"/>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc8146_1175081228"/><text:span text:style-name="T28">Remember back in the August of ‘24 when we <text:s/>met face-to-face and how It was o</text:span><text:span text:style-name="T29">ur first minicamp together as a team and </text:span><text:span text:style-name="T28">we sat on a couch near each other and I couldn’t build up the courage to speak to you proper, so I just sat and listened and smiled and kept introducing myself to everyone who came by who asked me who I was? I spoke louder near you because I wanted you to hear me, I wanted you to know I was around and that I was someone to talk to, but a</text:span><text:span text:style-name="T29">ll I </text:span><text:span text:style-name="T28">could</text:span><text:span text:style-name="T29"> think </text:span><text:span text:style-name="T28">about when you got closer was</text:span><text:span text:style-name="T29"> how much funnier I want</text:span><text:span text:style-name="T28">ed</text:span><text:span text:style-name="T29"> to be around you, how if I was just a little funnier, I’d have everything I ever wanted and more,</text:span> <text:span text:style-name="T28">how if I was a little smarter, I’d always say the right thing and be charming and be desired, </text:span>and <text:span text:style-name="T28">now </text:span><text:span text:style-name="T29">I’m screaming with </text:span><text:span text:style-name="T40">gusto</text:span><text:span text:style-name="T29"> at the walls begging for another </text:span><text:span text:style-name="T28">chance</text:span><text:span text:style-name="T29">, but memory’s a fickle liar and will tell you </text:span><text:span text:style-name="T28">everything</text:span><text:span text:style-name="T29"> you never heard. </text:span><text:span text:style-name="T28">I’m stuck here thinking of what I’d have done different while</text:span><text:span text:style-name="T29"> <text:s/></text:span>all <text:span text:style-name="T28">you’re</text:span> ask<text:span text:style-name="T28">ing</text:span> <text:span text:style-name="T28">me </text:span>now is<text:bookmark-end text:name="__RefHeading___Toc8146_1175081228"/></text:h>
+   <text:p text:style-name="P68"/>
+   <text:p text:style-name="P68"/>
+   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc8146_1175081228"/><text:span text:style-name="T28">Remember back in the August of ‘24 when we <text:s/>met face-to-face and how It was o</text:span><text:span text:style-name="T29">ur first minicamp together as a team and </text:span><text:span text:style-name="T28">we sat on a couch near each other and I couldn’t build up the courage to speak to you proper, so I just sat and listened and smiled and kept introducing myself to everyone who came by who asked me who I was? I spoke louder near you because I wanted you to hear me, I wanted you to know I was around and that I was someone to talk to, but a</text:span><text:span text:style-name="T29">ll I </text:span><text:span text:style-name="T28">could</text:span><text:span text:style-name="T29"> think </text:span><text:span text:style-name="T28">about when you got closer was</text:span><text:span text:style-name="T29"> how much funnier I want</text:span><text:span text:style-name="T28">ed</text:span><text:span text:style-name="T29"> to be around you, how if I was just a little funnier, I’d have everything I ever wanted and more,</text:span> <text:span text:style-name="T28">how if I was a little smarter, I’d always say the right thing and be charming and be desired, </text:span>and <text:span text:style-name="T28">now </text:span><text:span text:style-name="T29">I’m screaming with </text:span><text:span text:style-name="T41">gusto</text:span><text:span text:style-name="T29"> at the walls begging for another </text:span><text:span text:style-name="T28">chance</text:span><text:span text:style-name="T29">, but memory’s a fickle liar and will tell you </text:span><text:span text:style-name="T28">everything</text:span><text:span text:style-name="T29"> you never heard. </text:span><text:span text:style-name="T28">I’m stuck here thinking of what I’d have done different while</text:span><text:span text:style-name="T29"> <text:s/></text:span>all <text:span text:style-name="T28">you’re</text:span> ask<text:span text:style-name="T28">ing</text:span> <text:span text:style-name="T28">me </text:span>now is<text:bookmark-end text:name="__RefHeading___Toc8146_1175081228"/></text:h>
    <text:p text:style-name="P54"/>
    <text:p text:style-name="P54">Who the fuck is Gusto?</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6579_3499536570"/>Did You Think Of Me Today<text:bookmark-end text:name="__RefHeading___Toc6579_3499536570"/></text:h>
@@ -1935,7 +1972,7 @@
    <text:p text:style-name="Poetry_20_Text">was it to the light of a sun?</text:p>
    <text:p text:style-name="Poetry_20_Text">Did it remind you of</text:p>
    <text:p text:style-name="Poetry_20_Text">anyone</text:p>
-   <text:p text:style-name="P71">in</text:p>
+   <text:p text:style-name="P74">in</text:p>
    <text:p text:style-name="Poetry_20_Text">particular?</text:p>
    <text:p text:style-name="Poetry_20_Text">The first thought through your head,</text:p>
    <text:p text:style-name="Poetry_20_Text">the first course of energy</text:p>
@@ -1960,121 +1997,121 @@
    <text:p text:style-name="Poetry_20_Text">while they were away.</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">I know <text:span text:style-name="T28">who</text:span> wakes me up.</text:p>
-   <text:h text:style-name="P72" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6585_3499536570"/><office:annotation office:name="__Annotation__7823_1175081228" loext:resolved="false">
+   <text:h text:style-name="P75" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6585_3499536570"/><office:annotation office:name="__Annotation__7823_1175081228" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-07-19T12:56:32.413983000</dc:date>
      <meta:creator-initials>VTH</meta:creator-initials>
      <text:p text:style-name="Comment">TODO: I like the double pagers starting on the left page, and this one hits harder if you flip to it from the last one, so remember to align this one <text:s/>as a double.</text:p>
      <text:p text:style-name="Comment"/>
     </office:annotation>That Last Poem<office:annotation-end office:name="__Annotation__7823_1175081228"/> Was A Fucking Lie<text:bookmark-end text:name="__RefHeading___Toc6585_3499536570"/></text:h>
-   <text:p text:style-name="P73"/>
-   <text:p text:style-name="P73">I mean,</text:p>
-   <text:p text:style-name="P73">let&apos;s be honest here,</text:p>
-   <text:p text:style-name="P73">who&apos;s ever woken up</text:p>
-   <text:p text:style-name="P73">to a</text:p>
-   <text:p text:style-name="P73">a</text:p>
-   <text:p text:style-name="P73">a thought that&apos;s carried them.</text:p>
-   <text:p text:style-name="P73">I don&apos;t just get up after 8 hours,</text:p>
+   <text:p text:style-name="P76"/>
+   <text:p text:style-name="P76">I mean,</text:p>
+   <text:p text:style-name="P76">let&apos;s be honest here,</text:p>
+   <text:p text:style-name="P76">who&apos;s ever woken up</text:p>
+   <text:p text:style-name="P76">to a</text:p>
+   <text:p text:style-name="P76">a</text:p>
+   <text:p text:style-name="P76">a thought that&apos;s carried them.</text:p>
+   <text:p text:style-name="P76">I don&apos;t just get up after 8 hours,</text:p>
    <text:p text:style-name="P49">with a clear goal in mind,</text:p>
    <text:p text:style-name="P49">or a thought carried through the night,</text:p>
-   <text:p text:style-name="P73">and it&apos;s cause I got <text:span text:style-name="T27">a condition</text:span>:</text:p>
-   <text:p text:style-name="P73">S.</text:p>
-   <text:p text:style-name="P73">B.</text:p>
-   <text:p text:style-name="P73">S.</text:p>
-   <text:p text:style-name="P73"/>
-   <text:p text:style-name="P73">That&apos;s right—</text:p>
-   <text:p text:style-name="P73">Small Bladder Syndrome.</text:p>
-   <text:p text:style-name="P73">I wake up</text:p>
-   <text:p text:style-name="P74"><text:s text:c="3"/>at least</text:p>
-   <text:p text:style-name="P73">once or twice a night,</text:p>
-   <text:p text:style-name="P73">and I&apos;m not thinking</text:p>
-   <text:p text:style-name="P73">about someone</text:p>
-   <text:p text:style-name="P73">in the dark while</text:p>
-   <text:p text:style-name="P73">I grope around</text:p>
-   <text:p text:style-name="P73">some place I&apos;ve seen</text:p>
-   <text:p text:style-name="P73">a thousand times,</text:p>
+   <text:p text:style-name="P76">and it&apos;s cause I got <text:span text:style-name="T27">a condition</text:span>:</text:p>
+   <text:p text:style-name="P76">S.</text:p>
+   <text:p text:style-name="P76">B.</text:p>
+   <text:p text:style-name="P76">S.</text:p>
+   <text:p text:style-name="P76"/>
+   <text:p text:style-name="P76">That&apos;s right—</text:p>
+   <text:p text:style-name="P76">Small Bladder Syndrome.</text:p>
+   <text:p text:style-name="P76">I wake up</text:p>
+   <text:p text:style-name="P77"><text:s text:c="3"/>at least</text:p>
+   <text:p text:style-name="P76">once or twice a night,</text:p>
+   <text:p text:style-name="P76">and I&apos;m not thinking</text:p>
+   <text:p text:style-name="P76">about someone</text:p>
+   <text:p text:style-name="P76">in the dark while</text:p>
+   <text:p text:style-name="P76">I grope around</text:p>
+   <text:p text:style-name="P76">some place I&apos;ve seen</text:p>
+   <text:p text:style-name="P76">a thousand times,</text:p>
    <text:p text:style-name="P49">but for some reason now</text:p>
    <text:p text:style-name="P49">it’s like I’ve never</text:p>
    <text:p text:style-name="P49">been here.</text:p>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P49"><text:soft-page-break/>Blind in the dark,</text:p>
-   <text:p text:style-name="P73">I’<text:span text:style-name="T27">m</text:span> reaching out,</text:p>
-   <text:p text:style-name="P73">shaking</text:p>
-   <text:p text:style-name="P73">at every touch,</text:p>
-   <text:p text:style-name="P73">scared <text:span text:style-name="T27">of if</text:span> I’<text:span text:style-name="T27">ll</text:span> bump my head,</text:p>
+   <text:p text:style-name="P76">I’<text:span text:style-name="T27">m</text:span> reaching out,</text:p>
+   <text:p text:style-name="P76">shaking</text:p>
+   <text:p text:style-name="P76">at every touch,</text:p>
+   <text:p text:style-name="P76">scared <text:span text:style-name="T27">of if</text:span> I’<text:span text:style-name="T27">ll</text:span> bump my head,</text:p>
    <text:p text:style-name="P49">scared of</text:p>
-   <text:p text:style-name="P73">if these hands could</text:p>
-   <text:p text:style-name="P73">touch you,</text:p>
-   <text:p text:style-name="P73"><text:span text:style-name="T27">Still </text:span>afraid</text:p>
+   <text:p text:style-name="P76">if these hands could</text:p>
+   <text:p text:style-name="P76">touch you,</text:p>
+   <text:p text:style-name="P76"><text:span text:style-name="T27">Still </text:span>afraid</text:p>
    <text:p text:style-name="P49">I <text:s text:c="2"/>I</text:p>
-   <text:p text:style-name="P73">I&apos;m afraid they would not sing.</text:p>
-   <text:p text:style-name="P73">I&apos;m afraid they would lie limp</text:p>
-   <text:p text:style-name="P73">at my side</text:p>
-   <text:p text:style-name="P73">and remind <text:span text:style-name="T27">me</text:span> why I don&apos;t like</text:p>
-   <text:p text:style-name="P73">to think of You.</text:p>
-   <text:p text:style-name="P73"/>
-   <text:p text:style-name="P73">I need to use the restroom.</text:p>
-   <text:p text:style-name="P73">Please,</text:p>
-   <text:p text:style-name="P73">just,</text:p>
-   <text:p text:style-name="P73">let me go alone;</text:p>
-   <text:p text:style-name="P73">Let me use the bathroom</text:p>
+   <text:p text:style-name="P76">I&apos;m afraid they would not sing.</text:p>
+   <text:p text:style-name="P76">I&apos;m afraid they would lie limp</text:p>
+   <text:p text:style-name="P76">at my side</text:p>
+   <text:p text:style-name="P76">and remind <text:span text:style-name="T27">me</text:span> why I don&apos;t like</text:p>
+   <text:p text:style-name="P76">to think of You.</text:p>
+   <text:p text:style-name="P76"/>
+   <text:p text:style-name="P76">I need to use the restroom.</text:p>
+   <text:p text:style-name="P76">Please,</text:p>
+   <text:p text:style-name="P76">just,</text:p>
+   <text:p text:style-name="P76">let me go alone;</text:p>
+   <text:p text:style-name="P76">Let me use the bathroom</text:p>
    <text:p text:style-name="P49">in this darkness</text:p>
-   <text:p text:style-name="P73">without you in the way.</text:p>
-   <text:p text:style-name="P73">My bladder&apos;s small,</text:p>
-   <text:p text:style-name="P73">smaller than you think,</text:p>
-   <text:p text:style-name="P73">and it does better</text:p>
-   <text:p text:style-name="P73">holding it all in</text:p>
-   <text:p text:style-name="P73">when You aren&apos;t</text:p>
-   <text:p text:style-name="P73"><text:span text:style-name="T27">here</text:span>.</text:p>
-   <text:h text:style-name="P75" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6581_3499536570"/>Eating Pearls<text:bookmark-end text:name="__RefHeading___Toc6581_3499536570"/></text:h>
-   <text:p text:style-name="P76"/>
-   <text:p text:style-name="P76">Your teeth</text:p>
-   <text:p text:style-name="P76">shine out of your head</text:p>
-   <text:p text:style-name="P76">and into mine,</text:p>
-   <text:p text:style-name="P76">and every night,</text:p>
-   <text:p text:style-name="P76">you share your wisdom</text:p>
-   <text:p text:style-name="P76">with me.</text:p>
-   <text:p text:style-name="P76"/>
+   <text:p text:style-name="P76">without you in the way.</text:p>
+   <text:p text:style-name="P76">My bladder&apos;s small,</text:p>
+   <text:p text:style-name="P76">smaller than you think,</text:p>
+   <text:p text:style-name="P76">and it does better</text:p>
+   <text:p text:style-name="P76">holding it all in</text:p>
+   <text:p text:style-name="P76">when You aren&apos;t</text:p>
+   <text:p text:style-name="P76"><text:span text:style-name="T27">here</text:span>.</text:p>
+   <text:h text:style-name="P78" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6581_3499536570"/>Eating Pearls<text:bookmark-end text:name="__RefHeading___Toc6581_3499536570"/></text:h>
+   <text:p text:style-name="P79"/>
+   <text:p text:style-name="P79">Your teeth</text:p>
+   <text:p text:style-name="P79">shine out of your head</text:p>
+   <text:p text:style-name="P79">and into mine,</text:p>
+   <text:p text:style-name="P79">and every night,</text:p>
+   <text:p text:style-name="P79">you share your wisdom</text:p>
+   <text:p text:style-name="P79">with me.</text:p>
+   <text:p text:style-name="P79"/>
    <text:p text:style-name="P49">I can’t see your face,</text:p>
-   <text:p text:style-name="P76"><text:span text:style-name="T27">but </text:span>You are</text:p>
-   <text:p text:style-name="P76">giving me pearls</text:p>
-   <text:p text:style-name="P76"><text:s text:c="4"/><text:span text:style-name="T41">b</text:span><text:span text:style-name="T42">oy</text:span></text:p>
-   <text:p text:style-name="P76">my father says,</text:p>
-   <text:p text:style-name="P76">spitting on the earth,</text:p>
-   <text:p text:style-name="P77"><text:s text:c="4"/>I&apos;m giving you pearls, boy</text:p>
-   <text:p text:style-name="P76">and it&apos;s too bright</text:p>
-   <text:p text:style-name="P76">to see his face,</text:p>
+   <text:p text:style-name="P79"><text:span text:style-name="T27">but </text:span>You are</text:p>
+   <text:p text:style-name="P79">giving me pearls</text:p>
+   <text:p text:style-name="P79"><text:s text:c="4"/><text:span text:style-name="T42">b</text:span><text:span text:style-name="T43">oy</text:span></text:p>
+   <text:p text:style-name="P79">my father says,</text:p>
+   <text:p text:style-name="P79">spitting on the earth,</text:p>
+   <text:p text:style-name="P80"><text:s text:c="4"/>I&apos;m giving you pearls, boy</text:p>
+   <text:p text:style-name="P79">and it&apos;s too bright</text:p>
+   <text:p text:style-name="P79">to see his face,</text:p>
    <text:p text:style-name="P49">but you</text:p>
    <text:p text:style-name="P49">don’t like</text:p>
    <text:p text:style-name="P49">my eyes open,</text:p>
-   <text:p text:style-name="P78">so I’<text:span text:style-name="T27">ll</text:span> <text:span text:style-name="T27">have to</text:span></text:p>
-   <text:p text:style-name="P78"><text:span text:style-name="T27">eat your </text:span>wisdom</text:p>
-   <text:p text:style-name="P76">eyes wide</text:p>
-   <text:p text:style-name="P76">shut.</text:p>
+   <text:p text:style-name="P81">so I’<text:span text:style-name="T27">ll</text:span> <text:span text:style-name="T27">have to</text:span></text:p>
+   <text:p text:style-name="P81"><text:span text:style-name="T27">eat your </text:span>wisdom</text:p>
+   <text:p text:style-name="P79">eyes wide</text:p>
+   <text:p text:style-name="P79">shut.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1313_3007704144"/>Clouds<text:bookmark-end text:name="__RefHeading___Toc1313_3007704144"/></text:h>
-   <text:p text:style-name="P79"/>
-   <text:p text:style-name="P79">I&apos;ve caught myself</text:p>
-   <text:p text:style-name="P79">looking out towards the horizon</text:p>
-   <text:p text:style-name="P79">at clouds, big ones—</text:p>
-   <text:p text:style-name="P79">so sharp their silhouette—</text:p>
-   <text:p text:style-name="P79">just staring.</text:p>
-   <text:p text:style-name="P79"/>
-   <text:p text:style-name="P79">I wonder if</text:p>
-   <text:p text:style-name="P79">that is what mountains</text:p>
-   <text:p text:style-name="P79">look like</text:p>
-   <text:p text:style-name="P79">from far away.</text:p>
-   <text:p text:style-name="P79"/>
-   <text:p text:style-name="P79">I just want to keep looking.</text:p>
-   <text:p text:style-name="P79">I want to keep wondering if <text:s text:c="2"/>if <text:s text:c="6"/>if</text:p>
-   <text:p text:style-name="P79">what I see is what I&apos;ll get,</text:p>
-   <text:p text:style-name="P79"><text:span text:style-name="T43">if</text:span> there’s <text:span text:style-name="T43">so much more</text:span> out there.</text:p>
-   <text:p text:style-name="P79"/>
-   <text:p text:style-name="P79">I want <text:s text:c="2"/>I want</text:p>
-   <text:p text:style-name="P79">I want to keep looking</text:p>
-   <text:p text:style-name="P79">at <text:span text:style-name="T44">those</text:span> <text:span text:style-name="T44">distant</text:span> clouds</text:p>
-   <text:p text:style-name="P79"><text:span text:style-name="T44">until </text:span>they disappear when</text:p>
-   <text:p text:style-name="P79">I <text:span text:style-name="T43">forget to stare</text:span><text:span text:style-name="T45">.</text:span></text:p>
-   <text:p text:style-name="P79"/>
+   <text:p text:style-name="P82"/>
+   <text:p text:style-name="P82">I&apos;ve caught myself</text:p>
+   <text:p text:style-name="P82">looking out towards the horizon</text:p>
+   <text:p text:style-name="P82">at clouds, big ones—</text:p>
+   <text:p text:style-name="P82">so sharp their silhouette—</text:p>
+   <text:p text:style-name="P82">just staring.</text:p>
+   <text:p text:style-name="P82"/>
+   <text:p text:style-name="P82">I wonder if</text:p>
+   <text:p text:style-name="P82">that is what mountains</text:p>
+   <text:p text:style-name="P82">look like</text:p>
+   <text:p text:style-name="P82">from far away.</text:p>
+   <text:p text:style-name="P82"/>
+   <text:p text:style-name="P82">I just want to keep looking.</text:p>
+   <text:p text:style-name="P82">I want to keep wondering if <text:s text:c="2"/>if <text:s text:c="6"/>if</text:p>
+   <text:p text:style-name="P82">what I see is what I&apos;ll get,</text:p>
+   <text:p text:style-name="P82"><text:span text:style-name="T44">if</text:span> there’s <text:span text:style-name="T44">so much more</text:span> out there.</text:p>
+   <text:p text:style-name="P82"/>
+   <text:p text:style-name="P82">I want <text:s text:c="2"/>I want</text:p>
+   <text:p text:style-name="P82">I want to keep looking</text:p>
+   <text:p text:style-name="P82">at <text:span text:style-name="T45">those</text:span> <text:span text:style-name="T45">distant</text:span> clouds</text:p>
+   <text:p text:style-name="P82"><text:span text:style-name="T45">until </text:span>they disappear when</text:p>
+   <text:p text:style-name="P82">I <text:span text:style-name="T44">forget to stare</text:span><text:span text:style-name="T46">.</text:span></text:p>
+   <text:p text:style-name="P82"/>
    <text:p text:style-name="P57">I want to know</text:p>
    <text:p text:style-name="P57">if you’re looking</text:p>
    <text:p text:style-name="P57">at the same sky</text:p>
@@ -2082,37 +2119,37 @@
    <text:p text:style-name="P57"/>
    <text:p text:style-name="P57">If we’re lost</text:p>
    <text:p text:style-name="P57">in the same clouds.</text:p>
-   <text:h text:style-name="P80" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2553_4237564503"/>The <text:span text:style-name="T38">Boulder</text:span> (2024)<text:bookmark-end text:name="__RefHeading___Toc2553_4237564503"/></text:h>
-   <text:p text:style-name="P81"/>
-   <text:p text:style-name="P81">It wondered</text:p>
-   <text:p text:style-name="P81">how many times before</text:p>
-   <text:p text:style-name="P81">it had been stopped in its path,</text:p>
-   <text:p text:style-name="P81">how many times the bigger rock</text:p>
-   <text:p text:style-name="P81">had eventually crumbled</text:p>
-   <text:p text:style-name="P81"><text:span text:style-name="T38">a</text:span>nd the lesser rock</text:p>
-   <text:p text:style-name="P81">became,</text:p>
-   <text:p text:style-name="P81">how many times</text:p>
-   <text:p text:style-name="P81">it had been blocked</text:p>
-   <text:p text:style-name="P81">and merely waited until it could continue.</text:p>
-   <text:p text:style-name="P81">Not many had the gift</text:p>
-   <text:p text:style-name="P81">to be able to wait,</text:p>
-   <text:p text:style-name="P81">but it did not know this.</text:p>
-   <text:p text:style-name="P81">The nameless would forget it ever was,</text:p>
-   <text:p text:style-name="P81">and will start anew.</text:p>
-   <text:p text:style-name="P81">And again. <text:s text:c="2"/>And again. <text:s text:c="5"/>And again.</text:p>
-   <text:p text:style-name="P81">The marks of its journey,</text:p>
-   <text:p text:style-name="P81">its only experience,</text:p>
-   <text:p text:style-name="P81">will line its surface,</text:p>
-   <text:p text:style-name="P81">holding the understanding <text:span text:style-name="T38">it</text:span></text:p>
-   <text:p text:style-name="P81"><text:span text:style-name="T38">will</text:span> not remember,</text:p>
-   <text:p text:style-name="P81">always shown but never seen.</text:p>
-   <text:p text:style-name="P81">This knowledge will be shared</text:p>
-   <text:p text:style-name="P81">to the first that encounter it.</text:p>
-   <text:p text:style-name="P81">And yes,</text:p>
-   <text:p text:style-name="P82">it will share the word immemorial.</text:p>
-   <text:p text:style-name="P81">It would share the word</text:p>
-   <text:p text:style-name="P81">with any</text:p>
-   <text:p text:style-name="P81">who would understand.</text:p>
+   <text:h text:style-name="P83" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2553_4237564503"/>The <text:span text:style-name="T39">Boulder</text:span> (2024)<text:bookmark-end text:name="__RefHeading___Toc2553_4237564503"/></text:h>
+   <text:p text:style-name="P84"/>
+   <text:p text:style-name="P84">It wondered</text:p>
+   <text:p text:style-name="P84">how many times before</text:p>
+   <text:p text:style-name="P84">it had been stopped in its path,</text:p>
+   <text:p text:style-name="P84">how many times the bigger rock</text:p>
+   <text:p text:style-name="P84">had eventually crumbled</text:p>
+   <text:p text:style-name="P84"><text:span text:style-name="T39">a</text:span>nd the lesser rock</text:p>
+   <text:p text:style-name="P84">became,</text:p>
+   <text:p text:style-name="P84">how many times</text:p>
+   <text:p text:style-name="P84">it had been blocked</text:p>
+   <text:p text:style-name="P84">and merely waited until it could continue.</text:p>
+   <text:p text:style-name="P84">Not many had the gift</text:p>
+   <text:p text:style-name="P84">to be able to wait,</text:p>
+   <text:p text:style-name="P84">but it did not know this.</text:p>
+   <text:p text:style-name="P84">The nameless would forget it ever was,</text:p>
+   <text:p text:style-name="P84">and will start anew.</text:p>
+   <text:p text:style-name="P84">And again. <text:s text:c="2"/>And again. <text:s text:c="5"/>And again.</text:p>
+   <text:p text:style-name="P84">The marks of its journey,</text:p>
+   <text:p text:style-name="P84">its only experience,</text:p>
+   <text:p text:style-name="P84">will line its surface,</text:p>
+   <text:p text:style-name="P84">holding the understanding <text:span text:style-name="T39">it</text:span></text:p>
+   <text:p text:style-name="P84"><text:span text:style-name="T39">will</text:span> not remember,</text:p>
+   <text:p text:style-name="P84">always shown but never seen.</text:p>
+   <text:p text:style-name="P84">This knowledge will be shared</text:p>
+   <text:p text:style-name="P84">to the first that encounter it.</text:p>
+   <text:p text:style-name="P84">And yes,</text:p>
+   <text:p text:style-name="P85">it will share the word immemorial.</text:p>
+   <text:p text:style-name="P84">It would share the word</text:p>
+   <text:p text:style-name="P84">with any</text:p>
+   <text:p text:style-name="P84">who would understand.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc8142_1175081228"/><office:annotation office:name="__Annotation__7657_1175081228" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-07-19T12:51:16.683779000</dc:date>
@@ -2120,71 +2157,71 @@
      <text:p text:style-name="Comment">TODO: Make it like a sonnet, with a volta at the end to go ‘I’m not feeling funny anymore’</text:p>
      <text:p text:style-name="Comment"/>
     </office:annotation>No More M<office:annotation-end office:name="__Annotation__7657_1175081228"/>r. Funny Guy<text:bookmark-end text:name="__RefHeading___Toc8142_1175081228"/></text:h>
-   <text:p text:style-name="P83"/>
-   <text:p text:style-name="P83"/>
-   <text:h text:style-name="P84" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6577_3499536570"/><office:annotation office:name="__Annotation__3211_3499536570" loext:resolved="false">
+   <text:p text:style-name="P86"/>
+   <text:p text:style-name="P86"/>
+   <text:h text:style-name="P87" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6577_3499536570"/><office:annotation office:name="__Annotation__3211_3499536570" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-07-18T19:34:58.421688000</dc:date>
      <meta:creator-initials>VTH</meta:creator-initials>
      <text:p text:style-name="Comment">Middle, more dull, starting to forget. Enter some sadder as it comes in, or greyer, some spaced out bits, but not completely forgotten.</text:p>
      <text:p text:style-name="Comment"/>
     </office:annotation>Oliver From Memory<office:annotation-end office:name="__Annotation__3211_3499536570"/><text:bookmark-end text:name="__RefHeading___Toc6577_3499536570"/></text:h>
-   <text:p text:style-name="P71"/>
-   <text:p text:style-name="P71"/>
+   <text:p text:style-name="P74"/>
+   <text:p text:style-name="P74"/>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2000_818021894"/>Never Have I Ever<text:bookmark-end text:name="__RefHeading___Toc2000_818021894"/></text:h>
    <text:p text:style-name="P51"/>
    <text:p text:style-name="P51">Never have I ever</text:p>
    <text:p text:style-name="P51">gotten fucked up at a party. OH YEAH!.</text:p>
    <text:p text:style-name="P51">Never have I ever</text:p>
    <text:p text:style-name="P51">broken someone’s table at a RAGER!</text:p>
-   <text:p text:style-name="P85">Never have I ever</text:p>
-   <text:p text:style-name="P85">wanted to drink ‘till I PUKE!</text:p>
-   <text:p text:style-name="P85">Never have I ever</text:p>
-   <text:p text:style-name="P85">wanted a hangover. UH huh.</text:p>
+   <text:p text:style-name="P88">Never have I ever</text:p>
+   <text:p text:style-name="P88">wanted to drink ‘till I PUKE!</text:p>
+   <text:p text:style-name="P88">Never have I ever</text:p>
+   <text:p text:style-name="P88">wanted a hangover. UH huh.</text:p>
    <text:p text:style-name="P51">Never have I ever</text:p>
-   <text:p text:style-name="P51">ignored a phone call. <text:span text:style-name="T46">cool</text:span>.</text:p>
-   <text:p text:style-name="P85">Never have I ever</text:p>
-   <text:p text:style-name="P85">stayed home to be alone.</text:p>
-   <text:p text:style-name="P86">Never have I ever</text:p>
-   <text:p text:style-name="P86">made a mistake.</text:p>
+   <text:p text:style-name="P51">ignored a phone call. <text:span text:style-name="T47">cool</text:span>.</text:p>
+   <text:p text:style-name="P88">Never have I ever</text:p>
+   <text:p text:style-name="P88">stayed home to be alone.</text:p>
+   <text:p text:style-name="P89">Never have I ever</text:p>
+   <text:p text:style-name="P89">made a mistake.</text:p>
    <text:p text:style-name="P51">Never have I ever</text:p>
    <text:p text:style-name="P51">promised to change.</text:p>
    <text:p text:style-name="P51">Never have I ever</text:p>
-   <text:p text:style-name="P51"><text:span text:style-name="T46">hid</text:span> something <text:span text:style-name="T47">to fit in</text:span>.</text:p>
+   <text:p text:style-name="P51"><text:span text:style-name="T47">hid</text:span> something <text:span text:style-name="T48">to fit in</text:span>.</text:p>
    <text:p text:style-name="P51">Never have I ever</text:p>
    <text:p text:style-name="P51">regretted a decision.</text:p>
-   <text:p text:style-name="P85">Never have I ever</text:p>
-   <text:p text:style-name="P85"><text:s text:c="2"/>felt like I wanted to speak to you</text:p>
-   <text:p text:style-name="P85"><text:s text:c="2"/>been the good one all alone</text:p>
-   <text:p text:style-name="P85"><text:s text:c="2"/>told you everything you mean to me</text:p>
-   <text:p text:style-name="P87"><text:s text:c="2"/><text:span text:style-name="T47">dreamt</text:span> of a face I should <text:span text:style-name="T47">forget</text:span></text:p>
-   <text:p text:style-name="P85"><text:s text:c="2"/><text:span text:style-name="T47">mean everything I say—</text:span></text:p>
-   <text:p text:style-name="P85"><text:s text:c="2"/></text:p>
+   <text:p text:style-name="P88">Never have I ever</text:p>
+   <text:p text:style-name="P88"><text:s text:c="2"/>felt like I wanted to speak to you</text:p>
+   <text:p text:style-name="P88"><text:s text:c="2"/>been the good one all alone</text:p>
+   <text:p text:style-name="P88"><text:s text:c="2"/>told you everything you mean to me</text:p>
+   <text:p text:style-name="P90"><text:s text:c="2"/><text:span text:style-name="T48">dreamt</text:span> of a face I should <text:span text:style-name="T48">forget</text:span></text:p>
+   <text:p text:style-name="P88"><text:s text:c="2"/><text:span text:style-name="T48">mean everything I say—</text:span></text:p>
+   <text:p text:style-name="P88"><text:s text:c="2"/></text:p>
    <text:p text:style-name="P51">Never have I ever</text:p>
-   <text:p text:style-name="P51"><text:span text:style-name="T47">missed</text:span> You <text:span text:style-name="T47">more</text:span>.</text:p>
+   <text:p text:style-name="P51"><text:span text:style-name="T48">missed</text:span> You <text:span text:style-name="T48">more</text:span>.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc820_3326894427"/>Soapstone<text:bookmark-end text:name="__RefHeading___Toc820_3326894427"/></text:h>
-   <text:p text:style-name="P88"/>
-   <text:p text:style-name="P88">My heart is one of those</text:p>
-   <text:p text:style-name="P88">smooth stones,</text:p>
-   <text:p text:style-name="P88">hard to hold</text:p>
-   <text:p text:style-name="P88">and easy to drop—</text:p>
-   <text:p text:style-name="P88">to drop hard.</text:p>
-   <text:p text:style-name="P88">It’ll slip right through</text:p>
-   <text:p text:style-name="P88">your shaking fingers as you</text:p>
-   <text:p text:style-name="P89">squeeze to the rhythm</text:p>
-   <text:p text:style-name="P89"><text:span text:style-name="T48">and keep me </text:span><text:span text:style-name="T49">up</text:span>.</text:p>
-   <text:p text:style-name="P88"/>
-   <text:p text:style-name="P88">My stone is like <text:span text:style-name="T49">soap</text:span></text:p>
-   <text:p text:style-name="P88">and won’t mix</text:p>
-   <text:p text:style-name="P88">with your <text:span text:style-name="T49">oil</text:span>,</text:p>
-   <text:p text:style-name="P88">no matter how much</text:p>
-   <text:p text:style-name="P88">we hold on.</text:p>
-   <text:p text:style-name="P88"/>
-   <text:p text:style-name="P88">I only make</text:p>
-   <text:p text:style-name="P88">myself clean</text:p>
-   <text:p text:style-name="P90">slipping through</text:p>
-   <text:p text:style-name="P91">your fingers.</text:p>
-   <text:h text:style-name="P92" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1321_3007704144"/><office:annotation office:name="__Annotation__8510_3499536570" loext:resolved="false">
+   <text:p text:style-name="P91"/>
+   <text:p text:style-name="P91">My heart is one of those</text:p>
+   <text:p text:style-name="P91">smooth stones,</text:p>
+   <text:p text:style-name="P91">hard to hold</text:p>
+   <text:p text:style-name="P91">and easy to drop—</text:p>
+   <text:p text:style-name="P91">to drop hard.</text:p>
+   <text:p text:style-name="P91">It’ll slip right through</text:p>
+   <text:p text:style-name="P91">your shaking fingers as you</text:p>
+   <text:p text:style-name="P92">squeeze to the rhythm</text:p>
+   <text:p text:style-name="P92"><text:span text:style-name="T49">and keep me </text:span><text:span text:style-name="T50">up</text:span>.</text:p>
+   <text:p text:style-name="P91"/>
+   <text:p text:style-name="P91">My stone is like <text:span text:style-name="T50">soap</text:span></text:p>
+   <text:p text:style-name="P91">and won’t mix</text:p>
+   <text:p text:style-name="P91">with your <text:span text:style-name="T50">oil</text:span>,</text:p>
+   <text:p text:style-name="P91">no matter how much</text:p>
+   <text:p text:style-name="P91">we hold on.</text:p>
+   <text:p text:style-name="P91"/>
+   <text:p text:style-name="P91">I only make</text:p>
+   <text:p text:style-name="P91">myself clean</text:p>
+   <text:p text:style-name="P93">slipping through</text:p>
+   <text:p text:style-name="P94">your fingers.</text:p>
+   <text:h text:style-name="P95" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1321_3007704144"/><office:annotation office:name="__Annotation__8510_3499536570" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-07-18T21:15:31.985823000</dc:date>
      <meta:creator-initials>VTH</meta:creator-initials>
@@ -2197,69 +2234,69 @@
    <text:p text:style-name="P57">If you stole my heart,</text:p>
    <text:p text:style-name="P57">you can keep it.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1025_1230340041"/>I’m Not Struggling<text:bookmark-end text:name="__RefHeading___Toc1025_1230340041"/></text:h>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">All the media I watch</text:p>
-   <text:p text:style-name="P90">portrays love as a struggle</text:p>
-   <text:p text:style-name="P90">of wills against some force,</text:p>
-   <text:p text:style-name="P90">of conflict and resolution—</text:p>
-   <text:p text:style-name="P90">a drama.</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">The protagonists come together,</text:p>
-   <text:p text:style-name="P90">and through their struggle</text:p>
-   <text:p text:style-name="P90">against some other force,</text:p>
-   <text:p text:style-name="P90">learn to love each other,</text:p>
-   <text:p text:style-name="P90">strengthen their bonds,</text:p>
-   <text:p text:style-name="P90">and form resolute declarations</text:p>
-   <text:p text:style-name="P90">of understanding about the other<text:span text:style-name="T50">s</text:span>,</text:p>
-   <text:p text:style-name="P90">as can only be learnt from</text:p>
-   <text:p text:style-name="P90">facing hell with someone.</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">I <text:span text:style-name="T50">f</text:span>eel in myself a desire</text:p>
-   <text:p text:style-name="P90">for <text:span text:style-name="T50">your</text:span> time, <text:span text:style-name="T50">but</text:span></text:p>
-   <text:p text:style-name="P90">I don&apos;t think it&apos;s love,</text:p>
-   <text:p text:style-name="P93">I don’t think it’d last, <text:span text:style-name="T49">and</text:span></text:p>
-   <text:p text:style-name="P90"><text:span text:style-name="T49">maybe</text:span> that&apos;s the culture in me,</text:p>
-   <text:p text:style-name="P90">based off what I consume.</text:p>
-   <text:p text:style-name="P90">I&apos;ve broken my ability to love wholly,</text:p>
-   <text:p text:style-name="P90">because I&apos;m incapable of loving</text:p>
-   <text:p text:style-name="P90">when times are good.</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">I love when it&apos;s bad.</text:p>
-   <text:p text:style-name="P90">I don&apos;t have many issues,</text:p>
-   <text:p text:style-name="P90">and I&apos;m afraid to be</text:p>
-   <text:p text:style-name="P90"><text:soft-page-break/>incapable of love.</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">Am I lonely,</text:p>
-   <text:p text:style-name="P90">or forcing myself to...</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">What do I like.</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">I&apos;m disgusting.</text:p>
-   <text:p text:style-name="P94"/>
-   <text:p text:style-name="P94"/>
-   <text:p text:style-name="P94"/>
-   <text:p text:style-name="P94"/>
-   <text:p text:style-name="P95"><text:span text:style-name="T49">But</text:span> I thin<text:span text:style-name="T49">k</text:span></text:p>
-   <text:p text:style-name="P95"><text:span text:style-name="T49">I</text:span>’m happy.</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">All the media I watch</text:p>
+   <text:p text:style-name="P93">portrays love as a struggle</text:p>
+   <text:p text:style-name="P93">of wills against some force,</text:p>
+   <text:p text:style-name="P93">of conflict and resolution—</text:p>
+   <text:p text:style-name="P93">a drama.</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">The protagonists come together,</text:p>
+   <text:p text:style-name="P93">and through their struggle</text:p>
+   <text:p text:style-name="P93">against some other force,</text:p>
+   <text:p text:style-name="P93">learn to love each other,</text:p>
+   <text:p text:style-name="P93">strengthen their bonds,</text:p>
+   <text:p text:style-name="P93">and form resolute declarations</text:p>
+   <text:p text:style-name="P93">of understanding about the other<text:span text:style-name="T51">s</text:span>,</text:p>
+   <text:p text:style-name="P93">as can only be learnt from</text:p>
+   <text:p text:style-name="P93">facing hell with someone.</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">I <text:span text:style-name="T51">f</text:span>eel in myself a desire</text:p>
+   <text:p text:style-name="P93">for <text:span text:style-name="T51">your</text:span> time, <text:span text:style-name="T51">but</text:span></text:p>
+   <text:p text:style-name="P93">I don&apos;t think it&apos;s love,</text:p>
+   <text:p text:style-name="P96">I don’t think it’d last, <text:span text:style-name="T50">and</text:span></text:p>
+   <text:p text:style-name="P93"><text:span text:style-name="T50">maybe</text:span> that&apos;s the culture in me,</text:p>
+   <text:p text:style-name="P93">based off what I consume.</text:p>
+   <text:p text:style-name="P93">I&apos;ve broken my ability to love wholly,</text:p>
+   <text:p text:style-name="P93">because I&apos;m incapable of loving</text:p>
+   <text:p text:style-name="P93">when times are good.</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">I love when it&apos;s bad.</text:p>
+   <text:p text:style-name="P93">I don&apos;t have many issues,</text:p>
+   <text:p text:style-name="P93">and I&apos;m afraid to be</text:p>
+   <text:p text:style-name="P93"><text:soft-page-break/>incapable of love.</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">Am I lonely,</text:p>
+   <text:p text:style-name="P93">or forcing myself to...</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">What do I like.</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">I&apos;m disgusting.</text:p>
+   <text:p text:style-name="P97"/>
+   <text:p text:style-name="P97"/>
+   <text:p text:style-name="P97"/>
+   <text:p text:style-name="P97"/>
+   <text:p text:style-name="P98"><text:span text:style-name="T50">But</text:span> I thin<text:span text:style-name="T50">k</text:span></text:p>
+   <text:p text:style-name="P98"><text:span text:style-name="T50">I</text:span>’m happy.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc818_3326894427"/>Another Place, Another time<text:bookmark-end text:name="__RefHeading___Toc818_3326894427"/></text:h>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">Are you <text:span text:style-name="T51">waiting</text:span>,</text:p>
-   <text:p text:style-name="P90">are you out there;</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">Pushing off the now</text:p>
-   <text:p text:style-name="P90">and thinking of...</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">Check back again</text:p>
-   <text:p text:style-name="P90">after I&apos;ve made it.</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">When we meet, <text:s/>when I, <text:s text:c="3"/>when I,</text:p>
-   <text:p text:style-name="P90">when I see you.</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">There&apos;s tomorrow—</text:p>
-   <text:p text:style-name="P90">always tomorrow.</text:p>
-   <text:p text:style-name="P90"/>
-   <text:p text:style-name="P90">Promise.</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">Are you <text:span text:style-name="T52">waiting</text:span>,</text:p>
+   <text:p text:style-name="P93">are you out there;</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">Pushing off the now</text:p>
+   <text:p text:style-name="P93">and thinking of...</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">Check back again</text:p>
+   <text:p text:style-name="P93">after I&apos;ve made it.</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">When we meet, <text:s/>when I, <text:s text:c="3"/>when I,</text:p>
+   <text:p text:style-name="P93">when I see you.</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">There&apos;s tomorrow—</text:p>
+   <text:p text:style-name="P93">always tomorrow.</text:p>
+   <text:p text:style-name="P93"/>
+   <text:p text:style-name="P93">Promise.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1317_3007704144"/>Never Bad News<text:bookmark-end text:name="__RefHeading___Toc1317_3007704144"/></text:h>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">I must have been born wrong.</text:p>
@@ -2270,8 +2307,8 @@
    <text:p text:style-name="Poetry_20_Text">in my development,</text:p>
    <text:p text:style-name="Poetry_20_Text">that something isn&apos;t normal in me.</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="P96">That somethin<text:span text:style-name="T52">g</text:span></text:p>
-   <text:p text:style-name="P96">makes me not like you.</text:p>
+   <text:p text:style-name="P99">That somethin<text:span text:style-name="T53">g</text:span></text:p>
+   <text:p text:style-name="P99">makes me not like you.</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">I want—</text:p>
    <text:p text:style-name="Poetry_20_Text">I want to be like you,</text:p>
@@ -2288,155 +2325,155 @@
    <text:p text:style-name="Poetry_20_Text">wants to bring</text:p>
    <text:p text:style-name="Poetry_20_Text">bad news.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1998_818021894"/>So What If I’m Not Normal<text:bookmark-end text:name="__RefHeading___Toc1998_818021894"/></text:h>
-   <text:p text:style-name="P97"/>
-   <text:p text:style-name="P97">Fuck being normal:</text:p>
-   <text:p text:style-name="P97">I’ve never met a normal person</text:p>
-   <text:p text:style-name="P97">my whole life.</text:p>
-   <text:p text:style-name="P97">From day one it’s been</text:p>
-   <text:p text:style-name="P97"><text:span text:style-name="T53">weird shit</text:span> that define<text:span text:style-name="T54">d</text:span></text:p>
-   <text:p text:style-name="P97">my every <text:span text:style-name="T54">remembered</text:span></text:p>
-   <text:p text:style-name="P97">experience with others.</text:p>
-   <text:p text:style-name="P97"/>
-   <text:p text:style-name="P97">No one I’ve ever come across</text:p>
-   <text:p text:style-name="P97"><text:span text:style-name="T54">had</text:span> a <text:span text:style-name="T54">boring</text:span><text:span text:style-name="T53"> </text:span>life;</text:p>
-   <text:p text:style-name="P97">everyone’s hiding something ‘till</text:p>
-   <text:p text:style-name="P97">they can share a little more of themselves,</text:p>
-   <text:p text:style-name="P97">‘<text:span text:style-name="T54">till their bursting at the seams of</text:span></text:p>
-   <text:p text:style-name="P98">wanting to connect over</text:p>
-   <text:p text:style-name="P97">hobbies,</text:p>
-   <text:p text:style-name="P97"><text:span text:style-name="T53">little interests</text:span>, or</text:p>
-   <text:p text:style-name="P97"><text:span text:style-name="T53">secrets</text:span>.</text:p>
-   <text:p text:style-name="P97"/>
-   <text:p text:style-name="P97"><text:span text:style-name="T54">I</text:span>f I had to be</text:p>
-   <text:p text:style-name="P97">more like someone else,</text:p>
-   <text:p text:style-name="P97">there’d be no point to the whole</text:p>
-   <text:p text:style-name="P97">of my life <text:span text:style-name="T55">being lived</text:span>. <text:span text:style-name="T53">So</text:span></text:p>
-   <text:p text:style-name="P97"/>
-   <text:p text:style-name="P97">I like me,</text:p>
-   <text:p text:style-name="P97">even if—</text:p>
-   <text:p text:style-name="P97"><text:span text:style-name="T54">if</text:span>—</text:p>
-   <text:p text:style-name="P97"/>
-   <text:p text:style-name="P97"><text:span text:style-name="T54">i</text:span>f You <text:span text:style-name="T56">didn’t</text:span>.</text:p>
-   <text:h text:style-name="P99" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc780_3676532460"/>Be Normal<text:bookmark-end text:name="__RefHeading___Toc780_3676532460"/></text:h>
    <text:p text:style-name="P100"/>
-   <text:p text:style-name="P100">I don’t want to be normal,</text:p>
-   <text:p text:style-name="P100">I want to be me.</text:p>
+   <text:p text:style-name="P100">Fuck being normal:</text:p>
+   <text:p text:style-name="P100">I’ve never met a normal person</text:p>
+   <text:p text:style-name="P100">my whole life.</text:p>
+   <text:p text:style-name="P100">From day one it’s been</text:p>
+   <text:p text:style-name="P100"><text:span text:style-name="T54">weird shit</text:span> that define<text:span text:style-name="T55">d</text:span></text:p>
+   <text:p text:style-name="P100">my every <text:span text:style-name="T55">remembered</text:span></text:p>
+   <text:p text:style-name="P100">experience with others.</text:p>
    <text:p text:style-name="P100"/>
-   <text:p text:style-name="P100">Isn’t that enough?</text:p>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1319_3007704144"/>Maybe-Poem<text:span text:style-name="T57">s</text:span><text:bookmark-end text:name="__RefHeading___Toc1319_3007704144"/></text:h>
-   <text:p text:style-name="P94"/>
-   <text:p text:style-name="P94">Not enough image,</text:p>
-   <text:p text:style-name="P101">and too <text:span text:style-name="T57">direct to</text:span> be a poem.</text:p>
-   <text:p text:style-name="P94">I&apos;ve just written</text:p>
-   <text:p text:style-name="P94">and thrown in</text:p>
-   <text:p text:style-name="P94">some</text:p>
-   <text:p text:style-name="P94">random</text:p>
-   <text:p text:style-name="P94">line-breaks</text:p>
-   <text:p text:style-name="P94">here and</text:p>
-   <text:p text:style-name="P94">there;</text:p>
-   <text:p text:style-name="P94">Maybe an expression</text:p>
-   <text:p text:style-name="P94">of something on my mind,</text:p>
-   <text:p text:style-name="P94">but so far,</text:p>
-   <text:p text:style-name="P94">there&apos;s no meter or prose</text:p>
-   <text:p text:style-name="P94">worth keeping on the page—</text:p>
-   <text:p text:style-name="P102">or in my heart.</text:p>
-   <text:p text:style-name="P94"/>
-   <text:p text:style-name="P94">But hey,</text:p>
-   <text:p text:style-name="P94"><text:span text:style-name="T38">a poet once</text:span> called them his</text:p>
-   <text:p text:style-name="P94"><text:s text:c="4"/><text:span text:style-name="T42">hot beer shits</text:span><text:span text:style-name="T15">,</text:span></text:p>
-   <text:p text:style-name="P94">and I don&apos;t feel that way</text:p>
-   <text:p text:style-name="P97">about anything here,</text:p>
-   <text:p text:style-name="P94">so I think I&apos;ll call them</text:p>
-   <text:p text:style-name="P94"><text:s text:c="4"/>maybe-poems,</text:p>
-   <text:p text:style-name="P103">from a</text:p>
-   <text:p text:style-name="P103"><text:s text:c="4"/>maybe-person,</text:p>
-   <text:p text:style-name="P94">or, maybe <text:s text:c="2"/>maybe</text:p>
-   <text:p text:style-name="P94">maybe a poem,</text:p>
-   <text:p text:style-name="P94">a poem that</text:p>
-   <text:p text:style-name="P94">may be,</text:p>
-   <text:p text:style-name="P94"><text:soft-page-break/>if only a</text:p>
-   <text:p text:style-name="P94">person like me</text:p>
-   <text:p text:style-name="P94">may be</text:p>
-   <text:p text:style-name="P94">around</text:p>
-   <text:p text:style-name="P94">someone like</text:p>
-   <text:p text:style-name="P94">You.</text:p>
+   <text:p text:style-name="P100">No one I’ve ever come across</text:p>
+   <text:p text:style-name="P100"><text:span text:style-name="T55">had</text:span> a <text:span text:style-name="T55">boring</text:span><text:span text:style-name="T54"> </text:span>life;</text:p>
+   <text:p text:style-name="P100">everyone’s hiding something ‘till</text:p>
+   <text:p text:style-name="P100">they can share a little more of themselves,</text:p>
+   <text:p text:style-name="P100">‘<text:span text:style-name="T55">till their bursting at the seams of</text:span></text:p>
+   <text:p text:style-name="P101">wanting to connect over</text:p>
+   <text:p text:style-name="P100">hobbies,</text:p>
+   <text:p text:style-name="P100"><text:span text:style-name="T54">little interests</text:span>, or</text:p>
+   <text:p text:style-name="P100"><text:span text:style-name="T54">secrets</text:span>.</text:p>
+   <text:p text:style-name="P100"/>
+   <text:p text:style-name="P100"><text:span text:style-name="T55">I</text:span>f I had to be</text:p>
+   <text:p text:style-name="P100">more like someone else,</text:p>
+   <text:p text:style-name="P100">there’d be no point to the whole</text:p>
+   <text:p text:style-name="P100">of my life <text:span text:style-name="T56">being lived</text:span>. <text:span text:style-name="T54">So</text:span></text:p>
+   <text:p text:style-name="P100"/>
+   <text:p text:style-name="P100">I like me,</text:p>
+   <text:p text:style-name="P100">even if—</text:p>
+   <text:p text:style-name="P100"><text:span text:style-name="T55">if</text:span>—</text:p>
+   <text:p text:style-name="P100"/>
+   <text:p text:style-name="P100"><text:span text:style-name="T55">i</text:span>f You <text:span text:style-name="T57">didn’t</text:span>.</text:p>
+   <text:h text:style-name="P102" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc780_3676532460"/>Be Normal<text:bookmark-end text:name="__RefHeading___Toc780_3676532460"/></text:h>
+   <text:p text:style-name="P103"/>
+   <text:p text:style-name="P103">I don’t want to be normal,</text:p>
+   <text:p text:style-name="P103">I want to be me.</text:p>
+   <text:p text:style-name="P103"/>
+   <text:p text:style-name="P103">Isn’t that enough?</text:p>
+   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1319_3007704144"/>Maybe-Poem<text:span text:style-name="T58">s</text:span><text:bookmark-end text:name="__RefHeading___Toc1319_3007704144"/></text:h>
+   <text:p text:style-name="P97"/>
+   <text:p text:style-name="P97">Not enough image,</text:p>
+   <text:p text:style-name="P104">and too <text:span text:style-name="T58">direct to</text:span> be a poem.</text:p>
+   <text:p text:style-name="P97">I&apos;ve just written</text:p>
+   <text:p text:style-name="P97">and thrown in</text:p>
+   <text:p text:style-name="P97">some</text:p>
+   <text:p text:style-name="P97">random</text:p>
+   <text:p text:style-name="P97">line-breaks</text:p>
+   <text:p text:style-name="P97">here and</text:p>
+   <text:p text:style-name="P97">there;</text:p>
+   <text:p text:style-name="P97">Maybe an expression</text:p>
+   <text:p text:style-name="P97">of something on my mind,</text:p>
+   <text:p text:style-name="P97">but so far,</text:p>
+   <text:p text:style-name="P97">there&apos;s no meter or prose</text:p>
+   <text:p text:style-name="P97">worth keeping on the page—</text:p>
+   <text:p text:style-name="P105">or in my heart.</text:p>
+   <text:p text:style-name="P97"/>
+   <text:p text:style-name="P97">But hey,</text:p>
+   <text:p text:style-name="P97"><text:span text:style-name="T39">a poet once</text:span> called them his</text:p>
+   <text:p text:style-name="P97"><text:s text:c="4"/><text:span text:style-name="T43">hot beer shits</text:span><text:span text:style-name="T15">,</text:span></text:p>
+   <text:p text:style-name="P97">and I don&apos;t feel that way</text:p>
+   <text:p text:style-name="P100">about anything here,</text:p>
+   <text:p text:style-name="P97">so I think I&apos;ll call them</text:p>
+   <text:p text:style-name="P97"><text:s text:c="4"/>maybe-poems,</text:p>
+   <text:p text:style-name="P106">from a</text:p>
+   <text:p text:style-name="P106"><text:s text:c="4"/>maybe-person,</text:p>
+   <text:p text:style-name="P97">or, maybe <text:s text:c="2"/>maybe</text:p>
+   <text:p text:style-name="P97">maybe a poem,</text:p>
+   <text:p text:style-name="P97">a poem that</text:p>
+   <text:p text:style-name="P97">may be,</text:p>
+   <text:p text:style-name="P97"><text:soft-page-break/>if only a</text:p>
+   <text:p text:style-name="P97">person like me</text:p>
+   <text:p text:style-name="P97">may be</text:p>
+   <text:p text:style-name="P97">around</text:p>
+   <text:p text:style-name="P97">someone like</text:p>
+   <text:p text:style-name="P97">You.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1023_1230340041"/>Between My Ears I Cannot Sing<text:bookmark-end text:name="__RefHeading___Toc1023_1230340041"/></text:h>
-   <text:p text:style-name="P94"/>
+   <text:p text:style-name="P97"/>
    <text:p text:style-name="Poetry_20_Text">As you walked away</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="P104"><text:tab/><text:span text:style-name="T58">I</text:span>t was my heart that first beat out of my chest. Slapping onto the floor, it kept pulsing while my teeth fell out and my skin sloughed off and my bones jumped out the hole in my chest, and the organs and liquids without their cage poured from me an ungodly spray of everything else wet and human.</text:p>
-   <text:p text:style-name="P105"><text:tab/>All around, an ensemble started to their sections. The large intestine and colon formed chairs as small hand bones made stands for hairy sheet music. Muscle fibers rewrapped around jaw bone to fret strings, while the lungs, teeth, and larynx became a choir, and the skull a drum. Blood boiled, then congealed with lips and spit to form the brasses.</text:p>
-   <text:p text:style-name="P105"><text:tab/>At the very center, a heart pumped erect as the conductor. Holding a metatarsal, it started waving <text:span text:style-name="T58">the</text:span> baton as the orchestra reared and let out every innermost</text:p>
-   <text:p text:style-name="P105">desire.</text:p>
-   <text:p text:style-name="P105"><text:tab/>Used to furtive glances, eyes now drowned in your sight burnt onto skin. Ears listened for the first time to ideas that were never given a second chance, having always been caught at the back of a throat, which now sang with teeth secrets never shared about everything extraordinary, beautiful, and you. Fingers flexed for a missed touch, all the while drumming on the one that hid it all.</text:p>
-   <text:p text:style-name="P105"><text:tab/>Each part played their misuse, but I could not command them to stop. Just a single organ left, I tried to <text:soft-page-break/>convey every fault I ever had, every reason to avoid m<text:span text:style-name="T58">e</text:span>— but nothing came out as familiar hands raised the conductor, and I realized how perfect everything would be if only it was</text:p>
+   <text:p text:style-name="P107"><text:tab/><text:span text:style-name="T59">I</text:span>t was my heart that first beat out of my chest. Slapping onto the floor, it kept pulsing while my teeth fell out and my skin sloughed off and my bones jumped out the hole in my chest, and the organs and liquids without their cage poured from me an ungodly spray of everything else wet and human.</text:p>
+   <text:p text:style-name="P108"><text:tab/>All around, an ensemble started to their sections. The large intestine and colon formed chairs as small hand bones made stands for hairy sheet music. Muscle fibers rewrapped around jaw bone to fret strings, while the lungs, teeth, and larynx became a choir, and the skull a drum. Blood boiled, then congealed with lips and spit to form the brasses.</text:p>
+   <text:p text:style-name="P108"><text:tab/>At the very center, a heart pumped erect as the conductor. Holding a metatarsal, it started waving <text:span text:style-name="T59">the</text:span> baton as the orchestra reared and let out every innermost</text:p>
+   <text:p text:style-name="P108">desire.</text:p>
+   <text:p text:style-name="P108"><text:tab/>Used to furtive glances, eyes now drowned in your sight burnt onto skin. Ears listened for the first time to ideas that were never given a second chance, having always been caught at the back of a throat, which now sang with teeth secrets never shared about everything extraordinary, beautiful, and you. Fingers flexed for a missed touch, all the while drumming on the one that hid it all.</text:p>
+   <text:p text:style-name="P108"><text:tab/>Each part played their misuse, but I could not command them to stop. Just a single organ left, I tried to <text:soft-page-break/>convey every fault I ever had, every reason to avoid m<text:span text:style-name="T59">e</text:span>— but nothing came out as familiar hands raised the conductor, and I realized how perfect everything would be if only it was</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">without me.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2551_4237564503"/>Swampman<text:bookmark-end text:name="__RefHeading___Toc2551_4237564503"/></text:h>
-   <text:p text:style-name="P106"/>
-   <text:p text:style-name="P106">To be born is to be temporary.</text:p>
-   <text:p text:style-name="P106">Sliding from one moment</text:p>
-   <text:p text:style-name="P106">to the next,</text:p>
-   <text:p text:style-name="P106">we are made anew</text:p>
-   <text:p text:style-name="P106">in a pass—</text:p>
-   <text:p text:style-name="P106">only to look out</text:p>
-   <text:p text:style-name="P106">and seek</text:p>
-   <text:p text:style-name="P106">by our side</text:p>
-   <text:p text:style-name="P106">some fleeting</text:p>
-   <text:p text:style-name="P106">of another,</text:p>
-   <text:p text:style-name="P106">carrying</text:p>
-   <text:p text:style-name="P106">this desire forward,</text:p>
-   <text:p text:style-name="P106">as if we need</text:p>
-   <text:p text:style-name="P106">a reason,</text:p>
-   <text:p text:style-name="P106">like some</text:p>
-   <text:p text:style-name="P106">swampman</text:p>
-   <text:p text:style-name="P106">of a thing.</text:p>
-   <text:p text:style-name="P106"/>
-   <text:p text:style-name="P106">Do you remember what</text:p>
-   <text:p text:style-name="P107">you</text:p>
-   <text:p text:style-name="P106">told me last year?</text:p>
-   <text:p text:style-name="P106">Or, where</text:p>
-   <text:p text:style-name="P106">you</text:p>
-   <text:p text:style-name="P106">escaped from boredom in the summer?</text:p>
-   <text:p text:style-name="P106">Was—</text:p>
-   <text:p text:style-name="P106">Is that you?</text:p>
-   <text:p text:style-name="P106">Are you still here?</text:p>
-   <text:p text:style-name="P106">To who is it I speak</text:p>
-   <text:p text:style-name="P106">that bears your face?</text:p>
-   <text:p text:style-name="P106"><text:soft-page-break/>The time we shared is gone,</text:p>
-   <text:p text:style-name="P106">and the people with it—</text:p>
-   <text:p text:style-name="P106">So, this is my last poem.</text:p>
-   <text:p text:style-name="P106">I die with these words.</text:p>
-   <text:p text:style-name="P106">Whoever wrote this</text:p>
-   <text:p text:style-name="P106">will never be me,</text:p>
-   <text:p text:style-name="P106">not again.</text:p>
-   <text:p text:style-name="P106"/>
-   <text:p text:style-name="P106">And whoever reads this</text:p>
-   <text:p text:style-name="P106">will remember</text:p>
-   <text:p text:style-name="P106">as if they wrote it,</text:p>
-   <text:p text:style-name="P106">but then</text:p>
-   <text:p text:style-name="P106">that is a lie.</text:p>
-   <text:p text:style-name="P106">A good one.</text:p>
-   <text:p text:style-name="P106"/>
-   <text:p text:style-name="P106">I&apos;m not me</text:p>
-   <text:p text:style-name="P106">around You—</text:p>
-   <text:p text:style-name="P106">Not anymore.</text:p>
-   <text:p text:style-name="P106">I’ll chase</text:p>
-   <text:p text:style-name="P106">all the same,</text:p>
-   <text:p text:style-name="P106">as it’s what I know</text:p>
-   <text:p text:style-name="P106">to have been.</text:p>
-   <text:p text:style-name="P106"/>
-   <text:p text:style-name="P106">I was here.</text:p>
-   <text:p text:style-name="P106">You are now.</text:p>
-   <text:p text:style-name="P106">Forget—</text:p>
-   <text:p text:style-name="P106">once again.</text:p>
+   <text:p text:style-name="P109"/>
+   <text:p text:style-name="P109">To be born is to be temporary.</text:p>
+   <text:p text:style-name="P109">Sliding from one moment</text:p>
+   <text:p text:style-name="P109">to the next,</text:p>
+   <text:p text:style-name="P109">we are made anew</text:p>
+   <text:p text:style-name="P109">in a pass—</text:p>
+   <text:p text:style-name="P109">only to look out</text:p>
+   <text:p text:style-name="P109">and seek</text:p>
+   <text:p text:style-name="P109">by our side</text:p>
+   <text:p text:style-name="P109">some fleeting</text:p>
+   <text:p text:style-name="P109">of another,</text:p>
+   <text:p text:style-name="P109">carrying</text:p>
+   <text:p text:style-name="P109">this desire forward,</text:p>
+   <text:p text:style-name="P109">as if we need</text:p>
+   <text:p text:style-name="P109">a reason,</text:p>
+   <text:p text:style-name="P109">like some</text:p>
+   <text:p text:style-name="P109">swampman</text:p>
+   <text:p text:style-name="P109">of a thing.</text:p>
+   <text:p text:style-name="P109"/>
+   <text:p text:style-name="P109">Do you remember what</text:p>
+   <text:p text:style-name="P110">you</text:p>
+   <text:p text:style-name="P109">told me last year?</text:p>
+   <text:p text:style-name="P109">Or, where</text:p>
+   <text:p text:style-name="P109">you</text:p>
+   <text:p text:style-name="P109">escaped from boredom in the summer?</text:p>
+   <text:p text:style-name="P109">Was—</text:p>
+   <text:p text:style-name="P109">Is that you?</text:p>
+   <text:p text:style-name="P109">Are you still here?</text:p>
+   <text:p text:style-name="P109">To who is it I speak</text:p>
+   <text:p text:style-name="P109">that bears your face?</text:p>
+   <text:p text:style-name="P109"><text:soft-page-break/>The time we shared is gone,</text:p>
+   <text:p text:style-name="P109">and the people with it—</text:p>
+   <text:p text:style-name="P109">So, this is my last poem.</text:p>
+   <text:p text:style-name="P109">I die with these words.</text:p>
+   <text:p text:style-name="P109">Whoever wrote this</text:p>
+   <text:p text:style-name="P109">will never be me,</text:p>
+   <text:p text:style-name="P109">not again.</text:p>
+   <text:p text:style-name="P109"/>
+   <text:p text:style-name="P109">And whoever reads this</text:p>
+   <text:p text:style-name="P109">will remember</text:p>
+   <text:p text:style-name="P109">as if they wrote it,</text:p>
+   <text:p text:style-name="P109">but then</text:p>
+   <text:p text:style-name="P109">that is a lie.</text:p>
+   <text:p text:style-name="P109">A good one.</text:p>
+   <text:p text:style-name="P109"/>
+   <text:p text:style-name="P109">I&apos;m not me</text:p>
+   <text:p text:style-name="P109">around You—</text:p>
+   <text:p text:style-name="P109">Not anymore.</text:p>
+   <text:p text:style-name="P109">I’ll chase</text:p>
+   <text:p text:style-name="P109">all the same,</text:p>
+   <text:p text:style-name="P109">as it’s what I know</text:p>
+   <text:p text:style-name="P109">to have been.</text:p>
+   <text:p text:style-name="P109"/>
+   <text:p text:style-name="P109">I was here.</text:p>
+   <text:p text:style-name="P109">You are now.</text:p>
+   <text:p text:style-name="P109">Forget—</text:p>
+   <text:p text:style-name="P109">once again.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1315_3007704144"/>As I Lay Here Beside You<text:bookmark-end text:name="__RefHeading___Toc1315_3007704144"/></text:h>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">I can only stare at the back of your head,</text:p>
    <text:p text:style-name="Poetry_20_Text">wondering</text:p>
    <text:p text:style-name="Poetry_20_Text">what I should do,</text:p>
-   <text:p text:style-name="P108"><text:span text:style-name="T49">or</text:span> how I should talk to you</text:p>
-   <text:p text:style-name="P108">tomorrow.</text:p>
+   <text:p text:style-name="P111"><text:span text:style-name="T50">or</text:span> how I should talk to you</text:p>
+   <text:p text:style-name="P111">tomorrow.</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">If I could but reach out</text:p>
    <text:p text:style-name="Poetry_20_Text">and touch you</text:p>
@@ -2451,12 +2488,12 @@
    <text:p text:style-name="Poetry_20_Text">and remember</text:p>
    <text:p text:style-name="Poetry_20_Text">yesterday&apos;s</text:p>
    <text:p text:style-name="Poetry_20_Text">Dream.</text:p>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1125_1230340041"/>Instagramification<text:span text:style-name="T36"> </text:span>– No Time And Nothing To Do<text:bookmark-end text:name="__RefHeading___Toc1125_1230340041"/></text:h>
-   <text:p text:style-name="P109"/>
-   <text:p text:style-name="P109"><text:span text:style-name="T38">i</text:span>&apos;ve really got</text:p>
-   <text:p text:style-name="P109">nothing to do,</text:p>
-   <text:p text:style-name="P109">and so little time</text:p>
-   <text:p text:style-name="P109">to do it.</text:p>
+   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1125_1230340041"/>Instagramification<text:span text:style-name="T37"> </text:span>– No Time And Nothing To Do<text:bookmark-end text:name="__RefHeading___Toc1125_1230340041"/></text:h>
+   <text:p text:style-name="P112"/>
+   <text:p text:style-name="P112"><text:span text:style-name="T39">i</text:span>&apos;ve really got</text:p>
+   <text:p text:style-name="P112">nothing to do,</text:p>
+   <text:p text:style-name="P112">and so little time</text:p>
+   <text:p text:style-name="P112">to do it.</text:p>
    <text:h text:style-name="P52" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6575_3499536570"/>Unlike Anyone Else<text:bookmark-end text:name="__RefHeading___Toc6575_3499536570"/></text:h>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">Put your hand here,</text:p>
@@ -2480,7 +2517,7 @@
    <text:p text:style-name="Poetry_20_Text">if I feel right.</text:p>
    <text:p text:style-name="Poetry_20_Text">If I&apos;m...</text:p>
    <text:p text:style-name="Poetry_20_Text">If I&apos;m supposed to feel like</text:p>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="3"/><text:span text:style-name="T42">this</text:span><text:span text:style-name="T59"/></text:p>
+   <text:p text:style-name="Poetry_20_Text"><text:s text:c="3"/><text:span text:style-name="T43">this</text:span><text:span text:style-name="T60"/></text:p>
    <text:p text:style-name="Poetry_20_Text">like if I&apos;m just a little off,</text:p>
    <text:p text:style-name="Poetry_20_Text">or</text:p>
    <text:p text:style-name="Poetry_20_Text">if this is just how I feel,</text:p>
@@ -2510,79 +2547,79 @@
    <text:p text:style-name="Poetry_20_Text">It&apos;s a gift to be me,</text:p>
    <text:p text:style-name="Poetry_20_Text">and unlike anyone else.</text:p>
    <text:p text:style-name="Poetry_20_Text">Unlike anyone.</text:p>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2549_4237564503"/>Instagramification – <text:span text:style-name="T38">Eat For The Future (2024)</text:span><text:bookmark-end text:name="__RefHeading___Toc2549_4237564503"/></text:h>
+   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2549_4237564503"/>Instagramification – <text:span text:style-name="T39">Eat For The Future (2024)</text:span><text:bookmark-end text:name="__RefHeading___Toc2549_4237564503"/></text:h>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="P81"><text:span text:style-name="T38">f</text:span>ill my heart</text:p>
-   <text:p text:style-name="P81">with a moment,</text:p>
-   <text:p text:style-name="P81">keep it there</text:p>
-   <text:p text:style-name="P81">for when I leave,</text:p>
-   <text:p text:style-name="P110">unchanging.</text:p>
+   <text:p text:style-name="P84"><text:span text:style-name="T39">f</text:span>ill my heart</text:p>
+   <text:p text:style-name="P84">with a moment,</text:p>
+   <text:p text:style-name="P84">keep it there</text:p>
+   <text:p text:style-name="P84">for when I leave,</text:p>
+   <text:p text:style-name="P113">unchanging.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2547_4237564503"/>I Confess I Confess<text:bookmark-end text:name="__RefHeading___Toc2547_4237564503"/></text:h>
-   <text:p text:style-name="P111"/>
-   <text:p text:style-name="P111">I confess I <text:span text:style-name="T60">fucking </text:span>hated <text:span text:style-name="T61">y</text:span>ou.</text:p>
-   <text:p text:style-name="P111">I confess I wanted to break up.</text:p>
-   <text:p text:style-name="P112">I confess I was scared to be with you.</text:p>
-   <text:p text:style-name="P113">I confess your taste made me feel weird.</text:p>
-   <text:p text:style-name="P111">I confess I was embarrassed to tell my parents.</text:p>
-   <text:p text:style-name="P111">I confess I used mouthwash after <text:span text:style-name="T61">we’d hang out</text:span>.</text:p>
-   <text:p text:style-name="P114">I confess I didn’t have to leave early for work in the morning.</text:p>
-   <text:p text:style-name="P111">I confess I wanted you to break up with me, <text:span text:style-name="T60">so I </text:span><text:span text:style-name="T61">didn’t </text:span><text:span text:style-name="T60">change</text:span>.</text:p>
-   <text:p text:style-name="P111"/>
-   <text:p text:style-name="P111">I confess</text:p>
-   <text:p text:style-name="P111">I— I confess</text:p>
-   <text:p text:style-name="P114">I confess I was wrong.</text:p>
-   <text:p text:style-name="P111">I confess I <text:span text:style-name="T61">miss</text:span> you,</text:p>
-   <text:p text:style-name="P111">that I loved you,</text:p>
-   <text:p text:style-name="P111">and that I didn’t fight enough.</text:p>
-   <text:p text:style-name="P114">I confess you stopped my loneliness.</text:p>
-   <text:p text:style-name="P111">I confess I should have tried harder,</text:p>
-   <text:p text:style-name="P111">that I didn’t know how to—</text:p>
-   <text:p text:style-name="P111">That I didn’t know how to feel.</text:p>
-   <text:p text:style-name="P111">I confess that it’s my fault <text:span text:style-name="T60">how</text:span> I <text:span text:style-name="T61">end</text:span> up,</text:p>
-   <text:p text:style-name="P111">and that I</text:p>
-   <text:p text:style-name="P111">threw it all away.</text:p>
-   <text:p text:style-name="P114">I confess I was confused, but not <text:span text:style-name="T61">with You</text:span>.</text:p>
-   <text:p text:style-name="P114">I confess I didn’t know until it was too late.</text:p>
-   <text:p text:style-name="P111"/>
-   <text:p text:style-name="P111">I confess I’m the problem.</text:p>
-   <text:p text:style-name="P113">I confess I’<text:span text:style-name="T60">ll </text:span>never get to confess <text:span text:style-name="T61">everything</text:span>.</text:p>
-   <text:p text:style-name="P114">I confess time turns everything into a regret.</text:p>
-   <text:p text:style-name="P115">I confess</text:p>
+   <text:p text:style-name="P114"/>
+   <text:p text:style-name="P114">I confess I <text:span text:style-name="T61">fucking </text:span>hated <text:span text:style-name="T62">y</text:span>ou.</text:p>
+   <text:p text:style-name="P114">I confess I wanted to break up.</text:p>
+   <text:p text:style-name="P115">I confess I was scared to be with you.</text:p>
+   <text:p text:style-name="P116">I confess your taste made me feel weird.</text:p>
+   <text:p text:style-name="P114">I confess I was embarrassed to tell my parents.</text:p>
+   <text:p text:style-name="P114">I confess I used mouthwash after <text:span text:style-name="T62">we’d hang out</text:span>.</text:p>
+   <text:p text:style-name="P117">I confess I didn’t have to leave early for work in the morning.</text:p>
+   <text:p text:style-name="P114">I confess I wanted you to break up with me, <text:span text:style-name="T61">so I </text:span><text:span text:style-name="T62">didn’t </text:span><text:span text:style-name="T61">change</text:span>.</text:p>
+   <text:p text:style-name="P114"/>
+   <text:p text:style-name="P114">I confess</text:p>
+   <text:p text:style-name="P114">I— I confess</text:p>
+   <text:p text:style-name="P117">I confess I was wrong.</text:p>
+   <text:p text:style-name="P114">I confess I <text:span text:style-name="T62">miss</text:span> you,</text:p>
+   <text:p text:style-name="P114">that I loved you,</text:p>
+   <text:p text:style-name="P114">and that I didn’t fight enough.</text:p>
+   <text:p text:style-name="P117">I confess you stopped my loneliness.</text:p>
+   <text:p text:style-name="P114">I confess I should have tried harder,</text:p>
+   <text:p text:style-name="P114">that I didn’t know how to—</text:p>
+   <text:p text:style-name="P114">That I didn’t know how to feel.</text:p>
+   <text:p text:style-name="P114">I confess that it’s my fault <text:span text:style-name="T61">how</text:span> I <text:span text:style-name="T62">end</text:span> up,</text:p>
+   <text:p text:style-name="P114">and that I</text:p>
+   <text:p text:style-name="P114">threw it all away.</text:p>
+   <text:p text:style-name="P117">I confess I was confused, but not <text:span text:style-name="T62">with You</text:span>.</text:p>
+   <text:p text:style-name="P117">I confess I didn’t know until it was too late.</text:p>
+   <text:p text:style-name="P114"/>
+   <text:p text:style-name="P114">I confess I’m the problem.</text:p>
+   <text:p text:style-name="P116">I confess I’<text:span text:style-name="T61">ll </text:span>never get to confess <text:span text:style-name="T62">everything</text:span>.</text:p>
+   <text:p text:style-name="P117">I confess time turns everything into a regret.</text:p>
+   <text:p text:style-name="P118">I confess</text:p>
    <text:h text:style-name="P50" text:outline-level="2">That I Don’t Miss You</text:h>
    <text:p text:style-name="P56"/>
    <text:p text:style-name="P56"/>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2545_4237564503"/>That I’m A Good Liar<text:bookmark-end text:name="__RefHeading___Toc2545_4237564503"/></text:h>
-   <text:p text:style-name="P115"/>
-   <text:p text:style-name="P115"><text:span text:style-name="T42">Your honor</text:span><text:span text:style-name="T15">,</text:span></text:p>
-   <text:p text:style-name="P115">I said</text:p>
-   <text:p text:style-name="P115"><text:span text:style-name="T29">t</text:span><text:span text:style-name="T38">hat </text:span>I’m a good liar,</text:p>
-   <text:p text:style-name="P115">that I tricked</text:p>
-   <text:p text:style-name="P115">all my friends</text:p>
+   <text:p text:style-name="P118"/>
+   <text:p text:style-name="P118"><text:span text:style-name="T43">Your honor</text:span><text:span text:style-name="T15">,</text:span></text:p>
+   <text:p text:style-name="P118">I said</text:p>
+   <text:p text:style-name="P118"><text:span text:style-name="T29">t</text:span><text:span text:style-name="T39">hat </text:span>I’m a good liar,</text:p>
+   <text:p text:style-name="P118">that I tricked</text:p>
+   <text:p text:style-name="P118">all my friends</text:p>
    <text:p text:style-name="P54">and You</text:p>
-   <text:p text:style-name="P115">into liking me.</text:p>
-   <text:p text:style-name="P115">That’s right,</text:p>
-   <text:p text:style-name="P115">they all love me</text:p>
-   <text:p text:style-name="P115">because I tricked them,</text:p>
-   <text:p text:style-name="P115">because I lied my way into their hearts</text:p>
-   <text:p text:style-name="P66">and convinced them</text:p>
-   <text:p text:style-name="P66">I was funny</text:p>
-   <text:p text:style-name="P66">and likable.</text:p>
-   <text:p text:style-name="P115"/>
-   <text:p text:style-name="P115"><text:span text:style-name="T42">You</text:span><text:span text:style-name="T62">r </text:span><text:span text:style-name="T42">honor</text:span>,</text:p>
-   <text:p text:style-name="P115">I’m <text:span text:style-name="T62">not</text:span> a <text:span text:style-name="T42">good</text:span> liar</text:p>
-   <text:p text:style-name="P115">I’m a <text:span text:style-name="T42">great</text:span> liar,</text:p>
-   <text:p text:style-name="P115">and I have friends,</text:p>
-   <text:p text:style-name="P115">and they love me,</text:p>
-   <text:p text:style-name="P66">and I’m never lonely,</text:p>
-   <text:p text:style-name="P66">and I’ve never made a mistake,</text:p>
-   <text:p text:style-name="P66">and I don’t regret anything,</text:p>
-   <text:p text:style-name="P66">and I love my poems,</text:p>
-   <text:p text:style-name="P115">and</text:p>
-   <text:p text:style-name="P115">and I’m—</text:p>
-   <text:p text:style-name="P115">I’m happy.</text:p>
+   <text:p text:style-name="P118">into liking me.</text:p>
+   <text:p text:style-name="P118">That’s right,</text:p>
+   <text:p text:style-name="P118">they all love me</text:p>
+   <text:p text:style-name="P118">because I tricked them,</text:p>
+   <text:p text:style-name="P118">because I lied my way into their hearts</text:p>
+   <text:p text:style-name="P69">and convinced them</text:p>
+   <text:p text:style-name="P69">I was funny</text:p>
+   <text:p text:style-name="P69">and likable.</text:p>
+   <text:p text:style-name="P118"/>
+   <text:p text:style-name="P118"><text:span text:style-name="T43">You</text:span><text:span text:style-name="T63">r </text:span><text:span text:style-name="T43">honor</text:span>,</text:p>
+   <text:p text:style-name="P118">I’m <text:span text:style-name="T63">not</text:span> a <text:span text:style-name="T43">good</text:span> liar</text:p>
+   <text:p text:style-name="P118">I’m a <text:span text:style-name="T43">great</text:span> liar,</text:p>
+   <text:p text:style-name="P118">and I have friends,</text:p>
+   <text:p text:style-name="P118">and they love me,</text:p>
+   <text:p text:style-name="P69">and I’m never lonely,</text:p>
+   <text:p text:style-name="P69">and I’ve never made a mistake,</text:p>
+   <text:p text:style-name="P69">and I don’t regret anything,</text:p>
+   <text:p text:style-name="P69">and I love my poems,</text:p>
+   <text:p text:style-name="P118">and</text:p>
+   <text:p text:style-name="P118">and I’m—</text:p>
+   <text:p text:style-name="P118">I’m happy.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2543_4237564503"/>That I’m Happy<text:bookmark-end text:name="__RefHeading___Toc2543_4237564503"/></text:h>
-   <text:p text:style-name="P115"/>
-   <text:p text:style-name="P115"/>
+   <text:p text:style-name="P118"/>
+   <text:p text:style-name="P118"/>
    <text:h text:style-name="P50" text:outline-level="2">That <text:span text:style-name="T28">It’s My Fault I’m Me</text:span></text:h>
    <text:p text:style-name="P56"/>
    <text:p text:style-name="P56"/>
@@ -2600,132 +2637,132 @@
    <text:p text:style-name="P57">orang</text:p>
    <text:p text:style-name="P57"/>
    <text:p text:style-name="P57">Who?</text:p>
-   <text:h text:style-name="P116" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6571_3499536570"/>Modern<text:bookmark-end text:name="__RefHeading___Toc6571_3499536570"/></text:h>
+   <text:h text:style-name="P119" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6571_3499536570"/>Modern<text:bookmark-end text:name="__RefHeading___Toc6571_3499536570"/></text:h>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="P117">I can see it before me:</text:p>
-   <text:p text:style-name="P117"><text:span text:style-name="T63">t</text:span>he coffin closing,</text:p>
-   <text:p text:style-name="P117">the nails hammered,</text:p>
-   <text:p text:style-name="P117">the dirt overhead,</text:p>
-   <text:p text:style-name="P117">and the burner,</text:p>
-   <text:p text:style-name="P117">and the <text:span text:style-name="T63">tears</text:span>,</text:p>
-   <text:p text:style-name="P117">and the <text:span text:style-name="T64">fall back</text:span></text:p>
-   <text:p text:style-name="P118">down a dark tunnel</text:p>
-   <text:p text:style-name="P118">as the light gets farther,</text:p>
-   <text:p text:style-name="P119">and the fear,</text:p>
-   <text:p text:style-name="P118">and <text:s text:c="2"/>and</text:p>
-   <text:p text:style-name="P117">and the <text:span text:style-name="T63">relief...</text:span></text:p>
-   <text:p text:style-name="P117"/>
-   <text:p text:style-name="P117">Is this all that’s left?</text:p>
-   <text:p text:style-name="P117">Up before the sun,</text:p>
-   <text:p text:style-name="P117">enough time for dinner,</text:p>
-   <text:p text:style-name="P117">living two days a week,</text:p>
-   <text:p text:style-name="P117">and my memories of You—</text:p>
-   <text:p text:style-name="P117">Looking out the window</text:p>
-   <text:p text:style-name="P117"><text:span text:style-name="T63">at</text:span> a <text:span text:style-name="T28">grey</text:span> day,</text:p>
-   <text:p text:style-name="P117">expressionless.</text:p>
-   <text:p text:style-name="P117"/>
-   <text:p text:style-name="P117">And now I think:</text:p>
-   <text:p text:style-name="P117">It was easier to hate</text:p>
-   <text:p text:style-name="P117">than to <text:span text:style-name="T63">be nothing.</text:span></text:p>
+   <text:p text:style-name="P120">I can see it before me:</text:p>
+   <text:p text:style-name="P120"><text:span text:style-name="T64">t</text:span>he coffin closing,</text:p>
+   <text:p text:style-name="P120">the nails hammered,</text:p>
+   <text:p text:style-name="P120">the dirt overhead,</text:p>
+   <text:p text:style-name="P120">and the burner,</text:p>
+   <text:p text:style-name="P120">and the <text:span text:style-name="T64">tears</text:span>,</text:p>
+   <text:p text:style-name="P120">and the <text:span text:style-name="T65">fall back</text:span></text:p>
+   <text:p text:style-name="P121">down a dark tunnel</text:p>
+   <text:p text:style-name="P121">as the light gets farther,</text:p>
+   <text:p text:style-name="P122">and the fear,</text:p>
+   <text:p text:style-name="P121">and <text:s text:c="2"/>and</text:p>
+   <text:p text:style-name="P120">and the <text:span text:style-name="T64">relief...</text:span></text:p>
+   <text:p text:style-name="P120"/>
+   <text:p text:style-name="P120">Is this all that’s left?</text:p>
+   <text:p text:style-name="P120">Up before the sun,</text:p>
+   <text:p text:style-name="P120">enough time for dinner,</text:p>
+   <text:p text:style-name="P120">living two days a week,</text:p>
+   <text:p text:style-name="P120">and my memories of You—</text:p>
+   <text:p text:style-name="P120">Looking out the window</text:p>
+   <text:p text:style-name="P120"><text:span text:style-name="T64">at</text:span> a <text:span text:style-name="T28">grey</text:span> day,</text:p>
+   <text:p text:style-name="P120">expressionless.</text:p>
+   <text:p text:style-name="P120"/>
+   <text:p text:style-name="P120">And now I think:</text:p>
+   <text:p text:style-name="P120">It was easier to hate</text:p>
+   <text:p text:style-name="P120">than to <text:span text:style-name="T64">be nothing.</text:span></text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1969_4086586558"/>Nothing Hurts<text:bookmark-end text:name="__RefHeading___Toc1969_4086586558"/></text:h>
-   <text:p text:style-name="P64"/>
-   <text:p text:style-name="P64">When I wake up at night, I can’t move.</text:p>
-   <text:p text:style-name="P64">I see it standing in the corner, like</text:p>
-   <text:p text:style-name="P64">it’s afraid of me: Mass of flesh</text:p>
-   <text:p text:style-name="P64">and a concave face, bent in</text:p>
-   <text:p text:style-name="P64">and hiding features.</text:p>
-   <text:p text:style-name="P64">It drips in the</text:p>
-   <text:p text:style-name="P64">darkness.</text:p>
-   <text:p text:style-name="P64"/>
-   <text:p text:style-name="P64">I</text:p>
-   <text:p text:style-name="P64">never</text:p>
-   <text:p text:style-name="P64">got to hate</text:p>
-   <text:p text:style-name="P64">you, because I</text:p>
-   <text:p text:style-name="P64">never got to know you.</text:p>
-   <text:p text:style-name="P64">A chasm inside a torso and</text:p>
-   <text:p text:style-name="P64">where you should be— nothing.</text:p>
-   <text:p text:style-name="P64"/>
-   <text:p text:style-name="P64">We are frozen as space shrinks.</text:p>
-   <text:p text:style-name="P64">It’s forced closer, or I am. In</text:p>
-   <text:p text:style-name="P64">shadow without feature,</text:p>
-   <text:p text:style-name="P64">it drips down into</text:p>
-   <text:p text:style-name="P64">cupped hands.</text:p>
-   <text:p text:style-name="P64">Finger gaps</text:p>
-   <text:p text:style-name="P64">spill.</text:p>
-   <text:p text:style-name="P64"/>
-   <text:p text:style-name="P64">Silent</text:p>
-   <text:p text:style-name="P64">car rides,</text:p>
-   <text:p text:style-name="P64">and awkward</text:p>
-   <text:p text:style-name="P64">phone calls. Nothing said</text:p>
-   <text:p text:style-name="P64">over bad food or in company.</text:p>
-   <text:p text:style-name="P64"><text:soft-page-break/>Something hurts in between the</text:p>
-   <text:p text:style-name="P64">moments, but all I can remember are</text:p>
-   <text:p text:style-name="P64"/>
-   <text:p text:style-name="P64">eyes, blue and piercing. Pink with</text:p>
-   <text:p text:style-name="P64">tears; made only sharper still.</text:p>
-   <text:p text:style-name="P64">They drip onto me, and</text:p>
-   <text:p text:style-name="P64">search my features.</text:p>
-   <text:p text:style-name="P64">Frantically pore</text:p>
-   <text:p text:style-name="P64">over a face,</text:p>
-   <text:p text:style-name="P64">lost.</text:p>
-   <text:p text:style-name="P64"/>
-   <text:p text:style-name="P64">I don’t have your eyes.</text:p>
-   <text:p text:style-name="P64">Hands reach outward</text:p>
-   <text:p text:style-name="P64">and ruffle hair, grope</text:p>
-   <text:p text:style-name="P64">face, and pull <text:span text:style-name="T65">a</text:span> nose.</text:p>
-   <text:p text:style-name="P64">It cracks my jaw and</text:p>
-   <text:p text:style-name="P64">raises a chin, searching.</text:p>
-   <text:p text:style-name="P64">Grip tighter the throat</text:p>
-   <text:p text:style-name="P64">as tears fall fatter;</text:p>
-   <text:p text:style-name="P64">No features alike.</text:p>
-   <text:p text:style-name="P64">Beat on the chest</text:p>
-   <text:p text:style-name="P64">and caress downward,</text:p>
-   <text:p text:style-name="P64">digging into stomach.</text:p>
-   <text:p text:style-name="P64">Rip through muscle</text:p>
-   <text:p text:style-name="P64">and gorge on blood,</text:p>
-   <text:p text:style-name="P64">while scanning through</text:p>
-   <text:p text:style-name="P64">a blur for something</text:p>
-   <text:p text:style-name="P64">that was never there.</text:p>
-   <text:p text:style-name="P64">Pull out my entrails</text:p>
-   <text:p text:style-name="P64">like they belong to you,</text:p>
-   <text:p text:style-name="P64">dragging past the abdomen,</text:p>
-   <text:p text:style-name="P64">lower and lower with his</text:p>
-   <text:p text:style-name="P64"><text:soft-page-break/>hands gaunt and bruised—</text:p>
-   <text:p text:style-name="P64">working hands—</text:p>
-   <text:p text:style-name="P64">reaching farther underneath</text:p>
-   <text:p text:style-name="P64">until <text:s/>unt i l <text:s text:c="2"/>u n t i l—</text:p>
-   <text:p text:style-name="P64">a blanket is pulled higher.</text:p>
-   <text:p text:style-name="P64"/>
-   <text:p text:style-name="P64">Space returns, and we separate</text:p>
-   <text:p text:style-name="P64">from embarrassment. Look</text:p>
-   <text:p text:style-name="P64">as hands raise to cover</text:p>
-   <text:p text:style-name="P64">eyes, crying rivulets.</text:p>
-   <text:p text:style-name="P64">We merge into</text:p>
-   <text:p text:style-name="P64">our shame,</text:p>
-   <text:p text:style-name="P64">apart.</text:p>
-   <text:p text:style-name="P64"/>
-   <text:p text:style-name="P64">Once</text:p>
-   <text:p text:style-name="P64">was here,</text:p>
-   <text:p text:style-name="P64">but now you’re</text:p>
-   <text:p text:style-name="P64">gone. I can’t lose</text:p>
-   <text:p text:style-name="P64">what I never knew,</text:p>
-   <text:p text:style-name="P64">so what do I miss? Forget </text:p>
-   <text:p text:style-name="P64">it, as the twilight into the dusk.</text:p>
-   <text:p text:style-name="P64"/>
-   <text:p text:style-name="P64">I’m awake. Light stabs through closed</text:p>
-   <text:p text:style-name="P64">blinds, and I can move freely.</text:p>
-   <text:p text:style-name="P64">There’s paper in my hands,</text:p>
-   <text:p text:style-name="P64">fingers white with grip.</text:p>
-   <text:p text:style-name="P64">I can’t let go. What</text:p>
-   <text:p text:style-name="P64">haunts me.</text:p>
-   <text:p text:style-name="P64">Nothing.</text:p>
+   <text:p text:style-name="P67"/>
+   <text:p text:style-name="P67">When I wake up at night, I can’t move.</text:p>
+   <text:p text:style-name="P67">I see it standing in the corner, like</text:p>
+   <text:p text:style-name="P67">it’s afraid of me: Mass of flesh</text:p>
+   <text:p text:style-name="P67">and a concave face, bent in</text:p>
+   <text:p text:style-name="P67">and hiding features.</text:p>
+   <text:p text:style-name="P67">It drips in the</text:p>
+   <text:p text:style-name="P67">darkness.</text:p>
+   <text:p text:style-name="P67"/>
+   <text:p text:style-name="P67">I</text:p>
+   <text:p text:style-name="P67">never</text:p>
+   <text:p text:style-name="P67">got to hate</text:p>
+   <text:p text:style-name="P67">you, because I</text:p>
+   <text:p text:style-name="P67">never got to know you.</text:p>
+   <text:p text:style-name="P67">A chasm inside a torso and</text:p>
+   <text:p text:style-name="P67">where you should be— nothing.</text:p>
+   <text:p text:style-name="P67"/>
+   <text:p text:style-name="P67">We are frozen as space shrinks.</text:p>
+   <text:p text:style-name="P67">It’s forced closer, or I am. In</text:p>
+   <text:p text:style-name="P67">shadow without feature,</text:p>
+   <text:p text:style-name="P67">it drips down into</text:p>
+   <text:p text:style-name="P67">cupped hands.</text:p>
+   <text:p text:style-name="P67">Finger gaps</text:p>
+   <text:p text:style-name="P67">spill.</text:p>
+   <text:p text:style-name="P67"/>
+   <text:p text:style-name="P67">Silent</text:p>
+   <text:p text:style-name="P67">car rides,</text:p>
+   <text:p text:style-name="P67">and awkward</text:p>
+   <text:p text:style-name="P67">phone calls. Nothing said</text:p>
+   <text:p text:style-name="P67">over bad food or in company.</text:p>
+   <text:p text:style-name="P67"><text:soft-page-break/>Something hurts in between the</text:p>
+   <text:p text:style-name="P67">moments, but all I can remember are</text:p>
+   <text:p text:style-name="P67"/>
+   <text:p text:style-name="P67">eyes, blue and piercing. Pink with</text:p>
+   <text:p text:style-name="P67">tears; made only sharper still.</text:p>
+   <text:p text:style-name="P67">They drip onto me, and</text:p>
+   <text:p text:style-name="P67">search my features.</text:p>
+   <text:p text:style-name="P67">Frantically pore</text:p>
+   <text:p text:style-name="P67">over a face,</text:p>
+   <text:p text:style-name="P67">lost.</text:p>
+   <text:p text:style-name="P67"/>
+   <text:p text:style-name="P67">I don’t have your eyes.</text:p>
+   <text:p text:style-name="P67">Hands reach outward</text:p>
+   <text:p text:style-name="P67">and ruffle hair, grope</text:p>
+   <text:p text:style-name="P67">face, and pull <text:span text:style-name="T66">a</text:span> nose.</text:p>
+   <text:p text:style-name="P67">It cracks my jaw and</text:p>
+   <text:p text:style-name="P67">raises a chin, searching.</text:p>
+   <text:p text:style-name="P67">Grip tighter the throat</text:p>
+   <text:p text:style-name="P67">as tears fall fatter;</text:p>
+   <text:p text:style-name="P67">No features alike.</text:p>
+   <text:p text:style-name="P67">Beat on the chest</text:p>
+   <text:p text:style-name="P67">and caress downward,</text:p>
+   <text:p text:style-name="P67">digging into stomach.</text:p>
+   <text:p text:style-name="P67">Rip through muscle</text:p>
+   <text:p text:style-name="P67">and gorge on blood,</text:p>
+   <text:p text:style-name="P67">while scanning through</text:p>
+   <text:p text:style-name="P67">a blur for something</text:p>
+   <text:p text:style-name="P67">that was never there.</text:p>
+   <text:p text:style-name="P67">Pull out my entrails</text:p>
+   <text:p text:style-name="P67">like they belong to you,</text:p>
+   <text:p text:style-name="P67">dragging past the abdomen,</text:p>
+   <text:p text:style-name="P67">lower and lower with his</text:p>
+   <text:p text:style-name="P67"><text:soft-page-break/>hands gaunt and bruised—</text:p>
+   <text:p text:style-name="P67">working hands—</text:p>
+   <text:p text:style-name="P67">reaching farther underneath</text:p>
+   <text:p text:style-name="P67">until <text:s/>unt i l <text:s text:c="2"/>u n t i l—</text:p>
+   <text:p text:style-name="P67">a blanket is pulled higher.</text:p>
+   <text:p text:style-name="P67"/>
+   <text:p text:style-name="P67">Space returns, and we separate</text:p>
+   <text:p text:style-name="P67">from embarrassment. Look</text:p>
+   <text:p text:style-name="P67">as hands raise to cover</text:p>
+   <text:p text:style-name="P67">eyes, crying rivulets.</text:p>
+   <text:p text:style-name="P67">We merge into</text:p>
+   <text:p text:style-name="P67">our shame,</text:p>
+   <text:p text:style-name="P67">apart.</text:p>
+   <text:p text:style-name="P67"/>
+   <text:p text:style-name="P67">Once</text:p>
+   <text:p text:style-name="P67">was here,</text:p>
+   <text:p text:style-name="P67">but now you’re</text:p>
+   <text:p text:style-name="P67">gone. I can’t lose</text:p>
+   <text:p text:style-name="P67">what I never knew,</text:p>
+   <text:p text:style-name="P67">so what do I miss? Forget </text:p>
+   <text:p text:style-name="P67">it, as the twilight into the dusk.</text:p>
+   <text:p text:style-name="P67"/>
+   <text:p text:style-name="P67">I’m awake. Light stabs through closed</text:p>
+   <text:p text:style-name="P67">blinds, and I can move freely.</text:p>
+   <text:p text:style-name="P67">There’s paper in my hands,</text:p>
+   <text:p text:style-name="P67">fingers white with grip.</text:p>
+   <text:p text:style-name="P67">I can’t let go. What</text:p>
+   <text:p text:style-name="P67">haunts me.</text:p>
+   <text:p text:style-name="P67">Nothing.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc776_3676532460"/><office:annotation office:name="__Annotation__2251_1093274607" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-07-01T20:52:32.222249000</dc:date>
      <meta:creator-initials>VTH</meta:creator-initials>
      <text:p text:style-name="Comment">TODO: redo this one.</text:p>
     </office:annotation>Goodbye Ollie<office:annotation-end office:name="__Annotation__2251_1093274607"/>,<text:bookmark-end text:name="__RefHeading___Toc776_3676532460"/></text:h>
-   <text:p text:style-name="P120"/>
+   <text:p text:style-name="P123"/>
    <text:p text:style-name="Poetry_20_Text">I feel utterly and irrefutably incapable of expressing myself fully within the bounds of the language I have grown up with. One of my greatest fears is that I am a wholly uni-faceted individual with no complex emotions and extreme predictability in my actions.</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">Maybe I’m not all that afraid of being unable to express myself, but that there’s nothing to express. I’m afraid of being nothing, that I have no dramatic knots in my living cords.</text:p>
@@ -2734,38 +2771,38 @@
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">Sincerely,</text:p>
    <text:p text:style-name="Poetry_20_Text">Vova</text:p>
-   <text:h text:style-name="P121" text:outline-level="1"/>
-   <text:h text:style-name="P122" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1996_818021894"/>Acknowledgments<text:bookmark-end text:name="__RefHeading___Toc1996_818021894"/></text:h>
-   <text:p text:style-name="P123"/>
-   <text:p text:style-name="P123">My thanks to Jakob Hammond and Tyler Bond for putting up with me over the summer I worked on this, and for always offering good ideas towards improving what I had. This wouldn’t have <text:span text:style-name="T66">been</text:span> nearly <text:span text:style-name="T66">as</text:span> funny <text:span text:style-name="T66">a process</text:span> without your guy’s help, so thank you <text:span text:style-name="T66">for everything</text:span>.</text:p>
-   <text:p text:style-name="P123"/>
-   <text:p text:style-name="P115">Thank you to Caleb Neville for reading this collection while I drafted and giving me vital feedback. Thank you for always believing in me.</text:p>
-   <text:p text:style-name="P123"/>
-   <text:p text:style-name="P124">And of course, a special thanks to the subject of all this poetry, the individual that all my writing was focused towards (and no one else), Oliver Hendricks. Thanks for allowing this to go down.</text:p>
-   <text:p text:style-name="P123"/>
-   <text:p text:style-name="P123">The following literary pieces were used as formatting reference <text:span text:style-name="T67">(front-matter, end-matter, all-matter...)</text:span> through<text:span text:style-name="T66">out</text:span> the making of this book<text:span text:style-name="T66">. I hope my </text:span><text:span text:style-name="T49">reference</text:span><text:span text:style-name="T66"> </text:span><text:span text:style-name="T49">to</text:span><text:span text:style-name="T66"> their</text:span><text:span text:style-name="T49">s</text:span><text:span text:style-name="T66"> does no disservice to these great pieces of art </text:span><text:span text:style-name="T49">and their artists</text:span>:</text:p>
-   <text:p text:style-name="P125"><text:tab/><text:span text:style-name="T68">American Primitive</text:span><text:span text:style-name="T69">, </text:span><text:span text:style-name="T66">Mary Oliver</text:span></text:p>
-   <text:p text:style-name="P126"><text:tab/><text:span text:style-name="T70">Madness, Rack, and Honey</text:span><text:span text:style-name="T49">, Mary Ruefle</text:span></text:p>
-   <text:p text:style-name="P127"><text:tab/><text:span text:style-name="T68">milk and honey</text:span><text:span text:style-name="T69">, </text:span><text:span text:style-name="T71">R</text:span><text:span text:style-name="T66">upi </text:span><text:span text:style-name="T49">K</text:span><text:span text:style-name="T66">aur</text:span></text:p>
-   <text:p text:style-name="P127"><text:tab/><text:span text:style-name="T70">Of Tyrant</text:span><text:span text:style-name="T49">, Leah Umansky</text:span></text:p>
-   <text:h text:style-name="P122" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1994_818021894"/><office:annotation office:name="__Annotation__2421_818021894" loext:resolved="false">
+   <text:h text:style-name="P124" text:outline-level="1"/>
+   <text:h text:style-name="P125" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1996_818021894"/>Acknowledgments<text:bookmark-end text:name="__RefHeading___Toc1996_818021894"/></text:h>
+   <text:p text:style-name="P126"/>
+   <text:p text:style-name="P126">My thanks to Jakob Hammond and Tyler Bond for putting up with me over the summer I worked on this, and for always offering good ideas towards improving what I had. This wouldn’t have <text:span text:style-name="T67">been</text:span> nearly <text:span text:style-name="T67">as</text:span> funny <text:span text:style-name="T67">a process</text:span> without your guy’s help, so thank you <text:span text:style-name="T67">for everything</text:span>.</text:p>
+   <text:p text:style-name="P126"/>
+   <text:p text:style-name="P118">Thank you to Caleb Neville for reading this collection while I drafted and giving me vital feedback. Thank you for always believing in me.</text:p>
+   <text:p text:style-name="P126"/>
+   <text:p text:style-name="P127">And of course, a special thanks to the subject of all this poetry, the individual that all my writing was focused towards (and no one else), Oliver Hendricks. Thanks for allowing this to go down.</text:p>
+   <text:p text:style-name="P126"/>
+   <text:p text:style-name="P126">The following literary pieces were used as formatting reference <text:span text:style-name="T68">(front-matter, end-matter, all-matter...)</text:span> through<text:span text:style-name="T67">out</text:span> the making of this book<text:span text:style-name="T67">. I hope my </text:span><text:span text:style-name="T50">reference</text:span><text:span text:style-name="T67"> </text:span><text:span text:style-name="T50">to</text:span><text:span text:style-name="T67"> their</text:span><text:span text:style-name="T50">s</text:span><text:span text:style-name="T67"> does no disservice to these great pieces of art </text:span><text:span text:style-name="T50">and their artists</text:span>:</text:p>
+   <text:p text:style-name="P128"><text:tab/><text:span text:style-name="T69">American Primitive</text:span><text:span text:style-name="T70">, </text:span><text:span text:style-name="T67">Mary Oliver</text:span></text:p>
+   <text:p text:style-name="P129"><text:tab/><text:span text:style-name="T71">Madness, Rack, and Honey</text:span><text:span text:style-name="T50">, Mary Ruefle</text:span></text:p>
+   <text:p text:style-name="P130"><text:tab/><text:span text:style-name="T69">milk and honey</text:span><text:span text:style-name="T70">, </text:span><text:span text:style-name="T72">R</text:span><text:span text:style-name="T67">upi </text:span><text:span text:style-name="T50">K</text:span><text:span text:style-name="T67">aur</text:span></text:p>
+   <text:p text:style-name="P130"><text:tab/><text:span text:style-name="T71">Of Tyrant</text:span><text:span text:style-name="T50">, Leah Umansky</text:span></text:p>
+   <text:h text:style-name="P125" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1994_818021894"/><office:annotation office:name="__Annotation__2421_818021894" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-06-28T22:31:27.957773000</dc:date>
      <meta:creator-initials>VTH</meta:creator-initials>
      <text:p text:style-name="Comment">Place as last page double spread with ollie, so me left him right.</text:p>
     </office:annotation>About the Author<office:annotation-end office:name="__Annotation__2421_818021894"/><text:bookmark-end text:name="__RefHeading___Toc1994_818021894"/></text:h>
-   <text:p text:style-name="P128"/>
-   <text:p text:style-name="P128">Vladimir (Vova) Tomasovitch <draw:frame draw:style-name="fr2" draw:name="Image1" text:anchor-type="char" svg:x="2.5402in" svg:y="-0.0161in" svg:width="1.75in" svg:height="2.1902in" draw:z-index="0"><draw:image xlink:href="images/abouttheauthor-BusinessSelfBW.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
-    </draw:frame>Herdman is a <text:span text:style-name="T72">well-meaning </text:span>person from Northeast Ohio. At the time of publishing, he <text:span text:style-name="T73">is 21 years old and </text:span>has know<text:span text:style-name="T74">n</text:span> Oliver Hendricks for 3 years. <text:span text:style-name="T75">He may never write again, </text:span><text:span text:style-name="T67">and apologizes for all you had to endure to reach this point</text:span><text:span text:style-name="T75">. </text:span><text:span text:style-name="T76">The next book will be formatted using LaTeX.</text:span></text:p>
-   <text:p text:style-name="P128"/>
-   <text:p text:style-name="P128">If you’ve gotten this far, you know enough about me.</text:p>
-   <text:h text:style-name="P122" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1992_818021894"/>About the Muse<text:bookmark-end text:name="__RefHeading___Toc1992_818021894"/></text:h>
-   <text:p text:style-name="P128"/>
-   <text:p text:style-name="P128">Where do I even start… Oliver <draw:frame draw:style-name="fr2" draw:name="Image2" text:anchor-type="char" svg:x="2.602in" svg:y="-0.0118in" svg:width="1.75in" svg:height="1.9799in" draw:z-index="1"><draw:image xlink:href="images/aboutthemuse-OllieBW.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
-    </draw:frame>Hendricks was born in the year 2004 to… <text:span text:style-name="T75">Oh, just no more, please. I’ve </text:span><text:span text:style-name="T49">let out</text:span><text:span text:style-name="T75"> enough on him. He’s also a person, and I thought it’d be funny to make this and say it’s after him, </text:span><text:span text:style-name="T49">so that’s how this all started</text:span><text:span text:style-name="T75">.</text:span></text:p>
-   <text:p text:style-name="P128"/>
-   <text:p text:style-name="P128">If you’ve gotten this far, you <text:span text:style-name="T72">should</text:span> know even less about him. <text:span text:style-name="T75">Keep it that way, he’s mine.</text:span></text:p>
-   <text:h text:style-name="P122" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc8138_1175081228"/><office:annotation office:name="__Annotation__7946_3499536570" loext:resolved="false">
+   <text:p text:style-name="P131"/>
+   <text:p text:style-name="P131">Vladimir (Vova) Tomasovitch <draw:frame draw:style-name="fr2" draw:name="Image1" text:anchor-type="char" svg:x="2.5402in" svg:y="-0.0161in" svg:width="1.75in" svg:height="2.1902in" draw:z-index="0"><draw:image xlink:href="images/abouttheauthor-BusinessSelfBW.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
+    </draw:frame>Herdman is a <text:span text:style-name="T73">well-meaning </text:span>person from Northeast Ohio. At the time of publishing, he <text:span text:style-name="T74">is 21 years old and </text:span>has know<text:span text:style-name="T75">n</text:span> Oliver Hendricks for 3 years. <text:span text:style-name="T76">He may never write again, </text:span><text:span text:style-name="T68">and apologizes for all you had to endure to reach this point</text:span><text:span text:style-name="T76">. </text:span><text:span text:style-name="T77">The next book will be formatted using LaTeX.</text:span></text:p>
+   <text:p text:style-name="P131"/>
+   <text:p text:style-name="P131">If you’ve gotten this far, you know enough about me.</text:p>
+   <text:h text:style-name="P125" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1992_818021894"/>About the Muse<text:bookmark-end text:name="__RefHeading___Toc1992_818021894"/></text:h>
+   <text:p text:style-name="P131"/>
+   <text:p text:style-name="P131">Where do I even start… Oliver <draw:frame draw:style-name="fr2" draw:name="Image2" text:anchor-type="char" svg:x="2.602in" svg:y="-0.0118in" svg:width="1.75in" svg:height="1.9799in" draw:z-index="1"><draw:image xlink:href="images/aboutthemuse-OllieBW.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
+    </draw:frame>Hendricks was born in the year 2004 to… <text:span text:style-name="T76">Oh, just no more, please. I’ve </text:span><text:span text:style-name="T50">let out</text:span><text:span text:style-name="T76"> enough on him. He’s also a person, and I thought it’d be funny to make this and say it’s after him, </text:span><text:span text:style-name="T50">so that’s how this all started</text:span><text:span text:style-name="T76">.</text:span></text:p>
+   <text:p text:style-name="P131"/>
+   <text:p text:style-name="P131">If you’ve gotten this far, you <text:span text:style-name="T73">should</text:span> know even less about him. <text:span text:style-name="T76">Keep it that way, he’s mine.</text:span></text:p>
+   <text:h text:style-name="P125" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc8138_1175081228"/><office:annotation office:name="__Annotation__7946_3499536570" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-07-18T20:20:09.287968000</dc:date>
      <meta:creator-initials>VTH</meta:creator-initials>
