@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2026-05-06T22:18:00.969720000</meta:creation-date><dc:date>2026-08-02T20:51:01.659284000</dc:date><meta:editing-duration>P3DT5H9M37S</meta:editing-duration><meta:editing-cycles>272</meta:editing-cycles><meta:generator>LibreOffice/26.2.3.2$MacOSX_AARCH64 LibreOffice_project/70e089b17412e4cb7773e41413306b17a2328c34</meta:generator><meta:printed-by>PDF files: Vladimir Herdman</meta:printed-by><meta:print-date>2026-08-02T20:49:21.352644000</meta:print-date><dc:creator>Vladimir Herdman</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="13" meta:object-count="0" meta:page-count="91" meta:paragraph-count="1312" meta:word-count="7184" meta:character-count="38199" meta:non-whitespace-character-count="30057"/></office:meta>
+ <office:meta><meta:creation-date>2026-05-06T22:18:00.969720000</meta:creation-date><dc:date>2026-08-03T20:37:52.001216000</dc:date><meta:editing-duration>P3DT5H18M29S</meta:editing-duration><meta:editing-cycles>282</meta:editing-cycles><meta:generator>LibreOffice/26.2.3.2$MacOSX_AARCH64 LibreOffice_project/70e089b17412e4cb7773e41413306b17a2328c34</meta:generator><meta:printed-by>PDF files: Vladimir Herdman</meta:printed-by><meta:print-date>2026-08-02T20:49:21.352644000</meta:print-date><dc:creator>Vladimir Herdman</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="15" meta:object-count="0" meta:page-count="91" meta:paragraph-count="1295" meta:word-count="7096" meta:character-count="37618" meta:non-whitespace-character-count="29877"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">130059</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">992253</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">38135</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">19535</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">44524</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">24402</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">7890</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">135860</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">25451</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1005288</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">130059</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">38134</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">149592</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">992253</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">44522</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">1016653</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">2</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">60</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">65</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="WindowState" config:type="string">151,65,1209,759;1;,,,;</config:config-item>
+     <config:config-item config:name="WindowState" config:type="string">151,65,1209,759;1;0,0,1512,949;</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
      <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
@@ -92,7 +92,7 @@
    <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
    <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">11993686</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">12026522</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
@@ -1129,156 +1129,159 @@
    <style:text-properties officeooo:rsid="009670d9"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties officeooo:rsid="004069c6"/>
-  </style:style>
-  <style:style style:name="T47" style:family="text">
    <style:text-properties officeooo:rsid="00586a04"/>
   </style:style>
-  <style:style style:name="T48" style:family="text">
+  <style:style style:name="T47" style:family="text">
    <style:text-properties officeooo:rsid="005eca10"/>
   </style:style>
-  <style:style style:name="T49" style:family="text">
+  <style:style style:name="T48" style:family="text">
    <style:text-properties officeooo:rsid="0084ae75"/>
   </style:style>
-  <style:style style:name="T50" style:family="text">
+  <style:style style:name="T49" style:family="text">
    <style:text-properties officeooo:rsid="005dab1a"/>
   </style:style>
-  <style:style style:name="T51" style:family="text">
+  <style:style style:name="T50" style:family="text">
    <style:text-properties officeooo:rsid="00491cb3"/>
   </style:style>
-  <style:style style:name="T52" style:family="text">
+  <style:style style:name="T51" style:family="text">
    <style:text-properties fo:font-style="normal" officeooo:rsid="009842a5" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T53" style:family="text">
+  <style:style style:name="T52" style:family="text">
    <style:text-properties fo:font-style="italic" officeooo:rsid="00915c22" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T54" style:family="text">
+  <style:style style:name="T53" style:family="text">
    <style:text-properties officeooo:rsid="005d9990"/>
   </style:style>
-  <style:style style:name="T55" style:family="text">
+  <style:style style:name="T54" style:family="text">
    <style:text-properties officeooo:rsid="005d8d2b"/>
   </style:style>
-  <style:style style:name="T56" style:family="text">
+  <style:style style:name="T55" style:family="text">
    <style:text-properties officeooo:rsid="005c22f2"/>
   </style:style>
-  <style:style style:name="T57" style:family="text">
+  <style:style style:name="T56" style:family="text">
    <style:text-properties officeooo:rsid="007bd8ac"/>
   </style:style>
-  <style:style style:name="T58" style:family="text">
+  <style:style style:name="T57" style:family="text">
    <style:text-properties officeooo:rsid="007d9716"/>
   </style:style>
-  <style:style style:name="T59" style:family="text">
+  <style:style style:name="T58" style:family="text">
    <style:text-properties officeooo:rsid="004bc2cc"/>
   </style:style>
-  <style:style style:name="T60" style:family="text">
+  <style:style style:name="T59" style:family="text">
    <style:text-properties officeooo:rsid="008058c9"/>
   </style:style>
-  <style:style style:name="T61" style:family="text">
+  <style:style style:name="T60" style:family="text">
    <style:text-properties officeooo:rsid="005127df"/>
   </style:style>
-  <style:style style:name="T62" style:family="text">
+  <style:style style:name="T61" style:family="text">
    <style:text-properties officeooo:rsid="004ed849"/>
   </style:style>
-  <style:style style:name="T63" style:family="text">
+  <style:style style:name="T62" style:family="text">
    <style:text-properties officeooo:rsid="005a4153"/>
   </style:style>
-  <style:style style:name="T64" style:family="text">
+  <style:style style:name="T63" style:family="text">
    <style:text-properties officeooo:rsid="0074c7fe"/>
   </style:style>
-  <style:style style:name="T65" style:family="text">
+  <style:style style:name="T64" style:family="text">
    <style:text-properties officeooo:rsid="0075a278"/>
   </style:style>
-  <style:style style:name="T66" style:family="text">
+  <style:style style:name="T65" style:family="text">
    <style:text-properties officeooo:rsid="0074dc4e"/>
   </style:style>
-  <style:style style:name="T67" style:family="text">
+  <style:style style:name="T66" style:family="text">
    <style:text-properties officeooo:rsid="00734c14"/>
   </style:style>
-  <style:style style:name="T68" style:family="text">
+  <style:style style:name="T67" style:family="text">
    <style:text-properties officeooo:rsid="00717efd"/>
   </style:style>
-  <style:style style:name="T69" style:family="text">
+  <style:style style:name="T68" style:family="text">
    <style:text-properties officeooo:rsid="0064cbdd"/>
   </style:style>
-  <style:style style:name="T70" style:family="text">
+  <style:style style:name="T69" style:family="text">
    <style:text-properties fo:font-style="italic" officeooo:rsid="0094d92d" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T71" style:family="text">
+  <style:style style:name="T70" style:family="text">
    <style:text-properties officeooo:rsid="00823eae"/>
   </style:style>
-  <style:style style:name="T72" style:family="text">
+  <style:style style:name="T71" style:family="text">
    <style:text-properties officeooo:rsid="0083aec2"/>
   </style:style>
-  <style:style style:name="T73" style:family="text">
+  <style:style style:name="T72" style:family="text">
    <style:text-properties fo:font-style="italic" officeooo:rsid="0084ae75" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T74" style:family="text">
+  <style:style style:name="T73" style:family="text">
    <style:text-properties officeooo:rsid="008c9214"/>
   </style:style>
-  <style:style style:name="T75" style:family="text">
+  <style:style style:name="T74" style:family="text">
    <style:text-properties officeooo:rsid="008e4556"/>
   </style:style>
-  <style:style style:name="T76" style:family="text">
+  <style:style style:name="T75" style:family="text">
    <style:text-properties officeooo:rsid="0064fbc7"/>
   </style:style>
-  <style:style style:name="T77" style:family="text">
+  <style:style style:name="T76" style:family="text">
    <style:text-properties officeooo:rsid="00ab1ee6"/>
   </style:style>
-  <style:style style:name="T78" style:family="text">
+  <style:style style:name="T77" style:family="text">
    <style:text-properties officeooo:rsid="007f0eed"/>
   </style:style>
-  <style:style style:name="T79" style:family="text">
+  <style:style style:name="T78" style:family="text">
    <style:text-properties officeooo:rsid="00822e9c"/>
   </style:style>
-  <style:style style:name="T80" style:family="text">
+  <style:style style:name="T79" style:family="text">
    <style:text-properties fo:font-style="italic" officeooo:rsid="007f0eed" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T81" style:family="text">
+  <style:style style:name="T80" style:family="text">
    <style:text-properties fo:font-style="normal" officeooo:rsid="007f0eed" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T82" style:family="text">
+  <style:style style:name="T81" style:family="text">
    <style:text-properties fo:font-style="italic" officeooo:rsid="008058c9" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T83" style:family="text">
+  <style:style style:name="T82" style:family="text">
    <style:text-properties fo:font-style="normal" officeooo:rsid="008058c9" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
-  <style:style style:name="T84" style:family="text">
+  <style:style style:name="T83" style:family="text">
    <style:text-properties officeooo:rsid="0079dffc"/>
   </style:style>
-  <style:style style:name="T85" style:family="text">
+  <style:style style:name="T84" style:family="text">
    <style:text-properties officeooo:rsid="007e2827"/>
   </style:style>
-  <style:style style:name="T86" style:family="text">
+  <style:style style:name="T85" style:family="text">
    <style:text-properties officeooo:rsid="00766fde"/>
   </style:style>
-  <style:style style:name="T87" style:family="text">
+  <style:style style:name="T86" style:family="text">
    <style:text-properties officeooo:rsid="008827d4"/>
   </style:style>
-  <style:style style:name="T88" style:family="text">
+  <style:style style:name="T87" style:family="text">
    <style:text-properties officeooo:rsid="00ac8d26"/>
   </style:style>
-  <style:style style:name="T89" style:family="text">
+  <style:style style:name="T88" style:family="text">
    <style:text-properties fo:color="#333333" loext:opacity="100%" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T90" style:family="text">
+  <style:style style:name="T89" style:family="text">
    <style:text-properties fo:color="#333333" loext:opacity="100%" fo:font-style="italic" officeooo:rsid="00ab1ee6" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="T91" style:family="text">
+  <style:style style:name="T90" style:family="text">
    <style:text-properties officeooo:rsid="0077ec9b"/>
   </style:style>
-  <style:style style:name="T92" style:family="text">
+  <style:style style:name="T91" style:family="text">
    <style:text-properties officeooo:rsid="00b3dfb5"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+   <style:graphic-properties style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:padding="0.0193in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties fo:margin-left="0.2in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.2in" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true"/>
+   <style:graphic-properties style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr4" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" fo:padding="0.0193in" fo:border="none" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
+  </style:style>
+  <style:style style:name="fr5" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="0.2in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0.2in" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true"/>
+  </style:style>
+  <style:style style:name="fr6" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="Sect1" style:family="section">
@@ -1380,7 +1383,7 @@
     <text:p text:style-name="P1"><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5"/></text:p>
    </style:header>
    <style:header-left>
-    <text:p text:style-name="P2"><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 40"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 38"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 36"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 34"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 32"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 30"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 28"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 26"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 24"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 22"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 20"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 18"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 16"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 14"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 12"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 10"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 8"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 6"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 31"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 29"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 27"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 25"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 23"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 21"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 19"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 17"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 15"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 13"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 11"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 9"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 7"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered6 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 6"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 8"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 10"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 12"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 14"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 16"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 18"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 20"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 22"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 24"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 26"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 28"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 30"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 32"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 7"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 9"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 11"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 13"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 15"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 17"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 19"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 21"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 23"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 25"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 27"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 29"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 31"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 33"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 35"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 37"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 39"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1"/></text:p>
+    <text:p text:style-name="P2"><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 41"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 39"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 37"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 35"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 33"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 31"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 29"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 27"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 25"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 23"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 21"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 19"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 17"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 15"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 13"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 11"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 9"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 7"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 32"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 30"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 28"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 26"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 24"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 22"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 20"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 18"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 16"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 14"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 12"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 10"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 8"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 6"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered6 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 1"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 3"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 5"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 7"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 9"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 11"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 13"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 15"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 17"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 19"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 21"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 23"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 25"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 27"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 29"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 31"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 2"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 4"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 6"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 8"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 10"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 12"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 14"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 16"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 18"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 20"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 22"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 24"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 26"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 28"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 30"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 32"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 34"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 36"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 38"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1 Copy 40"/><text:bookmark text:name="PageNumWizard_HEADER_Frontmatter-numbered5 Copy 5 Copy 2 Copy 1"/></text:p>
    </style:header-left>
   </style:master-page>
   <style:master-page style:name="HTML" style:page-layout-name="pm9" draw:style-name="dp1"/>
@@ -1390,7 +1393,7 @@
     <text:p text:style-name="P1"><text:bookmark-start text:name="PageNumWizard_HEADER_Frontmatter-numbered5"/><text:page-number text:select-page="current">IX</text:page-number><text:bookmark-end text:name="PageNumWizard_HEADER_Frontmatter-numbered5"/></text:p>
    </style:header>
    <style:header-left>
-    <text:p text:style-name="P2"><text:bookmark-start text:name="PageNumWizard_HEADER_Frontmatter-numbered6"/><text:page-number text:select-page="current">X</text:page-number><text:bookmark-end text:name="PageNumWizard_HEADER_Frontmatter-numbered6"/></text:p>
+    <text:p text:style-name="P2"><text:bookmark-start text:name="PageNumWizard_HEADER_Frontmatter-numbered6"/><text:page-number text:select-page="current">0</text:page-number><text:bookmark-end text:name="PageNumWizard_HEADER_Frontmatter-numbered6"/></text:p>
    </style:header-left>
   </style:master-page>
   <style:master-page style:name="Poetry" style:page-layout-name="pm1" draw:style-name="dp1">
@@ -1826,11 +1829,167 @@
    <text:p text:style-name="Poetry_20_Text">I woke up last night,</text:p>
    <text:p text:style-name="Poetry_20_Text">no dihh—</text:p>
    <text:p text:style-name="Poetry_20_Text">Oh, uhhh</text:p>
-   <text:p text:style-name="Poetry_20_Text">昨晚我醒过来,</text:p>
-   <text:p text:style-name="Poetry_20_Text">发现没屌了.</text:p>
+   <text:p text:style-name="Poetry_20_Text"><draw:frame draw:style-name="fr2" draw:name="Image10" text:anchor-type="char" svg:x="-0.0728in" svg:y="-0.0165in" svg:width="1.1398in" svg:height="0.4563in" draw:z-index="14"><draw:image draw:mime-type="image/jpeg">
+      <office:binary-data>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
+       ABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABj
+       ABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjABjAD//2Q==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc8148_1175081228"/>Part Of Oliver From Memory<text:bookmark-end text:name="__RefHeading___Toc8148_1175081228"/></text:h>
-   <text:p text:style-name="P49"/>
-   <text:p text:style-name="P58"/>
+   <text:p text:style-name="Poetry_20_Text"/>
+   <text:p text:style-name="Poetry_20_Text"/>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc4885_1189619379"/><office:annotation office:name="__Annotation__5254_3816961002" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-08-01T21:22:46.997542000</dc:date>
@@ -1855,7 +2014,7 @@
    <text:p text:style-name="P58"/>
    <text:p text:style-name="P58">I win.</text:p>
    <text:p text:style-name="P60"/>
-   <text:p text:style-name="P58"><draw:frame draw:style-name="fr2" draw:name="Image4" text:anchor-type="char" svg:x="0.8319in" svg:y="0.0937in" svg:width="2.7701in" svg:height="6.7689in" draw:z-index="3"><draw:image xlink:href="images/test/grave%20test.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
+   <text:p text:style-name="P58"><draw:frame draw:style-name="fr3" draw:name="Image4" text:anchor-type="char" svg:x="0.8319in" svg:y="0.0937in" svg:width="2.7701in" svg:height="6.7689in" draw:z-index="3"><draw:image xlink:href="images/test/grave%20test.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P59">Here&apos;re the letters I used to make it, in no particular order. Open casket funeral:</text:p>
    <text:p text:style-name="P59"/>
@@ -2159,41 +2318,544 @@
    <text:p text:style-name="P78">I didn&apos;t shit.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc782_3676532460"/>:<text:span text:style-name="T45">3</text:span><text:bookmark-end text:name="__RefHeading___Toc782_3676532460"/></text:h>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text">(-_-)zzz</text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text">(￣ー￣)</text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="3"/>o_o</text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text">(*´▽｀*) <text:s text:c="25"/>ᕦ(ò_óˇ)ᕤ </text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text">(☞ﾟヮﾟ)☞ <text:s text:c="22"/>☜(ﾟヮﾟ☜)</text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="6"/>ᕕ( ᐛ )ᕗ <text:s text:c="22"/>☜(ﾟヮﾟ☜)</text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="15"/>(づ￣ ³￣)づ <text:s text:c="10"/>☜(ﾟヮﾟ☜)</text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="15"/><text:span text:style-name="T46">/ (,,-_-,,) / &lt;</text:span><text:span text:style-name="T45">3 (✿◠‿◠)</text:span></text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="30"/><text:span text:style-name="T46">/ (,,-_-,,) / &lt;</text:span><text:span text:style-name="T45">3 (✿◠‿◠)</text:span></text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="48"/><text:span text:style-name="T46">/ (,,-_-,,) / &lt;</text:span><text:span text:style-name="T45">3 (✿◠</text:span></text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>o_O <text:s text:c="66"/><text:span text:style-name="T46">/ (,,-_-</text:span><text:span text:style-name="T45">)</text:span></text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="21"/>(._.)</text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="13"/>(;_;)</text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="2"/>ヽ(´ー｀)ﾉ</text:p>
-   <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="Poetry_20_Text"><text:span text:style-name="T31">( </text:span>ˊ＿&gt;ˋ <text:span text:style-name="T31">)</text:span></text:p>
-   <text:h text:style-name="P79" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1125_1230340041 Copy 1"/>Instagramification<text:span text:style-name="T47"> </text:span>– <text:span text:style-name="T48">A Classic</text:span><text:bookmark-end text:name="__RefHeading___Toc1125_1230340041 Copy 1"/></text:h>
+   <text:p text:style-name="Poetry_20_Text"><draw:frame draw:style-name="fr4" draw:name="Image9" text:anchor-type="char" svg:width="4.4598in" svg:height="6.3173in" draw:z-index="13"><draw:image draw:mime-type="image/jpeg">
+      <office:binary-data>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
+       3wpqj3VMG+7W/mlJpcpeyJGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACPdZy54PTcrIh9+uqTh23qT7J6+jewAkG1vW+/
+       wMcs6Vj2fh2OXFay44scz7Wm/tHqqHqy3b99p946b0vYANkI70bKszem4t9v+ZZVFy9tvxy/
+       xa3+sAJEeVk/ThKbTfGLlpeey2AHptL38+DIuiYOP13plmTmRjdfkzu3bJbnTqTUVU33rUdJ
+       pR0viAGvGe/hPLyMvpi+0NznTbZTzk9uahppt++t8d+XruAGhAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAA5b6K8mmym2PKFkXCS+KktM6gAzqroWXViS6es5PDluOnT/AKwq
+       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
+       NNfHXZP6gBqBRU507c7IxXjXQjTGElfJfwrOST1B/Tfxfh+AAvQAAouo508CFUo412T6lsa3
+       GlbcFLfzy+i1+W/cAI/+KYNdLsvg+NuLOq+qS8xlGaTf+y2ff4ps4dGyku8rPTqhH3lKdkVp
+       fXWwAlWHkLLxaL0tetVXZr4c4qWv1bPLp+O8TCxqH5qpqrlr4xgk/wC8ALUAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFFlYCtvryqpelkVRcFPW42Vt7dVq7cob7rTTi+6L0
+       AOW/1vTl6Hp+p24+py4ee++On4349zqACK6638enf7OR/vEqACrxPtvzfanjvxw9BWL475c2
+       /prRaABR2YP2jKhdfPnCh8qKUtRjPWvVm3vlNbah4UV31vuXgAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+       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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:h text:style-name="P79" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1125_1230340041 Copy 1"/>Instagramification<text:span text:style-name="T46"> </text:span>– <text:span text:style-name="T47">A Classic</text:span><text:bookmark-end text:name="__RefHeading___Toc1125_1230340041 Copy 1"/></text:h>
    <text:p text:style-name="P80"/>
-   <text:p text:style-name="P80"><text:span text:style-name="T49">r</text:span>oses are red,</text:p>
-   <text:p text:style-name="P80"><text:span text:style-name="T49">vi</text:span>olets are blue,</text:p>
-   <text:p text:style-name="P80"><text:span text:style-name="T49">o</text:span>llie, my bed—</text:p>
-   <text:p text:style-name="P80"><text:span text:style-name="T49">j</text:span>ust me and you.</text:p>
+   <text:p text:style-name="P80"><text:span text:style-name="T48">r</text:span>oses are red,</text:p>
+   <text:p text:style-name="P80"><text:span text:style-name="T48">vi</text:span>olets are blue,</text:p>
+   <text:p text:style-name="P80"><text:span text:style-name="T48">o</text:span>llie, my bed—</text:p>
+   <text:p text:style-name="P80"><text:span text:style-name="T48">j</text:span>ust me and you.</text:p>
    <text:h text:style-name="P81" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc4871_1189619379"/><office:annotation office:name="__Annotation__5499_172932303" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-07-29T07:19:25.698948590</dc:date>
@@ -2232,7 +2894,7 @@
    <text:p text:style-name="P83">and you your tool.</text:p>
    <text:p text:style-name="P83"/>
    <text:p text:style-name="P83">But now,</text:p>
-   <text:p text:style-name="P83">my naked weapon is out<text:span text:style-name="T50">—</text:span></text:p>
+   <text:p text:style-name="P83">my naked weapon is out<text:span text:style-name="T49">—</text:span></text:p>
    <text:p text:style-name="P83">Draw thine</text:p>
    <text:p text:style-name="P83">and we will duel,</text:p>
    <text:p text:style-name="P83">as sword masters are apt.</text:p>
@@ -2263,7 +2925,7 @@
    <text:p text:style-name="P86"/>
    <text:p text:style-name="P86"/>
    <text:p text:style-name="P86"/>
-   <text:p text:style-name="P86"><text:s text:c="8"/><text:span text:style-name="T51">a <text:s text:c="47"/>ft <text:s text:c="31"/>s <text:s/>h</text:span></text:p>
+   <text:p text:style-name="P86"><text:s text:c="8"/><text:span text:style-name="T50">a <text:s text:c="47"/>ft <text:s text:c="31"/>s <text:s/>h</text:span></text:p>
    <text:p text:style-name="P87"><text:s text:c="2"/>wh <text:s text:c="3"/>t <text:s/>do I e <text:s text:c="2"/>en <text:s text:c="2"/>s ay to y o <text:s/>u <text:s/>a <text:s text:c="2"/>er <text:s text:c="30"/>am e</text:p>
    <text:p text:style-name="P87">suc h <text:s/>a m <text:s text:c="6"/>v <text:s text:c="2"/>I’v e <text:s text:c="6"/>ad e. My hea rt we t <text:s text:c="14"/>on th e</text:p>
    <text:p text:style-name="P87"><text:s text:c="5"/>agai nst ess <text:s text:c="16"/>m <text:s text:c="20"/>o <text:s/>c <text:s text:c="27"/>w a</text:p>
@@ -2323,7 +2985,7 @@
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1323_3007704144"/>Must I Grow Forever<text:bookmark-end text:name="__RefHeading___Toc1323_3007704144"/></text:h>
    <text:p text:style-name="P82"/>
    <text:p text:style-name="P82"/>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc8146_1175081228"/><text:span text:style-name="T30">Remember back in the August of ‘24 when we <text:s/>met face-to-face and how It was o</text:span><text:span text:style-name="T31">ur first minicamp together as a team and </text:span><text:span text:style-name="T30">we sat on a couch near each other and I couldn’t build up the courage to speak to you proper, so I just sat and listened and smiled and kept introducing myself to everyone who came by who asked me who I was? I spoke louder near you because I wanted you to hear me, I wanted you to know I was around and that I was someone to talk to, but a</text:span><text:span text:style-name="T31">ll I </text:span><text:span text:style-name="T30">could</text:span><text:span text:style-name="T31"> think </text:span><text:span text:style-name="T30">about when you got closer was</text:span><text:span text:style-name="T31"> how much funnier I want</text:span><text:span text:style-name="T30">ed</text:span><text:span text:style-name="T31"> to be around you, how if I was just a little funnier, I’d have everything I ever wanted and more,</text:span> <text:span text:style-name="T30">how if I was a little smarter, I’d always say the right thing and be charming and be desired, </text:span>and <text:span text:style-name="T30">now </text:span><text:span text:style-name="T31">I’m screaming with </text:span><text:span text:style-name="T52">gusto</text:span><text:span text:style-name="T31"> at the walls begging for another </text:span><text:span text:style-name="T30">chance</text:span><text:span text:style-name="T31">, but memory’s a fickle liar and will tell you </text:span><text:span text:style-name="T30">everything</text:span><text:span text:style-name="T31"> you never heard. </text:span><text:span text:style-name="T30">I’m stuck here thinking of what I’d have done different while</text:span><text:span text:style-name="T31"> <text:s/></text:span>all <text:span text:style-name="T30">you’re</text:span> ask<text:span text:style-name="T30">ing</text:span> <text:span text:style-name="T30">me </text:span>now is<text:bookmark-end text:name="__RefHeading___Toc8146_1175081228"/></text:h>
+   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc8146_1175081228"/><text:span text:style-name="T30">Remember back in the August of ‘24 when we <text:s/>met face-to-face and how It was o</text:span><text:span text:style-name="T31">ur first minicamp together as a team and </text:span><text:span text:style-name="T30">we sat on a couch near each other and I couldn’t build up the courage to speak to you proper, so I just sat and listened and smiled and kept introducing myself to everyone who came by who asked me who I was? I spoke louder near you because I wanted you to hear me, I wanted you to know I was around and that I was someone to talk to, but a</text:span><text:span text:style-name="T31">ll I </text:span><text:span text:style-name="T30">could</text:span><text:span text:style-name="T31"> think </text:span><text:span text:style-name="T30">about when you got closer was</text:span><text:span text:style-name="T31"> how much funnier I want</text:span><text:span text:style-name="T30">ed</text:span><text:span text:style-name="T31"> to be around you, how if I was just a little funnier, I’d have everything I ever wanted and more,</text:span> <text:span text:style-name="T30">how if I was a little smarter, I’d always say the right thing and be charming and be desired, </text:span>and <text:span text:style-name="T30">now </text:span><text:span text:style-name="T31">I’m screaming with </text:span><text:span text:style-name="T51">gusto</text:span><text:span text:style-name="T31"> at the walls begging for another </text:span><text:span text:style-name="T30">chance</text:span><text:span text:style-name="T31">, but memory’s a fickle liar and will tell you </text:span><text:span text:style-name="T30">everything</text:span><text:span text:style-name="T31"> you never heard. </text:span><text:span text:style-name="T30">I’m stuck here thinking of what I’d have done different while</text:span><text:span text:style-name="T31"> <text:s/></text:span>all <text:span text:style-name="T30">you’re</text:span> ask<text:span text:style-name="T30">ing</text:span> <text:span text:style-name="T30">me </text:span>now is<text:bookmark-end text:name="__RefHeading___Toc8146_1175081228"/></text:h>
    <text:p text:style-name="P54"/>
    <text:p text:style-name="P54">Who the fuck is Gusto?</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6579_3499536570"/>Did You Think Of Me Today<text:bookmark-end text:name="__RefHeading___Toc6579_3499536570"/></text:h>
@@ -2435,7 +3097,7 @@
    <text:p text:style-name="P49">I can’t see your face,</text:p>
    <text:p text:style-name="P93"><text:span text:style-name="T29">but </text:span>You are</text:p>
    <text:p text:style-name="P93">giving me pearls</text:p>
-   <text:p text:style-name="P93"><text:s text:c="4"/><text:span text:style-name="T53">b</text:span><text:span text:style-name="T37">oy</text:span></text:p>
+   <text:p text:style-name="P93"><text:s text:c="4"/><text:span text:style-name="T52">b</text:span><text:span text:style-name="T37">oy</text:span></text:p>
    <text:p text:style-name="P93">my father says,</text:p>
    <text:p text:style-name="P93">spitting on the earth,</text:p>
    <text:p text:style-name="P94"><text:s text:c="4"/>I&apos;m giving you pearls, boy</text:p>
@@ -2464,13 +3126,13 @@
    <text:p text:style-name="P96">I just want to keep looking.</text:p>
    <text:p text:style-name="P96">I want to keep wondering if <text:s text:c="2"/>if <text:s text:c="6"/>if</text:p>
    <text:p text:style-name="P96">what I see is what I&apos;ll get,</text:p>
-   <text:p text:style-name="P96"><text:span text:style-name="T54">if</text:span> there’s <text:span text:style-name="T54">so much more</text:span> out there.</text:p>
+   <text:p text:style-name="P96"><text:span text:style-name="T53">if</text:span> there’s <text:span text:style-name="T53">so much more</text:span> out there.</text:p>
    <text:p text:style-name="P96"/>
    <text:p text:style-name="P96">I want <text:s text:c="2"/>I want</text:p>
    <text:p text:style-name="P96">I want to keep looking</text:p>
-   <text:p text:style-name="P96">at <text:span text:style-name="T55">those</text:span> <text:span text:style-name="T55">distant</text:span> clouds</text:p>
-   <text:p text:style-name="P96"><text:span text:style-name="T55">until </text:span>they disappear when</text:p>
-   <text:p text:style-name="P96">I <text:span text:style-name="T54">forget to stare</text:span><text:span text:style-name="T56">.</text:span></text:p>
+   <text:p text:style-name="P96">at <text:span text:style-name="T54">those</text:span> <text:span text:style-name="T54">distant</text:span> clouds</text:p>
+   <text:p text:style-name="P96"><text:span text:style-name="T54">until </text:span>they disappear when</text:p>
+   <text:p text:style-name="P96">I <text:span text:style-name="T53">forget to stare</text:span><text:span text:style-name="T55">.</text:span></text:p>
    <text:p text:style-name="P96"/>
    <text:p text:style-name="P57">I want to know</text:p>
    <text:p text:style-name="P57">if you’re looking</text:p>
@@ -2479,14 +3141,14 @@
    <text:p text:style-name="P57"/>
    <text:p text:style-name="P57">If we’re lost</text:p>
    <text:p text:style-name="P57">in the same clouds.</text:p>
-   <text:h text:style-name="P97" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2553_4237564503"/>The <text:span text:style-name="T49">Boulder</text:span> (2024)<text:bookmark-end text:name="__RefHeading___Toc2553_4237564503"/></text:h>
+   <text:h text:style-name="P97" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2553_4237564503"/>The <text:span text:style-name="T48">Boulder</text:span> (2024)<text:bookmark-end text:name="__RefHeading___Toc2553_4237564503"/></text:h>
    <text:p text:style-name="P98"/>
    <text:p text:style-name="P98">It wondered</text:p>
    <text:p text:style-name="P98">how many times before</text:p>
    <text:p text:style-name="P98">it had been stopped in its path,</text:p>
    <text:p text:style-name="P98">how many times the bigger rock</text:p>
    <text:p text:style-name="P98">had eventually crumbled</text:p>
-   <text:p text:style-name="P98"><text:span text:style-name="T49">a</text:span>nd the lesser rock</text:p>
+   <text:p text:style-name="P98"><text:span text:style-name="T48">a</text:span>nd the lesser rock</text:p>
    <text:p text:style-name="P98">became,</text:p>
    <text:p text:style-name="P98">how many times</text:p>
    <text:p text:style-name="P98">it had been blocked</text:p>
@@ -2500,8 +3162,8 @@
    <text:p text:style-name="P98">The marks of its journey,</text:p>
    <text:p text:style-name="P98">its only experience,</text:p>
    <text:p text:style-name="P98">will line its surface,</text:p>
-   <text:p text:style-name="P98">holding the understanding <text:span text:style-name="T49">it</text:span></text:p>
-   <text:p text:style-name="P98"><text:span text:style-name="T49">will</text:span> not remember,</text:p>
+   <text:p text:style-name="P98">holding the understanding <text:span text:style-name="T48">it</text:span></text:p>
+   <text:p text:style-name="P98"><text:span text:style-name="T48">will</text:span> not remember,</text:p>
    <text:p text:style-name="P98">always shown but never seen.</text:p>
    <text:p text:style-name="P98">This knowledge will be shared</text:p>
    <text:p text:style-name="P98">to the first that encounter it.</text:p>
@@ -2539,7 +3201,7 @@
    <text:p text:style-name="P102">Never have I ever</text:p>
    <text:p text:style-name="P102">wanted a hangover. UH huh.</text:p>
    <text:p text:style-name="P51">Never have I ever</text:p>
-   <text:p text:style-name="P51">ignored a phone call. <text:span text:style-name="T57">cool</text:span>.</text:p>
+   <text:p text:style-name="P51">ignored a phone call. <text:span text:style-name="T56">cool</text:span>.</text:p>
    <text:p text:style-name="P102">Never have I ever</text:p>
    <text:p text:style-name="P102">stayed home to be alone.</text:p>
    <text:p text:style-name="P103">Never have I ever</text:p>
@@ -2547,18 +3209,18 @@
    <text:p text:style-name="P51">Never have I ever</text:p>
    <text:p text:style-name="P51">promised to change.</text:p>
    <text:p text:style-name="P51">Never have I ever</text:p>
-   <text:p text:style-name="P51"><text:span text:style-name="T57">hid</text:span> something <text:span text:style-name="T58">to fit in</text:span>.</text:p>
+   <text:p text:style-name="P51"><text:span text:style-name="T56">hid</text:span> something <text:span text:style-name="T57">to fit in</text:span>.</text:p>
    <text:p text:style-name="P51">Never have I ever</text:p>
    <text:p text:style-name="P51">regretted a decision.</text:p>
    <text:p text:style-name="P102">Never have I ever</text:p>
    <text:p text:style-name="P102"><text:s text:c="2"/>felt like I wanted to speak to you</text:p>
    <text:p text:style-name="P102"><text:s text:c="2"/>been the good one all alone</text:p>
    <text:p text:style-name="P102"><text:s text:c="2"/>told you everything you mean to me</text:p>
-   <text:p text:style-name="P104"><text:s text:c="2"/><text:span text:style-name="T58">dreamt</text:span> of a face I should <text:span text:style-name="T58">forget</text:span></text:p>
-   <text:p text:style-name="P102"><text:s text:c="2"/><text:span text:style-name="T58">mean everything I say—</text:span></text:p>
+   <text:p text:style-name="P104"><text:s text:c="2"/><text:span text:style-name="T57">dreamt</text:span> of a face I should <text:span text:style-name="T57">forget</text:span></text:p>
+   <text:p text:style-name="P102"><text:s text:c="2"/><text:span text:style-name="T57">mean everything I say—</text:span></text:p>
    <text:p text:style-name="P102"><text:s text:c="2"/></text:p>
    <text:p text:style-name="P51">Never have I ever</text:p>
-   <text:p text:style-name="P51"><text:span text:style-name="T58">missed</text:span> You <text:span text:style-name="T58">more</text:span>.</text:p>
+   <text:p text:style-name="P51"><text:span text:style-name="T57">missed</text:span> You <text:span text:style-name="T57">more</text:span>.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc820_3326894427"/>Soapstone<text:bookmark-end text:name="__RefHeading___Toc820_3326894427"/></text:h>
    <text:p text:style-name="P105"/>
    <text:p text:style-name="P105">My heart is one of those</text:p>
@@ -2569,11 +3231,11 @@
    <text:p text:style-name="P105">It’ll slip right through</text:p>
    <text:p text:style-name="P105">your shaking fingers as you</text:p>
    <text:p text:style-name="P106">squeeze to the rhythm</text:p>
-   <text:p text:style-name="P106"><text:span text:style-name="T59">and keep me </text:span><text:span text:style-name="T60">up</text:span>.</text:p>
+   <text:p text:style-name="P106"><text:span text:style-name="T58">and keep me </text:span><text:span text:style-name="T59">up</text:span>.</text:p>
    <text:p text:style-name="P105"/>
-   <text:p text:style-name="P105">My stone is like <text:span text:style-name="T60">soap</text:span></text:p>
+   <text:p text:style-name="P105">My stone is like <text:span text:style-name="T59">soap</text:span></text:p>
    <text:p text:style-name="P105">and won’t mix</text:p>
-   <text:p text:style-name="P105">with your <text:span text:style-name="T60">oil</text:span>,</text:p>
+   <text:p text:style-name="P105">with your <text:span text:style-name="T59">oil</text:span>,</text:p>
    <text:p text:style-name="P105">no matter how much</text:p>
    <text:p text:style-name="P105">we hold on.</text:p>
    <text:p text:style-name="P105"/>
@@ -2607,15 +3269,15 @@
    <text:p text:style-name="P107">learn to love each other,</text:p>
    <text:p text:style-name="P107">strengthen their bonds,</text:p>
    <text:p text:style-name="P107">and form resolute declarations</text:p>
-   <text:p text:style-name="P107">of understanding about the other<text:span text:style-name="T61">s</text:span>,</text:p>
+   <text:p text:style-name="P107">of understanding about the other<text:span text:style-name="T60">s</text:span>,</text:p>
    <text:p text:style-name="P107">as can only be learnt from</text:p>
    <text:p text:style-name="P107">facing hell with someone.</text:p>
    <text:p text:style-name="P107"/>
-   <text:p text:style-name="P107">I <text:span text:style-name="T61">f</text:span>eel in myself a desire</text:p>
-   <text:p text:style-name="P107">for <text:span text:style-name="T61">your</text:span> time, <text:span text:style-name="T61">but</text:span></text:p>
+   <text:p text:style-name="P107">I <text:span text:style-name="T60">f</text:span>eel in myself a desire</text:p>
+   <text:p text:style-name="P107">for <text:span text:style-name="T60">your</text:span> time, <text:span text:style-name="T60">but</text:span></text:p>
    <text:p text:style-name="P107">I don&apos;t think it&apos;s love,</text:p>
-   <text:p text:style-name="P110">I don’t think it’d last, <text:span text:style-name="T60">and</text:span></text:p>
-   <text:p text:style-name="P107"><text:span text:style-name="T60">maybe</text:span> that&apos;s the culture in me,</text:p>
+   <text:p text:style-name="P110">I don’t think it’d last, <text:span text:style-name="T59">and</text:span></text:p>
+   <text:p text:style-name="P107"><text:span text:style-name="T59">maybe</text:span> that&apos;s the culture in me,</text:p>
    <text:p text:style-name="P107">based off what I consume.</text:p>
    <text:p text:style-name="P107">I&apos;ve broken my ability to love wholly,</text:p>
    <text:p text:style-name="P107">because I&apos;m incapable of loving</text:p>
@@ -2637,11 +3299,11 @@
    <text:p text:style-name="P111"/>
    <text:p text:style-name="P111"/>
    <text:p text:style-name="P111"/>
-   <text:p text:style-name="P112"><text:span text:style-name="T60">But</text:span> I thin<text:span text:style-name="T60">k</text:span></text:p>
-   <text:p text:style-name="P112"><text:span text:style-name="T60">I</text:span>’m happy.</text:p>
+   <text:p text:style-name="P112"><text:span text:style-name="T59">But</text:span> I thin<text:span text:style-name="T59">k</text:span></text:p>
+   <text:p text:style-name="P112"><text:span text:style-name="T59">I</text:span>’m happy.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc818_3326894427"/>Another Place, Another time<text:bookmark-end text:name="__RefHeading___Toc818_3326894427"/></text:h>
    <text:p text:style-name="P107"/>
-   <text:p text:style-name="P107">Are you <text:span text:style-name="T62">waiting</text:span>,</text:p>
+   <text:p text:style-name="P107">Are you <text:span text:style-name="T61">waiting</text:span>,</text:p>
    <text:p text:style-name="P107">are you out there;</text:p>
    <text:p text:style-name="P107"/>
    <text:p text:style-name="P107">Pushing off the now</text:p>
@@ -2667,7 +3329,7 @@
    <text:p text:style-name="Poetry_20_Text">in my development,</text:p>
    <text:p text:style-name="Poetry_20_Text">that something isn&apos;t normal in me.</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="P113">That somethin<text:span text:style-name="T63">g</text:span></text:p>
+   <text:p text:style-name="P113">That somethin<text:span text:style-name="T62">g</text:span></text:p>
    <text:p text:style-name="P113">makes me not like you.</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">I want—</text:p>
@@ -2690,40 +3352,40 @@
    <text:p text:style-name="P114">I’ve never met a normal person</text:p>
    <text:p text:style-name="P114">my whole life.</text:p>
    <text:p text:style-name="P114">From day one it’s been</text:p>
-   <text:p text:style-name="P114"><text:span text:style-name="T64">weird shit</text:span> that define<text:span text:style-name="T65">d</text:span></text:p>
-   <text:p text:style-name="P114">my every <text:span text:style-name="T65">remembered</text:span></text:p>
+   <text:p text:style-name="P114"><text:span text:style-name="T63">weird shit</text:span> that define<text:span text:style-name="T64">d</text:span></text:p>
+   <text:p text:style-name="P114">my every <text:span text:style-name="T64">remembered</text:span></text:p>
    <text:p text:style-name="P114">experience with others.</text:p>
    <text:p text:style-name="P114"/>
    <text:p text:style-name="P114">No one I’ve ever come across</text:p>
-   <text:p text:style-name="P114"><text:span text:style-name="T65">had</text:span> a <text:span text:style-name="T65">boring</text:span><text:span text:style-name="T64"> </text:span>life;</text:p>
+   <text:p text:style-name="P114"><text:span text:style-name="T64">had</text:span> a <text:span text:style-name="T64">boring</text:span><text:span text:style-name="T63"> </text:span>life;</text:p>
    <text:p text:style-name="P114">everyone’s hiding something ‘till</text:p>
    <text:p text:style-name="P114">they can share a little more of themselves,</text:p>
-   <text:p text:style-name="P114">‘<text:span text:style-name="T65">till their bursting at the seams of</text:span></text:p>
+   <text:p text:style-name="P114">‘<text:span text:style-name="T64">till their bursting at the seams of</text:span></text:p>
    <text:p text:style-name="P115">wanting to connect over</text:p>
    <text:p text:style-name="P114">hobbies,</text:p>
-   <text:p text:style-name="P114"><text:span text:style-name="T64">little interests</text:span>, or</text:p>
-   <text:p text:style-name="P114"><text:span text:style-name="T64">secrets</text:span>.</text:p>
+   <text:p text:style-name="P114"><text:span text:style-name="T63">little interests</text:span>, or</text:p>
+   <text:p text:style-name="P114"><text:span text:style-name="T63">secrets</text:span>.</text:p>
    <text:p text:style-name="P114"/>
-   <text:p text:style-name="P114"><text:span text:style-name="T65">I</text:span>f I had to be</text:p>
+   <text:p text:style-name="P114"><text:span text:style-name="T64">I</text:span>f I had to be</text:p>
    <text:p text:style-name="P114">more like someone else,</text:p>
    <text:p text:style-name="P114">there’d be no point to the whole</text:p>
-   <text:p text:style-name="P114">of my life <text:span text:style-name="T66">being lived</text:span>. <text:span text:style-name="T64">So</text:span></text:p>
+   <text:p text:style-name="P114">of my life <text:span text:style-name="T65">being lived</text:span>. <text:span text:style-name="T63">So</text:span></text:p>
    <text:p text:style-name="P114"/>
    <text:p text:style-name="P114">I like me,</text:p>
    <text:p text:style-name="P114">even if—</text:p>
-   <text:p text:style-name="P114"><text:span text:style-name="T65">if</text:span>—</text:p>
+   <text:p text:style-name="P114"><text:span text:style-name="T64">if</text:span>—</text:p>
    <text:p text:style-name="P114"/>
-   <text:p text:style-name="P114"><text:span text:style-name="T65">i</text:span>f You <text:span text:style-name="T67">didn’t</text:span>.</text:p>
+   <text:p text:style-name="P114"><text:span text:style-name="T64">i</text:span>f You <text:span text:style-name="T66">didn’t</text:span>.</text:p>
    <text:h text:style-name="P116" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc780_3676532460"/>Be Normal<text:bookmark-end text:name="__RefHeading___Toc780_3676532460"/></text:h>
    <text:p text:style-name="P117"/>
    <text:p text:style-name="P117">I don’t want to be normal,</text:p>
    <text:p text:style-name="P117">I want to be me.</text:p>
    <text:p text:style-name="P117"/>
    <text:p text:style-name="P117">Isn’t that enough?</text:p>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1319_3007704144"/>Maybe-Poem<text:span text:style-name="T68">s</text:span><text:bookmark-end text:name="__RefHeading___Toc1319_3007704144"/></text:h>
+   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1319_3007704144"/>Maybe-Poem<text:span text:style-name="T67">s</text:span><text:bookmark-end text:name="__RefHeading___Toc1319_3007704144"/></text:h>
    <text:p text:style-name="P111"/>
    <text:p text:style-name="P111">Not enough image,</text:p>
-   <text:p text:style-name="P118">and too <text:span text:style-name="T68">direct to</text:span> be a poem.</text:p>
+   <text:p text:style-name="P118">and too <text:span text:style-name="T67">direct to</text:span> be a poem.</text:p>
    <text:p text:style-name="P111">I&apos;ve just written</text:p>
    <text:p text:style-name="P111">and thrown in</text:p>
    <text:p text:style-name="P111">some</text:p>
@@ -2739,7 +3401,7 @@
    <text:p text:style-name="P119">or in my heart.</text:p>
    <text:p text:style-name="P111"/>
    <text:p text:style-name="P111">But hey,</text:p>
-   <text:p text:style-name="P111"><text:span text:style-name="T49">a poet once</text:span> called them his</text:p>
+   <text:p text:style-name="P111"><text:span text:style-name="T48">a poet once</text:span> called them his</text:p>
    <text:p text:style-name="P111"><text:s text:c="4"/><text:span text:style-name="T37">hot beer shits</text:span><text:span text:style-name="T17">,</text:span></text:p>
    <text:p text:style-name="P111">and I don&apos;t feel that way</text:p>
    <text:p text:style-name="P114">about anything here,</text:p>
@@ -2761,12 +3423,12 @@
    <text:p text:style-name="P111"/>
    <text:p text:style-name="Poetry_20_Text">As you walked away</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="P121"><text:tab/><text:span text:style-name="T69">I</text:span>t was my heart that first beat out of my chest. Slapping onto the floor, it kept pulsing while my teeth fell out and my skin sloughed off and my bones jumped out the hole in my chest, and the organs and liquids without their cage poured from me an ungodly spray of everything else wet and human.</text:p>
+   <text:p text:style-name="P121"><text:tab/><text:span text:style-name="T68">I</text:span>t was my heart that first beat out of my chest. Slapping onto the floor, it kept pulsing while my teeth fell out and my skin sloughed off and my bones jumped out the hole in my chest, and the organs and liquids without their cage poured from me an ungodly spray of everything else wet and human.</text:p>
    <text:p text:style-name="P122"><text:tab/>All around, an ensemble started to their sections. The large intestine and colon formed chairs as small hand bones made stands for hairy sheet music. Muscle fibers rewrapped around jaw bone to fret strings, while the lungs, teeth, and larynx became a choir, and the skull a drum. Blood boiled, then congealed with lips and spit to form the brasses.</text:p>
-   <text:p text:style-name="P122"><text:tab/>At the very center, a heart pumped erect as the conductor. Holding a metatarsal, it started waving <text:span text:style-name="T69">the</text:span> baton as the orchestra reared and let out every innermost</text:p>
+   <text:p text:style-name="P122"><text:tab/>At the very center, a heart pumped erect as the conductor. Holding a metatarsal, it started waving <text:span text:style-name="T68">the</text:span> baton as the orchestra reared and let out every innermost</text:p>
    <text:p text:style-name="P122">desire.</text:p>
    <text:p text:style-name="P122"><text:tab/>Used to furtive glances, eyes now drowned in your sight burnt onto skin. Ears listened for the first time to ideas that were never given a second chance, having always been caught at the back of a throat, which now sang with teeth secrets never shared about everything extraordinary, beautiful, and you. Fingers flexed for a missed touch, all the while drumming on the one that hid it all.</text:p>
-   <text:p text:style-name="P122"><text:tab/>Each part played their misuse, but I could not command them to stop. Just a single organ left, I tried to <text:soft-page-break/>convey every fault I ever had, every reason to avoid m<text:span text:style-name="T69">e</text:span>— but nothing came out as familiar hands raised the conductor, and I realized how perfect everything would be if only it was</text:p>
+   <text:p text:style-name="P122"><text:tab/>Each part played their misuse, but I could not command them to stop. Just a single organ left, I tried to <text:soft-page-break/>convey every fault I ever had, every reason to avoid m<text:span text:style-name="T68">e</text:span>— but nothing came out as familiar hands raised the conductor, and I realized how perfect everything would be if only it was</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">without me.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2551_4237564503"/>Swampman<text:bookmark-end text:name="__RefHeading___Toc2551_4237564503"/></text:h>
@@ -2832,7 +3494,7 @@
    <text:p text:style-name="Poetry_20_Text">I can only stare at the back of your head,</text:p>
    <text:p text:style-name="Poetry_20_Text">wondering</text:p>
    <text:p text:style-name="Poetry_20_Text">what I should do,</text:p>
-   <text:p text:style-name="P125"><text:span text:style-name="T60">or</text:span> how I should talk to you</text:p>
+   <text:p text:style-name="P125"><text:span text:style-name="T59">or</text:span> how I should talk to you</text:p>
    <text:p text:style-name="P125">tomorrow.</text:p>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="Poetry_20_Text">If I could but reach out</text:p>
@@ -2848,9 +3510,9 @@
    <text:p text:style-name="Poetry_20_Text">and remember</text:p>
    <text:p text:style-name="Poetry_20_Text">yesterday&apos;s</text:p>
    <text:p text:style-name="Poetry_20_Text">Dream.</text:p>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1125_1230340041"/>Instagramification<text:span text:style-name="T47"> </text:span>– No Time And Nothing To Do<text:bookmark-end text:name="__RefHeading___Toc1125_1230340041"/></text:h>
+   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1125_1230340041"/>Instagramification<text:span text:style-name="T46"> </text:span>– No Time And Nothing To Do<text:bookmark-end text:name="__RefHeading___Toc1125_1230340041"/></text:h>
    <text:p text:style-name="P126"/>
-   <text:p text:style-name="P126"><text:span text:style-name="T49">i</text:span>&apos;ve really got</text:p>
+   <text:p text:style-name="P126"><text:span text:style-name="T48">i</text:span>&apos;ve really got</text:p>
    <text:p text:style-name="P126">nothing to do,</text:p>
    <text:p text:style-name="P126">and so little time</text:p>
    <text:p text:style-name="P126">to do it.</text:p>
@@ -2877,7 +3539,7 @@
    <text:p text:style-name="Poetry_20_Text">if I feel right.</text:p>
    <text:p text:style-name="Poetry_20_Text">If I&apos;m...</text:p>
    <text:p text:style-name="Poetry_20_Text">If I&apos;m supposed to feel like</text:p>
-   <text:p text:style-name="Poetry_20_Text"><text:s text:c="3"/><text:span text:style-name="T37">this</text:span><text:span text:style-name="T70"/></text:p>
+   <text:p text:style-name="Poetry_20_Text"><text:s text:c="3"/><text:span text:style-name="T37">this</text:span><text:span text:style-name="T69"/></text:p>
    <text:p text:style-name="Poetry_20_Text">like if I&apos;m just a little off,</text:p>
    <text:p text:style-name="Poetry_20_Text">or</text:p>
    <text:p text:style-name="Poetry_20_Text">if this is just how I feel,</text:p>
@@ -2907,42 +3569,42 @@
    <text:p text:style-name="Poetry_20_Text">It&apos;s a gift to be me,</text:p>
    <text:p text:style-name="Poetry_20_Text">and unlike anyone else.</text:p>
    <text:p text:style-name="Poetry_20_Text">Unlike anyone.</text:p>
-   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2549_4237564503"/>Instagramification – <text:span text:style-name="T49">Eat For The Future (2024)</text:span><text:bookmark-end text:name="__RefHeading___Toc2549_4237564503"/></text:h>
+   <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2549_4237564503"/>Instagramification – <text:span text:style-name="T48">Eat For The Future (2024)</text:span><text:bookmark-end text:name="__RefHeading___Toc2549_4237564503"/></text:h>
    <text:p text:style-name="Poetry_20_Text"/>
-   <text:p text:style-name="P98"><text:span text:style-name="T49">f</text:span>ill my heart</text:p>
+   <text:p text:style-name="P98"><text:span text:style-name="T48">f</text:span>ill my heart</text:p>
    <text:p text:style-name="P98">with a moment,</text:p>
    <text:p text:style-name="P98">keep it there</text:p>
    <text:p text:style-name="P98">for when I leave,</text:p>
    <text:p text:style-name="P127">unchanging.</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc2547_4237564503"/>I Confess I Confess<text:bookmark-end text:name="__RefHeading___Toc2547_4237564503"/></text:h>
    <text:p text:style-name="P128"/>
-   <text:p text:style-name="P128">I confess I <text:span text:style-name="T71">fucking </text:span>hated <text:span text:style-name="T72">y</text:span>ou.</text:p>
+   <text:p text:style-name="P128">I confess I <text:span text:style-name="T70">fucking </text:span>hated <text:span text:style-name="T71">y</text:span>ou.</text:p>
    <text:p text:style-name="P128">I confess I wanted to break up.</text:p>
    <text:p text:style-name="P129">I confess I was scared to be with you.</text:p>
    <text:p text:style-name="P130">I confess your taste made me feel weird.</text:p>
    <text:p text:style-name="P128">I confess I was embarrassed to tell my parents.</text:p>
-   <text:p text:style-name="P128">I confess I used mouthwash after <text:span text:style-name="T72">we’d hang out</text:span>.</text:p>
+   <text:p text:style-name="P128">I confess I used mouthwash after <text:span text:style-name="T71">we’d hang out</text:span>.</text:p>
    <text:p text:style-name="P131">I confess I didn’t have to leave early for work in the morning.</text:p>
-   <text:p text:style-name="P128">I confess I wanted you to break up with me, <text:span text:style-name="T71">so I </text:span><text:span text:style-name="T72">didn’t </text:span><text:span text:style-name="T71">change</text:span>.</text:p>
+   <text:p text:style-name="P128">I confess I wanted you to break up with me, <text:span text:style-name="T70">so I </text:span><text:span text:style-name="T71">didn’t </text:span><text:span text:style-name="T70">change</text:span>.</text:p>
    <text:p text:style-name="P128"/>
    <text:p text:style-name="P128">I confess</text:p>
    <text:p text:style-name="P128">I— I confess</text:p>
    <text:p text:style-name="P131">I confess I was wrong.</text:p>
-   <text:p text:style-name="P128">I confess I <text:span text:style-name="T72">miss</text:span> you,</text:p>
+   <text:p text:style-name="P128">I confess I <text:span text:style-name="T71">miss</text:span> you,</text:p>
    <text:p text:style-name="P128">that I loved you,</text:p>
    <text:p text:style-name="P128">and that I didn’t fight enough.</text:p>
    <text:p text:style-name="P131">I confess you stopped my loneliness.</text:p>
    <text:p text:style-name="P128">I confess I should have tried harder,</text:p>
    <text:p text:style-name="P128">that I didn’t know how to—</text:p>
    <text:p text:style-name="P128">That I didn’t know how to feel.</text:p>
-   <text:p text:style-name="P128">I confess that it’s my fault <text:span text:style-name="T71">how</text:span> I <text:span text:style-name="T72">end</text:span> up,</text:p>
+   <text:p text:style-name="P128">I confess that it’s my fault <text:span text:style-name="T70">how</text:span> I <text:span text:style-name="T71">end</text:span> up,</text:p>
    <text:p text:style-name="P128">and that I</text:p>
    <text:p text:style-name="P128">threw it all away.</text:p>
-   <text:p text:style-name="P131">I confess I was confused, but not <text:span text:style-name="T72">with You</text:span>.</text:p>
+   <text:p text:style-name="P131">I confess I was confused, but not <text:span text:style-name="T71">with You</text:span>.</text:p>
    <text:p text:style-name="P131">I confess I didn’t know until it was too late.</text:p>
    <text:p text:style-name="P128"/>
    <text:p text:style-name="P128">I confess I’m the problem.</text:p>
-   <text:p text:style-name="P130">I confess I’<text:span text:style-name="T71">ll </text:span>never get to confess <text:span text:style-name="T72">everything</text:span>.</text:p>
+   <text:p text:style-name="P130">I confess I’<text:span text:style-name="T70">ll </text:span>never get to confess <text:span text:style-name="T71">everything</text:span>.</text:p>
    <text:p text:style-name="P131">I confess time turns everything into a regret.</text:p>
    <text:p text:style-name="P132">I confess</text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc4869_1189619379"/>That I Don’t Miss You<text:bookmark-end text:name="__RefHeading___Toc4869_1189619379"/></text:h>
@@ -2952,7 +3614,7 @@
    <text:p text:style-name="P132"/>
    <text:p text:style-name="P132"><text:span text:style-name="T37">Your honor</text:span><text:span text:style-name="T17">,</text:span></text:p>
    <text:p text:style-name="P132">I said</text:p>
-   <text:p text:style-name="P132"><text:span text:style-name="T31">t</text:span><text:span text:style-name="T49">hat </text:span>I’m a good liar,</text:p>
+   <text:p text:style-name="P132"><text:span text:style-name="T31">t</text:span><text:span text:style-name="T48">hat </text:span>I’m a good liar,</text:p>
    <text:p text:style-name="P132">that I tricked</text:p>
    <text:p text:style-name="P132">all my friends</text:p>
    <text:p text:style-name="P54">and You</text:p>
@@ -2965,8 +3627,8 @@
    <text:p text:style-name="P133">I was funny</text:p>
    <text:p text:style-name="P133">and likable.</text:p>
    <text:p text:style-name="P132"/>
-   <text:p text:style-name="P132"><text:span text:style-name="T37">You</text:span><text:span text:style-name="T73">r </text:span><text:span text:style-name="T37">honor</text:span>,</text:p>
-   <text:p text:style-name="P132">I’m <text:span text:style-name="T73">not</text:span> a <text:span text:style-name="T37">good</text:span> liar</text:p>
+   <text:p text:style-name="P132"><text:span text:style-name="T37">You</text:span><text:span text:style-name="T72">r </text:span><text:span text:style-name="T37">honor</text:span>,</text:p>
+   <text:p text:style-name="P132">I’m <text:span text:style-name="T72">not</text:span> a <text:span text:style-name="T37">good</text:span> liar</text:p>
    <text:p text:style-name="P132">I’m a <text:span text:style-name="T37">great</text:span> liar,</text:p>
    <text:p text:style-name="P132">and I have friends,</text:p>
    <text:p text:style-name="P132">and they love me,</text:p>
@@ -3000,17 +3662,17 @@
    <text:h text:style-name="P134" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc6571_3499536570"/>Modern<text:bookmark-end text:name="__RefHeading___Toc6571_3499536570"/></text:h>
    <text:p text:style-name="Poetry_20_Text"/>
    <text:p text:style-name="P135">I can see it before me:</text:p>
-   <text:p text:style-name="P135"><text:span text:style-name="T74">t</text:span>he coffin closing,</text:p>
+   <text:p text:style-name="P135"><text:span text:style-name="T73">t</text:span>he coffin closing,</text:p>
    <text:p text:style-name="P135">the nails hammered,</text:p>
    <text:p text:style-name="P135">the dirt overhead,</text:p>
    <text:p text:style-name="P135">and the burner,</text:p>
-   <text:p text:style-name="P135">and the <text:span text:style-name="T74">tears</text:span>,</text:p>
-   <text:p text:style-name="P135">and the <text:span text:style-name="T75">fall back</text:span></text:p>
+   <text:p text:style-name="P135">and the <text:span text:style-name="T73">tears</text:span>,</text:p>
+   <text:p text:style-name="P135">and the <text:span text:style-name="T74">fall back</text:span></text:p>
    <text:p text:style-name="P136">down a dark tunnel</text:p>
    <text:p text:style-name="P136">as the light gets farther,</text:p>
    <text:p text:style-name="P137">and the fear,</text:p>
    <text:p text:style-name="P136">and <text:s text:c="2"/>and</text:p>
-   <text:p text:style-name="P135">and the <text:span text:style-name="T74">relief...</text:span></text:p>
+   <text:p text:style-name="P135">and the <text:span text:style-name="T73">relief...</text:span></text:p>
    <text:p text:style-name="P135"/>
    <text:p text:style-name="P135">Is this all that’s left?</text:p>
    <text:p text:style-name="P135">Up before the sun,</text:p>
@@ -3018,12 +3680,12 @@
    <text:p text:style-name="P135">living two days a week,</text:p>
    <text:p text:style-name="P135">and my memories of You—</text:p>
    <text:p text:style-name="P135">Looking out the window</text:p>
-   <text:p text:style-name="P135"><text:span text:style-name="T74">at</text:span> a <text:span text:style-name="T30">grey</text:span> day,</text:p>
+   <text:p text:style-name="P135"><text:span text:style-name="T73">at</text:span> a <text:span text:style-name="T30">grey</text:span> day,</text:p>
    <text:p text:style-name="P135">expressionless.</text:p>
    <text:p text:style-name="P135"/>
    <text:p text:style-name="P135">And now I think:</text:p>
    <text:p text:style-name="P135">It was easier to hate</text:p>
-   <text:p text:style-name="P135">than to <text:span text:style-name="T74">be nothing.</text:span></text:p>
+   <text:p text:style-name="P135">than to <text:span text:style-name="T73">be nothing.</text:span></text:p>
    <text:h text:style-name="P50" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1969_4086586558"/>Nothing Hurts<text:bookmark-end text:name="__RefHeading___Toc1969_4086586558"/></text:h>
    <text:p text:style-name="P80"/>
    <text:p text:style-name="P80">When I wake up at night, I can’t move.</text:p>
@@ -3069,7 +3731,7 @@
    <text:p text:style-name="P80">I don’t have your eyes.</text:p>
    <text:p text:style-name="P80">Hands reach outward</text:p>
    <text:p text:style-name="P80">and ruffle hair, grope</text:p>
-   <text:p text:style-name="P80">face, and pull <text:span text:style-name="T76">a</text:span> nose.</text:p>
+   <text:p text:style-name="P80">face, and pull <text:span text:style-name="T75">a</text:span> nose.</text:p>
    <text:p text:style-name="P80">It cracks my jaw and</text:p>
    <text:p text:style-name="P80">raises a chin, searching.</text:p>
    <text:p text:style-name="P80">Grip tighter the throat</text:p>
@@ -3134,17 +3796,17 @@
    <text:h text:style-name="P139" text:outline-level="1"/>
    <text:h text:style-name="P18" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1996_818021894"/>Acknowledgments<text:bookmark-end text:name="__RefHeading___Toc1996_818021894"/></text:h>
    <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140">My thanks to Jakob Hammond and Tyler Bond for putting up with me over the summer I worked on this, and for always offering good ideas towards improving what I had.<text:span text:style-name="T77"> Special thank you to Jake for his agreeing to help voice the audio book on YouTube with me. </text:span>This wouldn’t have <text:span text:style-name="T78">been</text:span> nearly <text:span text:style-name="T78">as</text:span> funny <text:span text:style-name="T78">a process</text:span> without your guy’s help, so thank you <text:span text:style-name="T78">for everything</text:span>.</text:p>
+   <text:p text:style-name="P140">My thanks to Jakob Hammond and Tyler Bond for putting up with me over the summer I worked on this, and for always offering good ideas towards improving what I had.<text:span text:style-name="T76"> Special thank you to Jake for his agreeing to help voice the audio book on YouTube with me. </text:span>This wouldn’t have <text:span text:style-name="T77">been</text:span> nearly <text:span text:style-name="T77">as</text:span> funny <text:span text:style-name="T77">a process</text:span> without your guy’s help, so thank you <text:span text:style-name="T77">for everything</text:span>.</text:p>
    <text:p text:style-name="P140"/>
-   <text:p text:style-name="P132">Thank you to Caleb Neville for reading this collection while I drafted <text:span text:style-name="T77">it</text:span>. <text:span text:style-name="T77">The hardest part of any project is sharing it with another person. </text:span>Thank you for always believing in me.</text:p>
+   <text:p text:style-name="P132">Thank you to Caleb Neville for reading this collection while I drafted <text:span text:style-name="T76">it</text:span>. <text:span text:style-name="T76">The hardest part of any project is sharing it with another person. </text:span>Thank you for always believing in me.</text:p>
    <text:p text:style-name="P140"/>
-   <text:p text:style-name="P141">And of course, a special thanks to the subject of all this poetry, the individual that all my writing was focused towards (and no one else), Oliver Hendricks. Thanks for allowing this to go down<text:span text:style-name="T77"> and still laughing as I came by with crude concepts to write about</text:span>.</text:p>
+   <text:p text:style-name="P141">And of course, a special thanks to the subject of all this poetry, the individual that all my writing was focused towards (and no one else), Oliver Hendricks. Thanks for allowing this to go down<text:span text:style-name="T76"> and still laughing as I came by with crude concepts to write about</text:span>.</text:p>
    <text:p text:style-name="P140"/>
-   <text:p text:style-name="P140">The following literary pieces were used as formatting <text:span text:style-name="T77">and style </text:span>reference<text:span text:style-name="T77">s</text:span> <text:span text:style-name="T79">(front-matter, end-matter, all-matter...)</text:span> through<text:span text:style-name="T78">out</text:span> the making of this book<text:span text:style-name="T78">. I hope my </text:span><text:span text:style-name="T60">reference</text:span><text:span text:style-name="T78"> </text:span><text:span text:style-name="T60">to</text:span><text:span text:style-name="T78"> their</text:span><text:span text:style-name="T60">s</text:span><text:span text:style-name="T78"> does no disservice to these great pieces of art </text:span><text:span text:style-name="T60">and their artists</text:span>:</text:p>
-   <text:p text:style-name="P142"><text:tab/><text:span text:style-name="T80">American Primitive</text:span><text:span text:style-name="T81">, </text:span><text:span text:style-name="T78">Mary Oliver</text:span></text:p>
-   <text:p text:style-name="P143"><text:tab/><text:span text:style-name="T82">Madness, Rack, and Honey</text:span><text:span text:style-name="T60">, Mary Ruefle</text:span></text:p>
-   <text:p text:style-name="P144"><text:tab/><text:span text:style-name="T80">milk and honey</text:span><text:span text:style-name="T81">, </text:span><text:span text:style-name="T83">R</text:span><text:span text:style-name="T78">upi </text:span><text:span text:style-name="T60">K</text:span><text:span text:style-name="T78">aur</text:span></text:p>
-   <text:p text:style-name="P144"><text:tab/><text:span text:style-name="T82">Of Tyrant</text:span><text:span text:style-name="T60">, Leah Umansky</text:span></text:p>
+   <text:p text:style-name="P140">The following literary pieces were used as formatting <text:span text:style-name="T76">and style </text:span>reference<text:span text:style-name="T76">s</text:span> <text:span text:style-name="T78">(front-matter, end-matter, all-matter...)</text:span> through<text:span text:style-name="T77">out</text:span> the making of this book<text:span text:style-name="T77">. I hope my </text:span><text:span text:style-name="T59">reference</text:span><text:span text:style-name="T77"> </text:span><text:span text:style-name="T59">to</text:span><text:span text:style-name="T77"> their</text:span><text:span text:style-name="T59">s</text:span><text:span text:style-name="T77"> does no disservice to these great pieces of art </text:span><text:span text:style-name="T59">and their artists</text:span>:</text:p>
+   <text:p text:style-name="P142"><text:tab/><text:span text:style-name="T79">American Primitive</text:span><text:span text:style-name="T80">, </text:span><text:span text:style-name="T77">Mary Oliver</text:span></text:p>
+   <text:p text:style-name="P143"><text:tab/><text:span text:style-name="T81">Madness, Rack, and Honey</text:span><text:span text:style-name="T59">, Mary Ruefle</text:span></text:p>
+   <text:p text:style-name="P144"><text:tab/><text:span text:style-name="T79">milk and honey</text:span><text:span text:style-name="T80">, </text:span><text:span text:style-name="T82">R</text:span><text:span text:style-name="T77">upi </text:span><text:span text:style-name="T59">K</text:span><text:span text:style-name="T77">aur</text:span></text:p>
+   <text:p text:style-name="P144"><text:tab/><text:span text:style-name="T81">Of Tyrant</text:span><text:span text:style-name="T59">, Leah Umansky</text:span></text:p>
    <text:h text:style-name="P18" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1994_818021894"/><office:annotation office:name="__Annotation__2421_818021894" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-06-28T22:31:27.957773000</dc:date>
@@ -3152,26 +3814,26 @@
      <text:p text:style-name="Comment">Place as last page double spread with ollie, so me left him right.</text:p>
     </office:annotation>About the Author<office:annotation-end office:name="__Annotation__2421_818021894"/><text:bookmark-end text:name="__RefHeading___Toc1994_818021894"/></text:h>
    <text:p text:style-name="P145"/>
-   <text:p text:style-name="P145">Vladimir <text:span text:style-name="T6">&quot;V</text:span>ova<text:span text:style-name="T6">&quot;</text:span> Tomasovitch <draw:frame draw:style-name="fr3" draw:name="Image1" text:anchor-type="char" svg:x="2.5402in" svg:y="-0.0161in" svg:width="1.75in" svg:height="2.1902in" draw:z-index="5"><draw:image xlink:href="images/abouttheauthor-BusinessSelfBW.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
-    </draw:frame>Herdman <text:span text:style-name="T41">grew up in</text:span> Northeast Ohio. At the time of publishing, he <text:span text:style-name="T84">is 21 years old and </text:span>has know<text:span text:style-name="T85">n</text:span> Oliver Hendricks for 3 years. <text:span text:style-name="T86">He may never write again, </text:span><text:span text:style-name="T79">and apologizes for all you had to endure to reach this point</text:span><text:span text:style-name="T86">. </text:span><text:span text:style-name="T87">The next book will be formatted using LaTeX.</text:span></text:p>
+   <text:p text:style-name="P145">Vladimir <text:span text:style-name="T6">&quot;V</text:span>ova<text:span text:style-name="T6">&quot;</text:span> Tomasovitch <draw:frame draw:style-name="fr5" draw:name="Image1" text:anchor-type="char" svg:x="2.5402in" svg:y="-0.0161in" svg:width="1.75in" svg:height="2.1902in" draw:z-index="5"><draw:image xlink:href="images/abouttheauthor-BusinessSelfBW.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
+    </draw:frame>Herdman <text:span text:style-name="T41">grew up in</text:span> Northeast Ohio. At the time of publishing, he <text:span text:style-name="T83">is 21 years old and </text:span>has know<text:span text:style-name="T84">n</text:span> Oliver Hendricks for 3 years. <text:span text:style-name="T85">He may never write again, </text:span><text:span text:style-name="T78">and apologizes for all you had to endure to reach this point</text:span><text:span text:style-name="T85">. </text:span><text:span text:style-name="T86">The next book will be formatted using LaTeX.</text:span></text:p>
    <text:p text:style-name="P145"/>
    <text:p text:style-name="P145">If you’ve gotten this far, you know enough about me.</text:p>
    <text:h text:style-name="P18" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc1992_818021894"/>About the Muse<text:bookmark-end text:name="__RefHeading___Toc1992_818021894"/></text:h>
    <text:p text:style-name="P145"/>
-   <text:p text:style-name="P146">Where do I even start… Oliver <draw:frame draw:style-name="fr3" draw:name="Image2" text:anchor-type="char" svg:x="2.602in" svg:y="-0.0118in" svg:width="1.75in" svg:height="1.9799in" draw:z-index="6"><draw:image xlink:href="images/aboutthemuse-OllieBW.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
-    </draw:frame>Hendricks was born in the year 2004 to<text:span text:style-name="T41"> parents Jenny and Ollie-Dad. He grew up in New York along a river, later going on to live in Southwest Ohio, a move that only put him closer to me and my </text:span><text:span text:style-name="T77"><text:s/>sphere of </text:span><text:span text:style-name="T41">influence. Around the time of elementary school, Oliver realized he wasn&apos;t like the other kids: He was stronger, faster, smarter, and </text:span><text:span text:style-name="T77">had </text:span><text:span text:style-name="T41">an overall greater, </text:span><text:span text:style-name="T77">fattier</text:span><text:span text:style-name="T41"> liver than anyone around him. He had so much grey matter in his already giant (for a child&apos;s) head, that doctors thought he had a tumor growing in his skull. After the surgery, they realized their mistake, but he was never quite the same after that</text:span>…</text:p>
+   <text:p text:style-name="P146">Where do I even start… Oliver <draw:frame draw:style-name="fr5" draw:name="Image2" text:anchor-type="char" svg:x="2.602in" svg:y="-0.0118in" svg:width="1.75in" svg:height="1.9799in" draw:z-index="6"><draw:image xlink:href="images/aboutthemuse-OllieBW.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/jpeg"/>
+    </draw:frame>Hendricks was born in the year 2004 to<text:span text:style-name="T41"> parents Jenny and Ollie-Dad. He grew up in New York along a river, later going on to live in Southwest Ohio, a move that only put him closer to me and my </text:span><text:span text:style-name="T76"><text:s/>sphere of </text:span><text:span text:style-name="T41">influence. Around the time of elementary school, Oliver realized he wasn&apos;t like the other kids: He was stronger, faster, smarter, and </text:span><text:span text:style-name="T76">had </text:span><text:span text:style-name="T41">an overall greater, </text:span><text:span text:style-name="T76">fattier</text:span><text:span text:style-name="T41"> liver than anyone around him. He had so much grey matter in his already giant (for a child&apos;s) head, that doctors thought he had a tumor growing in his skull. After the surgery, they realized their mistake, but he was never quite the same after that</text:span>…</text:p>
    <text:p text:style-name="P146"/>
-   <text:p text:style-name="P83"><text:span text:style-name="T77">While writing some of the poems for this piece, I reached out to Ollie with some questions. Mostly, I sought an interview with him so I could better enter the mindset of who I was writing about, and who, sometimes, I was responding as. During the interview, I made a small, offhand comment about the greatest day of Oliver&apos;s life. It was meant to be a joke, but instantly, and without much warning, he grabbed my by the shoulders and leaned in close. His eyes glazed over</text:span><text:span text:style-name="T88"> and rolled back into his head</text:span><text:span text:style-name="T77">, his face got red, and he started speaking like he was reading some ancient text in a hoarse whisper. I now recite, verbatim, the unedited words he told me</text:span>:</text:p>
-   <text:p text:style-name="P147"><text:span text:style-name="T89"/></text:p>
-   <text:p text:style-name="P148"><text:soft-page-break/><text:span text:style-name="T89">&quot;The greatest day of my life? Oh, yeah, yeah, I gotcha, that was the day I met Vladimir &apos;Vova&apos; Tomasovitch Herdman, acclaimed author and close personal friend, you know, that one guy with the ginormous penis. You know, they say it&apos;s so big, he has to wrap it around himself like it&apos;s a belt</text:span><text:span text:style-name="T90">, that he once used it like a grappling hook</text:span><text:span text:style-name="T89">. Man, that guy really knows how to make me laugh. I be straight gigglin whenever he&apos;s around, kickin my feet and shi</text:span><text:span text:style-name="T90">ii like a &apos;lil schoolgirl</text:span><text:span text:style-name="T89">. Is this a safe space? If I&apos;m being honest here, I&apos;d suck that guy dry for a nickel, and that&apos;d be ME paying HIM for the privilege. I Really miss Vova, I haven&apos;t seen him ever since the incident. You know, they be callin him dime dick now, but not cause they&apos;re payin for it...&quot;</text:span></text:p>
+   <text:p text:style-name="P83"><text:span text:style-name="T76">While writing some of the poems for this piece, I reached out to Ollie with some questions. Mostly, I sought an interview with him so I could better enter the mindset of who I was writing about, and who, sometimes, I was responding as. During the interview, I made a small, offhand comment about the greatest day of Oliver&apos;s life. It was meant to be a joke, but instantly, and without much warning, he grabbed my by the shoulders and leaned in close. His eyes glazed over</text:span><text:span text:style-name="T87"> and rolled back into his head</text:span><text:span text:style-name="T76">, his face got red, and he started speaking like he was reading some ancient text in a hoarse whisper. I now recite, verbatim, the unedited words he told me</text:span>:</text:p>
+   <text:p text:style-name="P147"><text:span text:style-name="T88"/></text:p>
+   <text:p text:style-name="P148"><text:soft-page-break/><text:span text:style-name="T88">&quot;The greatest day of my life? Oh, yeah, yeah, I gotcha, that was the day I met Vladimir &apos;Vova&apos; Tomasovitch Herdman, acclaimed author and close personal friend, you know, that one guy with the ginormous penis. You know, they say it&apos;s so big, he has to wrap it around himself like it&apos;s a belt</text:span><text:span text:style-name="T89">, that he once used it like a grappling hook</text:span><text:span text:style-name="T88">. Man, that guy really knows how to make me laugh. I be straight gigglin whenever he&apos;s around, kickin my feet and shi</text:span><text:span text:style-name="T89">ii like a &apos;lil schoolgirl</text:span><text:span text:style-name="T88">. Is this a safe space? If I&apos;m being honest here, I&apos;d suck that guy dry for a nickel, and that&apos;d be ME paying HIM for the privilege. I Really miss Vova, I haven&apos;t seen him ever since the incident. You know, they be callin him dime dick now, but not cause they&apos;re payin for it...&quot;</text:span></text:p>
    <text:p text:style-name="P146"/>
-   <text:p text:style-name="P149"><text:span text:style-name="T41">Ahem... As the above text shows irrefutably, Oliver Hendricks loves me, and would do anything to please me and make my day</text:span><text:span text:style-name="T77"> a little sunnier. But to be honest, just his presence alone brightens my world. And this is definitely, 100%, without a shadow of a doubt</text:span><text:span text:style-name="T50">—</text:span><text:span text:style-name="T77"> the exact words he spoke to me, unprompted.</text:span></text:p>
+   <text:p text:style-name="P149"><text:span text:style-name="T41">Ahem... As the above text shows irrefutably, Oliver Hendricks loves me, and would do anything to please me and make my day</text:span><text:span text:style-name="T76"> a little sunnier. But to be honest, just his presence alone brightens my world. And this is definitely, 100%, without a shadow of a doubt</text:span><text:span text:style-name="T49">—</text:span><text:span text:style-name="T76"> the exact words he spoke to me, unprompted.</text:span></text:p>
    <text:p text:style-name="P149"/>
    <text:p text:style-name="P150">Beyond that, Oliver later decided to attend College at...</text:p>
    <text:p text:style-name="P146"/>
-   <text:p text:style-name="P146"><text:span text:style-name="T86">Oh, just no more, please. I’ve </text:span><text:span text:style-name="T60">let out</text:span><text:span text:style-name="T86"> enough on him. I thought it’d be funny to make this and say it’s after him, </text:span><text:span text:style-name="T60">so that’s how this all started</text:span><text:span text:style-name="T86">.</text:span><text:span text:style-name="T77"> It&apos;s a joke of mine, so I hope it made someone laugh.</text:span></text:p>
+   <text:p text:style-name="P146"><text:span text:style-name="T85">Oh, just no more, please. I’ve </text:span><text:span text:style-name="T59">let out</text:span><text:span text:style-name="T85"> enough on him. I thought it’d be funny to make this and say it’s after him, </text:span><text:span text:style-name="T59">so that’s how this all started</text:span><text:span text:style-name="T85">.</text:span><text:span text:style-name="T76"> It&apos;s a joke of mine, so I hope it made someone laugh.</text:span></text:p>
    <text:p text:style-name="P145"/>
-   <text:p text:style-name="P146">If you’ve gotten this far, you <text:span text:style-name="T91">should</text:span> know even less about him<text:span text:style-name="T50">—</text:span><text:span text:style-name="T41"> </text:span><text:span text:style-name="T86">Keep it that way, he’s mine.</text:span></text:p>
+   <text:p text:style-name="P146">If you’ve gotten this far, you <text:span text:style-name="T90">should</text:span> know even less about him<text:span text:style-name="T49">—</text:span><text:span text:style-name="T41"> </text:span><text:span text:style-name="T85">Keep it that way, he’s mine.</text:span></text:p>
    <text:h text:style-name="P18" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc8138_1175081228"/><office:annotation office:name="__Annotation__7946_3499536570" loext:resolved="false">
      <dc:creator>Vladimir Herdman</dc:creator>
      <dc:date>2026-07-18T20:20:09.287968000</dc:date>
@@ -3182,7 +3844,7 @@
    <text:p text:style-name="P49">I don’t know how images work through Amazon KDP on the physical paperback print, so these are image tests for the first author copy to see if transparency works, or how to set up images. All the images are created from Krita, since I’ll be making the drawings in there and putting them in here, Rupi Kaur style.</text:p>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P49">Png background removed (transparent with an alpha channel)</text:p>
-   <text:p text:style-name="P49"><draw:frame draw:style-name="fr2" draw:name="Image5" text:anchor-type="char" svg:x="0.3244in" svg:y="0.1256in" svg:width="2in" svg:height="2in" draw:z-index="8"><draw:image xlink:href="images/test/png-transparent.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
+   <text:p text:style-name="P49"><draw:frame draw:style-name="fr3" draw:name="Image5" text:anchor-type="char" svg:x="0.3244in" svg:y="0.1256in" svg:width="2in" svg:height="2in" draw:z-index="8"><draw:image xlink:href="images/test/png-transparent.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P49"/>
@@ -3195,7 +3857,7 @@
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P151">Png bg removed with text overtop</text:p>
-   <text:p text:style-name="P151"><draw:frame draw:style-name="fr2" draw:name="Image5 Copy 1" text:anchor-type="char" svg:x="0.1665in" svg:y="0.1028in" svg:width="2in" svg:height="2in" draw:z-index="4"><draw:image xlink:href="images/test/png-transparent.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
+   <text:p text:style-name="P151"><draw:frame draw:style-name="fr3" draw:name="Image5 Copy 1" text:anchor-type="char" svg:x="0.1665in" svg:y="0.1028in" svg:width="2in" svg:height="2in" draw:z-index="4"><draw:image xlink:href="images/test/png-transparent.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P151"/>
    <text:p text:style-name="P151">This is me testing the transparency of </text:p>
@@ -3208,7 +3870,7 @@
    <text:p text:style-name="P153">IMAGE FILTER NOT FOUND, COULDNT INSERT NO BG WEBP</text:p>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P49">png with a white background</text:p>
-   <text:p text:style-name="P49"><draw:frame draw:style-name="fr4" draw:name="Image6" text:anchor-type="char" svg:x="0.2327in" svg:y="0.1417in" svg:width="2in" svg:height="2in" draw:z-index="9"><draw:image xlink:href="images/test/png-whitebg.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
+   <text:p text:style-name="P49"><draw:frame draw:style-name="fr6" draw:name="Image6" text:anchor-type="char" svg:x="0.2327in" svg:y="0.1417in" svg:width="2in" svg:height="2in" draw:z-index="9"><draw:image xlink:href="images/test/png-whitebg.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P49"/>
@@ -3220,9 +3882,9 @@
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P49"/>
-   <text:p text:style-name="P154">png with a white background<text:span text:style-name="T92"> and text overtop</text:span></text:p>
+   <text:p text:style-name="P154">png with a white background<text:span text:style-name="T91"> and text overtop</text:span></text:p>
    <text:p text:style-name="P154"/>
-   <text:p text:style-name="P151"><draw:frame draw:style-name="fr2" draw:name="Image6 Copy 1" text:anchor-type="char" svg:x="0.2327in" svg:y="-0.0028in" svg:width="2in" svg:height="2in" draw:z-index="2"><draw:image xlink:href="images/test/png-whitebg.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
+   <text:p text:style-name="P151"><draw:frame draw:style-name="fr3" draw:name="Image6 Copy 1" text:anchor-type="char" svg:x="0.2327in" svg:y="-0.0028in" svg:width="2in" svg:height="2in" draw:z-index="2"><draw:image xlink:href="images/test/png-whitebg.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame>this is me testing if text still appears here</text:p>
    <text:p text:style-name="P151">while &quot;on top&quot; of the png with a white background image.</text:p>
    <text:p text:style-name="P151">The images was sent to back, and in the</text:p>
@@ -3231,7 +3893,7 @@
    <text:p text:style-name="P151">text completely.</text:p>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P155">Png with a white background and text &quot;beneath&quot;</text:p>
-   <text:p text:style-name="P49"><draw:frame draw:style-name="fr2" draw:name="Image6 Copy 1 Copy 1" text:anchor-type="char" svg:x="0.2327in" svg:y="0.1272in" svg:width="2in" svg:height="2in" draw:z-index="10"><draw:image xlink:href="images/test/png-whitebg.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
+   <text:p text:style-name="P49"><draw:frame draw:style-name="fr3" draw:name="Image6 Copy 1 Copy 1" text:anchor-type="char" svg:x="0.2327in" svg:y="0.1272in" svg:width="2in" svg:height="2in" draw:z-index="10"><draw:image xlink:href="images/test/png-whitebg.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P151">The images was brought to the front,</text:p>
    <text:p text:style-name="P151">and text should be &quot;beneath it now.</text:p>
@@ -3245,7 +3907,7 @@
    <text:p text:style-name="P154"/>
    <text:p text:style-name="P49">jpeg with a white background</text:p>
    <text:p text:style-name="P49"/>
-   <text:p text:style-name="P49"><draw:frame draw:style-name="fr2" draw:name="Image7" text:anchor-type="char" svg:x="0.3244in" svg:y="0in" svg:width="2in" svg:height="2in" draw:z-index="11"><draw:image xlink:href="images/test/jpg-whitebg.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
+   <text:p text:style-name="P49"><draw:frame draw:style-name="fr3" draw:name="Image7" text:anchor-type="char" svg:x="0.3244in" svg:y="0in" svg:width="2in" svg:height="2in" draw:z-index="11"><draw:image xlink:href="images/test/jpg-whitebg.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P49"/>
@@ -3257,14 +3919,14 @@
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="P151">Jpeg with a white bg and text on top</text:p>
-   <text:p text:style-name="P49"><draw:frame draw:style-name="fr2" draw:name="Image7 Copy 1" text:anchor-type="char" svg:x="0.4028in" svg:y="0.1425in" svg:width="1.0508in" svg:height="1.0508in" draw:z-index="1"><draw:image xlink:href="images/test/jpg-whitebg.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
+   <text:p text:style-name="P49"><draw:frame draw:style-name="fr3" draw:name="Image7 Copy 1" text:anchor-type="char" svg:x="0.4028in" svg:y="0.1425in" svg:width="1.0508in" svg:height="1.0508in" draw:z-index="1"><draw:image xlink:href="images/test/jpg-whitebg.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P151">My text should be on top</text:p>
    <text:p text:style-name="P151">of this image.</text:p>
    <text:p text:style-name="P152"/>
    <text:p text:style-name="P49"/>
    <text:p text:style-name="Poetry_20_Text">webp with a white background</text:p>
-   <text:p text:style-name="Poetry_20_Text"><draw:frame draw:style-name="fr2" draw:name="Image8" text:anchor-type="char" svg:x="0.3126in" svg:y="0in" svg:width="1.5783in" svg:height="1.5783in" draw:z-index="12"><draw:image xlink:href="images/test/webp-whitebg.webp" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
+   <text:p text:style-name="Poetry_20_Text"><draw:frame draw:style-name="fr3" draw:name="Image8" text:anchor-type="char" svg:x="0.3126in" svg:y="0in" svg:width="1.5783in" svg:height="1.5783in" draw:z-index="12"><draw:image xlink:href="images/test/webp-whitebg.webp" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P151"/>
    <text:p text:style-name="P151"/>
@@ -3274,7 +3936,7 @@
    <text:p text:style-name="P151"/>
    <text:p text:style-name="P151"/>
    <text:p text:style-name="P151">webp with a white bg and text on top</text:p>
-   <text:p text:style-name="P151"><draw:frame draw:style-name="fr2" draw:name="Image8 Copy 1" text:anchor-type="char" svg:x="0.3126in" svg:y="0in" svg:width="1.5783in" svg:height="1.5783in" draw:z-index="0"><draw:image xlink:href="images/test/webp-whitebg.webp" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
+   <text:p text:style-name="P151"><draw:frame draw:style-name="fr3" draw:name="Image8 Copy 1" text:anchor-type="char" svg:x="0.3126in" svg:y="0in" svg:width="1.5783in" svg:height="1.5783in" draw:z-index="0"><draw:image xlink:href="images/test/webp-whitebg.webp" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:mime-type="image/png"/>
     </draw:frame></text:p>
    <text:p text:style-name="P151">This is some text that may or may</text:p>
    <text:p text:style-name="P151">not appear on top of the webp</text:p>
